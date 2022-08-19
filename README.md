@@ -2,6 +2,8 @@
 Welcome to DRML, the DRM Library! Here you'll find my various research, notes, and random information about various kinds of DRM, and DRM tangential information.
 
 This library is made in tandem with my work on [BurnOutSharp](https://github.com/mnadareski/BurnOutSharp), which is where the more exact details of how these DRM schemes can be detected will continue to be found.
+There is a heavy skew toward optical media DRM due it's prevalence, (relative) ease to catalogue, and the importance of knowing what DRM is being used in order to be properly archived.
+That being said, any form of DRM that can be consistently detected is considered to be in-scope, though some protections may not be fully covered for several reasons, such as CSS/AACS, which is documented in depth in a multitude of other places. 
 
 DRML itself is licensed under [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/), which of course does *not* extend to anything linked in this library. Anything linked is referenced for further research or as a citation only. Also of note, ANY AND ALL LINKED RESOURCES, ESPECIALLY (BUT NOT ONLY) EXECUTABLES, ARE NOT GUARANTEED TO BE SAFE. Although I'll do my best to specifically warn if anything seems especially dodgy, any and all external resources should be treated with care and not be explicitly trusted.
 
@@ -33,3 +35,11 @@ DRML itself is licensed under [CC0](https://creativecommons.org/share-your-work/
 * [ProtectionID](https://web.archive.org/web/20210331144912/https://protectionid.net/) - Development currently stopped, closed-source, but generally considered the most complete option at the moment. Includes the ability to scan for the presence of DRM via sector scanning, and not just filesystem checks. [Download](https://web.archive.org/web/20180909104700/https://pid.wiretarget.com/?f=ProtectionId.690.December.2017.rar).
 ## Glossaries
 * "Glossary of protection features used by DRM." (TODO)
+## Lists of copy protected optical media
+Useful copy protection lists:
+* http://cpdb.kemuri-net.com/ 
+* https://web.archive.org/web/20170222085203/http://forum.daemon-tools.cc/gamedb.php?letter=all
+* https://web.archive.org/web/20191230172450/http://nocccd.noihjp.com/Problems.php
+* https://web.archive.org/web/20210331144912/https://protectionid.net/
+* http://www12.plala.or.jp/t2-bun/
+* http://redump.org/discs/quicksearch/EXAMPLE/protection/only (NOTE: You have to manually replace "EXAMPLE" in the URL with what you want to search for).
