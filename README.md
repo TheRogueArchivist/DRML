@@ -36,10 +36,11 @@ DRML itself is licensed under [CC0](https://creativecommons.org/share-your-work/
 ## Glossaries
 * "Glossary of protection features used by DRM." (TODO)
 ## Lists of copy protected optical media
-Useful copy protection lists:
 * http://cpdb.kemuri-net.com/ 
 * https://web.archive.org/web/20170222085203/http://forum.daemon-tools.cc/gamedb.php?letter=all
 * https://web.archive.org/web/20191230172450/http://nocccd.noihjp.com/Problems.php
 * https://web.archive.org/web/20210331144912/https://protectionid.net/
 * http://www12.plala.or.jp/t2-bun/
 * http://redump.org/discs/quicksearch/EXAMPLE/protection/only (NOTE: You have to manually replace "EXAMPLE" in the URL with what you want to search for).
+## Lists of copy protected digital media
+* http://green.ribbon.to/~erog/GIGA/Acti.html (Japanese, focused on online activation DRM)
