@@ -7,6 +7,12 @@ That being said, any form of DRM that can be consistently detected is considered
 
 DRML itself is licensed under [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/), which of course does *not* extend to anything linked in this library. Anything linked is referenced for further research or as a citation only. Also of note, ANY AND ALL LINKED RESOURCES, ESPECIALLY (BUT NOT ONLY) EXECUTABLES, ARE NOT GUARANTEED TO BE SAFE. Although I'll do my best to specifically warn if anything seems especially dodgy, any and all external resources should be treated with care and not be explicitly trusted.
 
+## Disclaimer
+All information contained in this project is published for general information purposes only and in good faith.
+Any trademarks mentioned here are registered or copyrighted by their respective owners.
+I make no warranties about the completeness, correctness, accuracy and reliability of the information contained in this project.
+This project is provided "AS IS" without warranty of any kind.
+Any action you take upon the information you find on this document is strictly at your own risk. Under no circumstances will I be held responsible or liable in any way for any damages, losses, costs, or liabilities whatsoever resulting or arising directly or indirectly from your use of this project. You alone are fully responsible for your actions.
 
 # Guides
 * "How to detect PC DRM in optical media." (TODO)
