@@ -43,6 +43,8 @@ Any action you take upon the information you find on this document is strictly a
 * "Glossary of protection features used by DRM." (TODO)
 ## Lists of copy protected optical media
 * http://cpdb.kemuri-net.com/ 
+* [Official list of music CDs with the XCP copy protection](https://web.archive.org/web/20071012024250/http://cp.sonybmg.com/xcp/english/titles.html)
+* ["List of compact discs sold with MediaMax CD-3" (From Wikipedia)](https://en.m.wikipedia.org/wiki/List_of_compact_discs_sold_with_MediaMax_CD-3)
 * https://web.archive.org/web/20170222085203/http://forum.daemon-tools.cc/gamedb.php?letter=all
 * https://web.archive.org/web/20191230172450/http://nocccd.noihjp.com/Problems.php
 * https://web.archive.org/web/20050407205157/http://www.cdlogo.nl/cd-beveiliging/pagina.asp?pagkey=23577&formposted=yes&formname=docsearch23577&templateid=10&fullsearchtemplate=10&fullsearchvalue=%25 (List of copy protected music CDs from the Netherlands).
