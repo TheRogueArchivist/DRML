@@ -45,6 +45,7 @@ Any action you take upon the information you find on this document is strictly a
 * http://cpdb.kemuri-net.com/ 
 * https://web.archive.org/web/20170222085203/http://forum.daemon-tools.cc/gamedb.php?letter=all
 * https://web.archive.org/web/20191230172450/http://nocccd.noihjp.com/Problems.php
+* https://web.archive.org/web/20050407205157/http://www.cdlogo.nl/cd-beveiliging/pagina.asp?pagkey=23577&formposted=yes&formname=docsearch23577&templateid=10&fullsearchtemplate=10&fullsearchvalue=%25 (List of copy protected music CDs from the Netherlands).
 * https://web.archive.org/web/20210331144912/https://protectionid.net/
 * http://www12.plala.or.jp/t2-bun/
 * http://redump.org/discs/quicksearch/EXAMPLE/protection/only (NOTE: You have to manually replace "EXAMPLE" in the URL with what you want to search for).
