@@ -21,8 +21,8 @@ Any action you take upon the information you find on this document is strictly a
 # Library
 ## Anti-Cheat
 ### TODO
-## Copy Protection
-### TODO
+## Optical Copy Protection
+### [Bitpool](./Bitpool.md)
 ## Packers
 ### TODO
 
@@ -52,5 +52,6 @@ Any action you take upon the information you find on this document is strictly a
 * https://web.archive.org/web/20210331144912/https://protectionid.net/
 * http://www12.plala.or.jp/t2-bun/
 * http://redump.org/discs/quicksearch/EXAMPLE/protection/only (NOTE: You have to manually replace "EXAMPLE" in the URL with what you want to search for).
+* http://fileforums.com/forumdisplay.php?f=37
 ## Lists of copy protected digital media
 * http://green.ribbon.to/~erog/GIGA/Acti.html (Japanese, focused on online activation DRM)
