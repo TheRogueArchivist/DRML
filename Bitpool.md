@@ -48,6 +48,9 @@ Copy Prevention; Padded/Dummy Files; Misleading Tracks; C2 Errors [TODO: Verify 
 ### Minimum Required Image Format to Run:
 ISO (Assuming no active checks in place, needs to be double checked).
 
+### Detection Related Information:
+https://github.com/mnadareski/BurnOutSharp/blob/master/BurnOutSharp/ProtectionType/Bitpool.cs
+
 ### Preservation Instructions:
 [TODO]
 
