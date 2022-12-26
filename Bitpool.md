@@ -29,10 +29,12 @@ Redump entries
 [35476](http://redump.org/disc/35476),
 [35480](http://redump.org/disc/35480),
 [44976](http://redump.org/disc/44976),
-[48276](http://redump.org/disc/48276), [50229](http://redump.org/disc/50229), 
-[51376](http://redump.org/disc/51376), [52626](http://redump.org/disc/52626), 
-[67046](http://redump.org/disc/67046),
-[68160](http://redump.org/disc/68160),
+[48276](http://redump.org/disc/48276), 
+[50229](http://redump.org/disc/50229), 
+[51376](http://redump.org/disc/51376), 
+[52626](http://redump.org/disc/52626), 
+[67046](http://redump.org/disc/67046), and 
+[68160](http://redump.org/disc/68160).
 
 #### Unconfirmed:
 [All Redump entries listed as having Bitpool as a protection.](http://redump.org/discs/quicksearch/bitpool/protection/only)
