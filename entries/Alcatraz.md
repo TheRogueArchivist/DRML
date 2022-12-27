@@ -1,6 +1,6 @@
 ### Names: 
 
-Alcatraz[^1]
+Alcatraz[^1], Alkatraz[^6]
 
 ### Developers:
 
@@ -67,6 +67,8 @@ There were some informational PDFs present on the site, which were removed at th
 * [CDRInfo article about Alcatraz.](https://cdrinfo.com/d7/content/alcatraz-copy-protection)
 * [Timeline of kdg history.](https://www.kdg.at/kdg-campus/)
 * [Czech list of copy protections that includes a brief description of Alcatraz.](https://www.fi.muni.cz/usr/jkucera/pv109/2003/xnovosad.htm)
+* [Forum post that briefly mentions "Alkatraz".](https://www.indiastudychannel.com/experts/4307-Copy-protected-cd)
+* [Journal paper about DRM that briefly mentions "Alkatraz".](https://arxiv.org/pdf/0911.0402)
 
 ### Footnotes:
 
@@ -75,3 +77,4 @@ There were some informational PDFs present on the site, which were removed at th
 [^3]: https://web.archive.org/web/20091111022912/http://www.kdg-mt.com/1/product_d_6.html
 [^4]: https://cdrinfo.com/d7/content/alcatraz-copy-protection
 [^5]: https://web.archive.org/web/20040805061923/http://www.kdg-mt.com:80/1/product_d_6.html
+[^6]: Unofficial/Incorrect name used in a few places (https://arxiv.org/pdf/0911.0402 and https://www.indiastudychannel.com/experts/4307-Copy-protected-cd). It's worth noting that "Alkatraz" is also the proper name of a copy protection for the Amstrad CPC.
