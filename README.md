@@ -22,7 +22,7 @@ Any action you take upon the information you find on this document is strictly a
 ## Anti-Cheat
 ### TODO
 ## Optical Copy Protection
-### [Bitpool](./Bitpool.md)
+### [Bitpool](./entries/Bitpool.md)
 ## Packers
 ### TODO
 
