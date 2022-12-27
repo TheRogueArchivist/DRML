@@ -51,7 +51,7 @@ Any mention of these additional protection levels was removed from the product p
 
 ### Overall Description:
 
-Alcatraz was a CD copy protection. No discs are known to have actually used this, though it's significant lifespan online means that it's a distinct possibility that it was used at some point. Because of the limited information available, it's unknown exactly what methods of protection would have been used. It's doubly unknown what the exact difference in protection levels was.
+Alcatraz was a CD copy protection. No discs are known to have actually used this, though its significant lifespan online means that it's a distinct possibility that it was used at some point. Because of the limited information available, it's unknown exactly what methods of protection would have been used. It's doubly unknown what the exact difference in protection levels was.
 
 There were some informational PDFs present on the site, which were removed at the same time as the reference to multiple protection levels was removed. Unfortunately, only one of these appears to have been archived.
 
