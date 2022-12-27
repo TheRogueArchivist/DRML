@@ -54,6 +54,8 @@ Any mention of these additional protection levels was removed from the product p
 
 Alcatraz was a CD copy protection. No discs are known to have actually used this, though it's significant lifespan online means that it's a distinct possibility that it was used at some point. Because of the limited information available, it's unknown exactly what methods of protection would have been used. It's doubly unknown what the exact difference in protection levels was.
 
+There were some informational PDFs present on the site, which were removed at the same time as the reference to multiple protection levels was removed. Unfortunately, only one of these appears to have been archived.
+
 [TODO: Find older official material, as the only official material currently known is from 2003 onward.]
 
 ### Additional Resources & Documentation:
@@ -64,6 +66,7 @@ Alcatraz was a CD copy protection. No discs are known to have actually used this
 * [Alcatraz promotional material.](https://web.archive.org/web/20040416164237/http://www.kdg-mt.com/downloads/1/al.pdf)
 * [CDRInfo article about Alcatraz.](https://cdrinfo.com/d7/content/alcatraz-copy-protection)
 * [Timeline of kdg history.](https://www.kdg.at/kdg-campus/)
+* [Czech list of copy protections that includes a brief description of Alcatraz.](https://www.fi.muni.cz/usr/jkucera/pv109/2003/xnovosad.htm)
 
 ### Footnotes:
 
