@@ -17,26 +17,25 @@ The original version of Alcatraz is described as being an in-house CD-R protecti
 From at least 2000 onward, it seems to be described as being a CD-ROM protection scheme, initially with four distinct levels of protection being advertised.[^4]
 
 Official description of the various protection levels[^1]:
-```
-Level 1: Auf der untersten Ebene wirkt der von kdg entwickelte Kopierschutz wie eine Kopierhürde. Das heißt: Level 1 erschwert das Kopieren auf eine 74 min CD-R. Dieser Kopierschutz empfiehlt sich beispielsweise für Massenprodukte mit einem relativ kurzen Produktlebenszyklus.
 
-Level 2: erschwert das Lesen und Kopieren mit Standardkopierprogrammen. Dieser Kopierschutz ist für Zweit- oder Nachfolgeauflagen eines (auch bei Freaks begehrten) CD-Rom-Produktes empfehlenswert.
+> Level 1: Auf der untersten Ebene wirkt der von kdg entwickelte Kopierschutz wie eine Kopierhürde. Das heißt: Level 1 erschwert das Kopieren auf eine 74 min CD-R. Dieser Kopierschutz empfiehlt sich beispielsweise für Massenprodukte mit einem relativ kurzen Produktlebenszyklus.
+>
+> Level 2: erschwert das Lesen und Kopieren mit Standardkopierprogrammen. Dieser Kopierschutz ist für Zweit- oder Nachfolgeauflagen eines (auch bei Freaks begehrten) CD-Rom-Produktes empfehlenswert.
+>
+> Level 3a: Richtet sich gegen professionelle Piraterie; Raubkopien von CDs mit Level 3 Schutz sind unbenützbar. Die Applikation kann selbständig prüfen und erkennen, ob der Anwender mit einer legalen oder illegalen Kopie arbeitet.
+>
+> Level 3b: Dieser Kopierschutz wird im Zuge des Premastering als "Schutzmantel" über die eigentliche Applikation gelegt. Dadurch werden Installation und Start der Applikation von einer illegalen Kopie erschwert oder verhindert. Die Reaktionsmuster bei einem "illegalen" Startversuch reichen von einfacher Warnung bis hin zum Absturz.
 
-Level 3a: Richtet sich gegen professionelle Piraterie; Raubkopien von CDs mit Level 3 Schutz sind unbenützbar. Die Applikation kann selbständig prüfen und erkennen, ob der Anwender mit einer legalen oder illegalen Kopie arbeitet.
-
-Level 3b: Dieser Kopierschutz wird im Zuge des Premastering als "Schutzmantel" über die eigentliche Applikation gelegt. Dadurch werden Installation und Start der Applikation von einer illegalen Kopie erschwert oder verhindert. Die Reaktionsmuster bei einem "illegalen" Startversuch reichen von einfacher Warnung bis hin zum Absturz.
-```
 
 English translation[^4]:
-```
-Level 1: At the lowest level, the copy protection system developed by kdg acts as a copy prevention facility. In other words: Level 1 makes it difficult to copy product on to a 74 min CD-R. This kind of copy protection is ideal for applications such as mass products with a relatively short product life cycle.
 
-Level 2: Prevents reading and copying using standard copy programs. This level of copy protection is recommended for second or further editions of a CD-ROM product (particularly when sought after by enthusiasts).
-
-Level 3a: Is targeted against professional piracy; pirate copies of Level 3 protected CDs are unusable. This application can independently test and recognise whether the user is working with a legal or unauthorised copy.
-
-Level 3b: This form of copy protection comes in the form of a "protective layer" wrapped round the application during the pre-mastering stage. It inhibits or completely prevents the installation and start of the application if this is based on an illegal copy. Responses activated by an "illegal" start attempt range from a simple warning message through to a system crash and even right down to re-formatting of the disc drive..." 
-```
+> Level 1: At the lowest level, the copy protection system developed by kdg acts as a copy prevention facility. In other words: Level 1 makes it difficult to copy product on to a 74 min CD-R. This kind of copy protection is ideal for applications such as mass products with a relatively short product life cycle.
+>
+> Level 2: Prevents reading and copying using standard copy programs. This level of copy protection is recommended for second or further editions of a CD-ROM product (particularly when sought after by enthusiasts).
+>
+> Level 3a: Is targeted against professional piracy; pirate copies of Level 3 protected CDs are unusable. This application can independently test and recognise whether the user is working with a legal or unauthorised copy.
+>
+> Level 3b: This form of copy protection comes in the form of a "protective layer" wrapped round the application during the pre-mastering stage. It inhibits or completely prevents the installation and start of the application if this is based on an illegal copy. Responses activated by an "illegal" start attempt range from a simple warning message through to a system crash and even right down to re-formatting of the disc drive..." 
 
 It's worth noting that although the English translation mentions "re-formatting of the disc drive", there is no mention of that in the original German (assuming it wasn't present in older material before being removed for obvious reasons).
 
