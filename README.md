@@ -27,7 +27,7 @@ Any action you take upon the information you find on this document is strictly a
 ### TODO
 ## Unknown / No Samples
 ### [Alcatraz](./entries/Alcatraz.md)
-### [Roxxe](./Roxxe.md)
+### [Roxxe](./entries/Roxxe.md)
 
 
 # Addenda
