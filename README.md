@@ -23,6 +23,7 @@ Any action you take upon the information you find on this document is strictly a
 ### TODO
 ## Optical Copy Protection
 ### [Bitpool](./entries/Bitpool.md)
+### [Cenega ProtectDVD](./entries/Cenega_ProtectDVD.md)
 ## Packers
 ### TODO
 ## Unknown / No Samples
