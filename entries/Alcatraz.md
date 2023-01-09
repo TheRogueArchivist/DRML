@@ -16,6 +16,8 @@ The original version of Alcatraz is described as being an in-house CD-R protecti
 
 From at least 2000 onward, it seems to be described as being a CD-ROM protection scheme, initially with four distinct levels of protection being advertised.[^4]
 
+There's reference to it being used for music CDs, but it's unknown if this is accurate, and if it's referring to standard CD-DA discs.[^7]
+
 Official description of the various protection levels[^1]:
 
 > Level 1: Auf der untersten Ebene wirkt der von kdg entwickelte Kopierschutz wie eine Kopierhürde. Das heißt: Level 1 erschwert das Kopieren auf eine 74 min CD-R. Dieser Kopierschutz empfiehlt sich beispielsweise für Massenprodukte mit einem relativ kurzen Produktlebenszyklus.
@@ -68,6 +70,7 @@ There were some informational PDFs present on the site, which were removed at th
 * [Czech list of copy protections that includes a brief description of Alcatraz.](https://www.fi.muni.cz/usr/jkucera/pv109/2003/xnovosad.htm)
 * [Forum post that briefly mentions "Alkatraz".](https://www.indiastudychannel.com/experts/4307-Copy-protected-cd)
 * [Journal paper about DRM that briefly mentions "Alkatraz".](https://arxiv.org/pdf/0911.0402)
+* [Blog post about DRM with a paragraph talking about Alcatraz.](https://www.hifiporadna.cz/jake-ochrany-obsahuji-hudebni-cd-a231)
 
 ### Footnotes:
 
@@ -77,3 +80,4 @@ There were some informational PDFs present on the site, which were removed at th
 [^4]: https://cdrinfo.com/d7/content/alcatraz-copy-protection
 [^5]: https://web.archive.org/web/20040805061923/http://www.kdg-mt.com:80/1/product_d_6.html
 [^6]: Unofficial/Incorrect name used in a few places (https://arxiv.org/pdf/0911.0402 and https://www.indiastudychannel.com/experts/4307-Copy-protected-cd). It's worth noting that "Alkatraz" is also the proper name of a copy protection for the Amstrad CPC.
+[^7]: https://www.hifiporadna.cz/jake-ochrany-obsahuji-hudebni-cd-a231
