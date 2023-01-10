@@ -50,13 +50,15 @@ Any action you take upon the information you find on this document is strictly a
 * http://cpdb.kemuri-net.com/ 
 * [Official list of music CDs with the XCP copy protection](https://web.archive.org/web/20071012024250/http://cp.sonybmg.com/xcp/english/titles.html)
 * ["List of compact discs sold with MediaMax CD-3" (From Wikipedia)](https://en.m.wikipedia.org/wiki/List_of_compact_discs_sold_with_MediaMax_CD-3)
-* https://web.archive.org/web/20170222085203/http://forum.daemon-tools.cc/gamedb.php?letter=all
+* [List of copy-protected games from the devs of Daemon Tools](https://web.archive.org/web/20170222085203/http://forum.daemon-tools.cc/gamedb.php?letter=all)
 * https://web.archive.org/web/20040816080838/http://forum.copybase.ch/de/index.php?showtopic=1624
 * https://web.archive.org/web/20191230172450/http://nocccd.noihjp.com/Problems.php
 * https://web.archive.org/web/20050407205157/http://www.cdlogo.nl/cd-beveiliging/pagina.asp?pagkey=23577&formposted=yes&formname=docsearch23577&templateid=10&fullsearchtemplate=10&fullsearchvalue=%25 (List of copy protected music CDs from the Netherlands).
-* https://web.archive.org/web/20210331144912/https://protectionid.net/
+* [Changelog for Protection ID, which includes specific details about multiple DRM](https://web.archive.org/web/20210331144912/https://protectionid.net/)
 * http://www12.plala.or.jp/t2-bun/
 * http://redump.org/discs/quicksearch/EXAMPLE/protection/only (NOTE: You have to manually replace "EXAMPLE" in the URL with what you want to search for).
 * http://fileforums.com/forumdisplay.php?f=37
+* [Australian website that has a list of copy-protected games](https://web.archive.org/web/20030226122451/http://www.users.bigpond.net.au/portmac/index.htm)
+* http://www.projectkaigo.org/grprotected.html
 ## Lists of copy protected digital media
 * http://green.ribbon.to/~erog/GIGA/Acti.html (Japanese, focused on online activation DRM)
