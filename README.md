@@ -21,9 +21,12 @@ Any action you take upon the information you find on this document is strictly a
 # Library
 ## Anti-Cheat
 ### TODO
+## Audio CD Protection
+### [MediaCloQ](./entries/MediaCloQ.md)
 ## Optical Copy Protection
 ### [Bitpool](./entries/Bitpool.md)
 ### [Cenega ProtectDVD](./entries/Cenega_ProtectDVD.md)
+### [MediaCloQ](./entries/MediaCloQ.md)
 ## Packers
 ### TODO
 ## Unknown / No Samples
