@@ -63,5 +63,6 @@ Any action you take upon the information you find on this document is strictly a
 * http://fileforums.com/forumdisplay.php?f=37
 * [Australian website that has a list of copy-protected games](https://web.archive.org/web/20030226122451/http://www.users.bigpond.net.au/portmac/index.htm)
 * http://www.projectkaigo.org/grprotected.html
+* [German copy protection database software (Possibly not final DB version)](https://web.archive.org/web/20020221142949/http://www.isis.de:80/members/~awenderh/tccd/TCCD26BDE.exe)
 ## Lists of copy protected digital media
 * http://green.ribbon.to/~erog/GIGA/Acti.html (Japanese, focused on online activation DRM)
