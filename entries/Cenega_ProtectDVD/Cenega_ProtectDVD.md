@@ -22,8 +22,6 @@ Cenega "Media verification" window present in Redump entries [31422](http://redu
 
 !["Cenega" - "Trwa weryfikacja nośnika. Proszę czekać…".](./Cenega_ProtectDVD_Media_Verification.png "Cenega 'Media Verification' Window")
 
-There is a disc that appears to contain an older, pre-2009 version that's present on Redump entry [31355](http://redump.org/disc/31355). Any differences in version are currently unknown, due to this entry being MIA.
-
 ### Known Samples: 
 
 #### Confirmed: 
@@ -36,7 +34,9 @@ There is a disc that appears to contain an older, pre-2009 version that's presen
 
 * [Venetica 1.02 (Polish)](https://fileforums.com/showthread.php?t=87754).
 * [Majesty 2 (Non-Steam)](https://www.shouldiremoveit.com/Majesty-2-41020-program.aspx).[^4]
-* [All Redump entries listed as having "ProtectDVD" as a protection.](http://redump.org/discs/quicksearch/protectdvd/protection/only).
+* [Myst Antologia (Polish) (Likely Erroneous)](http://redump.org/disc/31355/).
+* [Enemy Territory: Quake Wars (Płyta Dodatkowa) (Likely Erroneous)](http://redump.org/disc/23716/).
+* [All Redump entries listed as having "ProtectDVD" as a protection](http://redump.org/discs/quicksearch/protectdvd/protection/only).
 
 ### Categories: 
 
@@ -49,6 +49,10 @@ Virtual Drive Detection
 ### Minimum Required Image Format to Run:
 
 ISO (Confirmed to allow the games to begin in Redump entries [31422](http://redump.org/disc/31422) and [85070](http://redump.org/disc/85070/) when mounted as a SCSI virtual drive using Daemon Tools, gameplay not thoroughly tested. IA item ["speed-pack"](https://archive.org/details/speed-pack) is confirmed to pass the initial protection check when mounted to a physical drive using Daemon, but the game appears to crash before loading in. It is currently unknown if this is a game bug or an additional protection layer.)
+
+### Software Known to Detect:
+
+BurnOutSharp, ProtectionID
 
 ### Detection Related Information:
 
