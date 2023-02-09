@@ -22,16 +22,19 @@ Any action you take upon the information you find on this document is strictly a
 ## Anti-Cheat
 ### TODO
 ## Audio CD Protection
-### [MediaCloQ](./entries/MediaCloQ.md)
+### [MediaCloQ](./entries/MediaCloQ/MediaCloQ.md)
+## DRM Builder
+### [Freelock](./entries/Freelock/Freelock.md)
 ## Optical Copy Protection
-### [Bitpool](./entries/Bitpool.md)
-### [Cenega ProtectDVD](./entries/Cenega_ProtectDVD.md)
-### [MediaCloQ](./entries/MediaCloQ.md)
+### [Bitpool](./entries/Bitpool/Bitpool.md)
+### [Cenega ProtectDVD](./entries/Cenega_ProtectDVD/Cenega_ProtectDVD.md)
+### [Freelock](./entries/Freelock/Freelock.md)
+### [MediaCloQ](./entries/MediaCloQ/MediaCloQ.md)
 ## Packers
 ### TODO
 ## Unknown / No Samples
-### [Alcatraz](./entries/Alcatraz.md)
-### [Roxxe](./entries/Roxxe.md)
+### [Alcatraz](./entries/Alcatraz/Alcatraz.md)
+### [Roxxe](./entries/Roxxe/Roxxe.md)
 
 
 # Addenda
