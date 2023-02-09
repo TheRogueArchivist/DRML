@@ -123,14 +123,14 @@ An intentionally corrupt file used instead of the main executable in Freelock 1.
 
 ### Additional Resources & Documentation:
 
-* [Official site as indicated in "FREELOCK.TXT" in Freelock 1.0-1.2a (1999/10/01).](https://web.archive.org/web/19991001075001/http://www.geocities.com/SiliconValley/Code/6061/)
-* [Official site as indicated in "FREELOCK.TXT" in Freelock 1.0-1.2a (2000/08/22).](https://web.archive.org/web/20000822124542/http://www.geocities.com/SiliconValley/Code/6061/)
-* [Official site as indicated in "FREELOCK.TXT" in Freelock 1.3 (2001/08/1).](https://web.archive.org/web/20010801181527/http://www.geocities.com/freelock_psx/)
-* [Official instructions ("FREELOCK FOR DUMMIES") (1999/11/28).](https://web.archive.org/web/19991128071357/http://www.geocities.com/SiliconValley/Code/6061/instruct.htm)
-* [Official instructions (2000/01/18).](https://web.archive.org/web/20000118061405/http://www.geocities.com:80/SiliconValley/Code/6061/instruct.htm)
-* [Trademark infringement notice regarding the use of the phrase "For Dummies" (2000/10/17).](https://web.archive.org/web/20001017233343/http://www.geocities.com/SiliconValley/Code/6061/IDGBOOKS.htm)
-* [Freelock joke disclaimer (2001/04/11).](https://web.archive.org/web/20010411230821/http://www.geocities.com/SiliconValley/Code/6061/disclaimer.htm)
-* [List of sites that featured Freelock (2001/08/03).](https://web.archive.org/web/20010803222336/http://www.geocities.com/freelock_psx/links.htm)
+* [Official site as indicated in "FREELOCK.TXT" in Freelock 1.0-1.2a (1999-10-01).](https://web.archive.org/web/19991001075001/http://www.geocities.com/SiliconValley/Code/6061/)
+* [Official site as indicated in "FREELOCK.TXT" in Freelock 1.0-1.2a (2000-08-22).](https://web.archive.org/web/20000822124542/http://www.geocities.com/SiliconValley/Code/6061/)
+* [Official site as indicated in "FREELOCK.TXT" in Freelock 1.3 (2001-08-01).](https://web.archive.org/web/20010801181527/http://www.geocities.com/freelock_psx/)
+* [Official instructions ("FREELOCK FOR DUMMIES") (1999-11-28).](https://web.archive.org/web/19991128071357/http://www.geocities.com/SiliconValley/Code/6061/instruct.htm)
+* [Official instructions (2000-01-18).](https://web.archive.org/web/20000118061405/http://www.geocities.com:80/SiliconValley/Code/6061/instruct.htm)
+* [Trademark infringement notice regarding the use of the phrase "For Dummies" (2000-10-17).](https://web.archive.org/web/20001017233343/http://www.geocities.com/SiliconValley/Code/6061/IDGBOOKS.htm)
+* [Freelock joke disclaimer (2001-04-11).](https://web.archive.org/web/20010411230821/http://www.geocities.com/SiliconValley/Code/6061/disclaimer.htm)
+* [List of sites that featured Freelock (2001-08-03).](https://web.archive.org/web/20010803222336/http://www.geocities.com/freelock_psx/links.htm)
 * [Softpedia page for Freelock.](https://www.softpedia.com/get/CD-DVD-Tools/CD-DVD-Images-Utils/Freelock.shtml)
 * [CMW page that includes Freelock.](https://www.cdmediaworld.com/hardware/cdrom/cd_utils_3.shtml)
 * [Forum post discussing Freelock and how it can be used for VCDs/SVCDs.](https://forum.videohelp.com/threads/56579-How-to-copy-protect-a-VCD-SVCD-v2-0)
