@@ -46,11 +46,12 @@ Optical Copy Protection
 
 ### Protection Features:
 
-DMI [TODO: Verify]
+[TODO]
+IA item ["mafia_202106"](https://archive.org/details/mafia_202106) confirmed not to use DMI, as all DMI data from this disc is 00. DPM is next current suspicion.
 
 ### Minimum Required Image Format to Run:
 
-MDS (Assuming this protection uses DMI, currently unconfirmed). ISO is confirmed to not work on IA item ["speed-pack"](https://archive.org/details/speed-pack).
+MDS (Assuming this protection uses DPM, currently unconfirmed). ISO is confirmed to not work on IA items ["speed-pack"](https://archive.org/details/speed-pack) and ["mafia_202106"](https://archive.org/details/mafia_202106).
 
 ### Detection Related Information:
 
@@ -62,7 +63,7 @@ https://github.com/mnadareski/BurnOutSharp/blob/master/BurnOutSharp/ProtectionTy
 
 ### Overall Description:
 
-Cenega ProtectDVD is a Polish DVD copy protection created by the publisher Cenega. It appears to check for DMI (or something similar) to verify the authenticity of the disc. It also appears to have a trial-ware component, based on strings such as "Trial period will expire after one execution." present in "cenega.dll".
+Cenega ProtectDVD is a Polish DVD copy protection created by the publisher Cenega. It appears to check for DPM (or something similar) to verify the authenticity of the disc. It also appears to have a trial-ware component, based on strings such as "Trial period will expire after one execution." present in "cenega.dll".
 
 [TODO: Investigate exactly what's needed to get a protected game to run successfully.]
 
