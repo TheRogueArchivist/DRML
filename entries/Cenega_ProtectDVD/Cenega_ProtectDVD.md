@@ -14,8 +14,6 @@ Cenega[^1]
 
 There are two distinct versions that have been cataloged so far. One version displays a "Checking media" screen before attempting to start the game (Redump entries [31422](http://redump.org/disc/31422) and [85070](http://redump.org/disc/85070/)), and another displays an error message that says "Trwa weryfikacja nośnika. Proszę czekać…", which translates to "Media verification is in progress. Please wait…" (IA item ["speed-pack"](https://archive.org/details/speed-pack)).
 
-[TODO: Investigate what causes this error to occur, and what the "Media verification" screen checks for.]
-
 Cenega error window present in IA item ["speed-pack"](https://archive.org/details/speed-pack):
 
 !["Cenega" - "Virtual drive was detected please insert original disc in drive." - "Check disk" - "Cancel"](./Cenega_ProtectDVD_Error_Message.png "Cenega error window.")
@@ -46,12 +44,11 @@ Optical Copy Protection
 
 ### Protection Features:
 
-[TODO]
-IA item ["mafia_202106"](https://archive.org/details/mafia_202106) confirmed not to use DMI, as all DMI data from this disc is 00. DPM is next current suspicion.
+Virtual Drive Detection
 
 ### Minimum Required Image Format to Run:
 
-MDS (Assuming this protection uses DPM, currently unconfirmed). ISO is confirmed to not work on IA items ["speed-pack"](https://archive.org/details/speed-pack) and ["mafia_202106"](https://archive.org/details/mafia_202106).
+ISO (Confirmed to allow the games to begin in Redump entries [31422](http://redump.org/disc/31422) and [85070](http://redump.org/disc/85070/) when mounted as a SCSI virtual drive using Daemon Tools, gameplay not thoroughly tested. IA item ["speed-pack"](https://archive.org/details/speed-pack) is confirmed to pass the initial protection check when mounted to a physical drive using Daemon, but the game appears to crash before loading in. It is currently unknown if this is a game bug or an additional protection layer.)
 
 ### Detection Related Information:
 
@@ -59,13 +56,15 @@ https://github.com/mnadareski/BurnOutSharp/blob/master/BurnOutSharp/ProtectionTy
 
 ### Preservation Instructions:
 
-[TODO]
+A simple ISO dump of these games appears to suffice, as all the protection features currently known only detect virtual drive use. [TODO: Verify if (and if applicable, how) this DRM checks for burned discs.]
 
 ### Overall Description:
 
-Cenega ProtectDVD is a Polish DVD copy protection created by the publisher Cenega. It appears to check for DPM (or something similar) to verify the authenticity of the disc. It also appears to have a trial-ware component, based on strings such as "Trial period will expire after one execution." present in "cenega.dll".
+Cenega ProtectDVD is a Polish DVD copy protection created by the publisher Cenega. It verifies the authenticity of the disc through, at a minimum, virtual drive detection. In Redump entries [31422](http://redump.org/disc/31422) and [85070](http://redump.org/disc/85070/), mounting an ISO file as a SCSI virtual drive in Daemon Tools is seemingly enough to pass this check. A DT virtual drive doesn't work, and is presumably checked for by the DRM. Strangely, IDE virtual drives appear to crash the game at the protection check, though this doesn't appear to be an intentional protection feature. IA item ["speed-pack"](https://archive.org/details/speed-pack) specifically needs the ISO to be mounted to a physical drive in order to pass the protection check. It's currently unknown if this is enough to completely pass through the protection checks entirely, as the game crashes after the media check appears to complete in my personal testing. This crash occurs when the virtual drive is mounted to both SCSI and IDE.
 
-[TODO: Investigate exactly what's needed to get a protected game to run successfully.]
+It also appears to have a trial-ware component, based on strings such as "Trial period will expire after one execution." present in "cenega.dll". It is currently unknown if/when this is actually put to use, and further investigation on if they distributed trials of games online is needed.
+
+[TODO: Verify if (and if applicable, how) this DRM checks for burned discs.]
 
 ### Known Associated Files:
 
