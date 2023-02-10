@@ -1,6 +1,6 @@
 ### Names: 
 
-Freelock[^1], FREELOCK[^1]
+Freelock[^1], FREELOCK[^1], FreeLock[^6]
 
 ### Developers:
 
@@ -40,6 +40,10 @@ Copy Prevention; Misleading Tracks; Other Errors [TODO: Verify what kind of erro
 
 ### Minimum Required Image Format to Run:
 ISO (Assuming only the typical PSX data is needed) / CUE (Assuming multiple tracks contain actual audio/data)
+
+### Software Known to Detect:
+
+BurnOut[^6], BurnOutSharp[^7], 
 
 ### Detection Related Information:
 https://github.com/mnadareski/BurnOutSharp/blob/master/BurnOutSharp/ProtectionType/FreeLock.cs
@@ -144,3 +148,5 @@ An intentionally corrupt file used instead of the main executable in Freelock 1.
 [^3]: Possibly incomplete, put together via comparing the "FREELOCK.TXT" file present in 1.0 and 1.2.
 [^4]: Mentioned in the "FREELOCK.TXT" file present in version 1.3, personally confirmed.
 [^5]: Found in the "FREELOCK.TXT" file present in version 1.3.
+[^6]: https://www.softpedia.com/progChangelog/BurnOut-Changelog-103960.html
+[^7]: https://github.com/mnadareski/BurnOutSharp
