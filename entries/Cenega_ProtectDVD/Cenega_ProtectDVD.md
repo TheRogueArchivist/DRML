@@ -52,7 +52,7 @@ ISO (Confirmed to allow the games to begin in Redump entries [31422](http://redu
 
 ### Software Known to Detect:
 
-BurnOutSharp, ProtectionID
+BurnOut [^5], BurnOutSharp[^6], ProtectionID[^7]
 
 ### Detection Related Information:
 
@@ -105,3 +105,6 @@ Sections that are all consistently found within "cenega.dll".
 [^2]: [Redump entry 31355.](http://redump.org/disc/31355)
 [^3]: [Redump entry 31422.](http://redump.org/disc/31422)
 [^4]: The version of the game currently for sale on Steam has been checked and does not appear to have this DRM present.
+[^5]: https://www.softpedia.com/progChangelog/BurnOut-Changelog-103960.html
+[^6]: https://github.com/mnadareski/BurnOutSharp
+[^7]: https://web.archive.org/web/20210331144912/https://protectionid.net/
