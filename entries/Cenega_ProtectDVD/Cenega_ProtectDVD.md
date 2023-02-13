@@ -48,7 +48,7 @@ Virtual Drive Detection
 
 ### Minimum Required Image Format to Run:
 
-ISO (Confirmed to allow the games to begin in Redump entries [31422](http://redump.org/disc/31422) and [85070](http://redump.org/disc/85070/) when mounted as a SCSI virtual drive using Daemon Tools, gameplay not thoroughly tested. IA item ["speed-pack"](https://archive.org/details/speed-pack) is confirmed to pass the initial protection check when mounted to a physical drive using Daemon, but the game appears to crash before loading in. It is currently unknown if this is a game bug or an additional protection layer.)
+ISO[^8]
 
 ### Software Known to Detect:
 
@@ -64,7 +64,7 @@ A simple ISO dump of these games appears to suffice, as all the protection featu
 
 ### Overall Description:
 
-Cenega ProtectDVD is a Polish DVD copy protection created by the publisher Cenega. It verifies the authenticity of the disc through, at a minimum, virtual drive detection. In Redump entries [31422](http://redump.org/disc/31422) and [85070](http://redump.org/disc/85070/), mounting an ISO file as a SCSI virtual drive in Daemon Tools is seemingly enough to pass this check. A DT virtual drive doesn't work, and is presumably checked for by the DRM. Strangely, IDE virtual drives appear to crash the game at the protection check, though this doesn't appear to be an intentional protection feature. IA item ["speed-pack"](https://archive.org/details/speed-pack) specifically needs the ISO to be mounted to a physical drive in order to pass the protection check. It's currently unknown if this is enough to completely pass through the protection checks entirely, as the game crashes after the media check appears to complete in my personal testing. This crash occurs when the virtual drive is mounted to both SCSI and IDE.
+Cenega ProtectDVD is a Polish DVD copy protection created by the publisher Cenega. It verifies the authenticity of the disc through, at a minimum, virtual drive detection. In Redump entries [31422](http://redump.org/disc/31422) and [85070](http://redump.org/disc/85070/), mounting an ISO file as a SCSI virtual drive in Daemon Tools is seemingly enough to pass this check. A DT virtual drive doesn't work, and is presumably checked for by the DRM. Strangely, IDE virtual drives appear to crash the game at the protection check, though this doesn't appear to be an intentional protection feature. IA item ["speed-pack"](https://archive.org/details/speed-pack) specifically needs the ISO to be mounted to a physical drive in order to pass the protection check. This has been confirmed (but not by me) to be sufficient to allow the game to load at least in to the main game menu. Gameplay itself is untested.
 
 It also appears to have a trial-ware component, based on strings such as "Trial period will expire after one execution." present in "cenega.dll". It is currently unknown if/when this is actually put to use, and further investigation on if they distributed trials of games online is needed.
 
@@ -108,3 +108,4 @@ Sections that are all consistently found within "cenega.dll".
 [^5]: https://www.softpedia.com/progChangelog/BurnOut-Changelog-103960.html
 [^6]: https://github.com/mnadareski/BurnOutSharp
 [^7]: https://web.archive.org/web/20210331144912/https://protectionid.net/
+[^8]: ISO is confirmed to allow the games to begin in Redump entries [31422](http://redump.org/disc/31422) and [85070](http://redump.org/disc/85070/) when mounted as a SCSI virtual drive using Daemon Tools, gameplay not thoroughly tested. IA item ["speed-pack"](https://archive.org/details/speed-pack) is confirmed to pass the protection check into at least the main game menu when mounted specifically to a physical drive using Daemon Tools. Unlike the rest of the samples, using a SCSI virtual drive doesn't pass the protection check.
