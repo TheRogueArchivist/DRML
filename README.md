@@ -15,6 +15,8 @@ This project is provided "AS IS" without warranty of any kind.
 Any action you take upon the information you find on this document is strictly at your own risk. Under no circumstances will I be held responsible or liable in any way for any damages, losses, costs, or liabilities whatsoever resulting or arising directly or indirectly from your use of this project. You alone are fully responsible for your actions.
 
 # Guides
+
+* [What’s the Most Convenient Optical Image Format for Daily Use?](./Guides/Image_Formats.md)
 * "How to detect PC DRM in optical media." (TODO)
 
 
