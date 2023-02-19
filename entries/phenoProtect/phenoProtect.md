@@ -77,9 +77,14 @@ N/A.
 
 ### Media:
 
-1. [^15] !["Warning" - "phenoProtect not found on CD-ROM!](./phenoProtect_Error_English.png "English phenoProtect Error Message")
-2. [^15] !["Avertissement" - "PhenoProtect introuvable sur le disque!](./phenoProtect_Error_French.png "French phenoProtect Error Message")
-3. [^15] !["Warnung" - "phenoProtect wurde nicht auf der CD-ROM gefunden!](./phenoProtect_Error_German.png "German phenoProtect Error Message")
+1. English phenoProtect Error Message[^15]:  
+!["Warning" - "phenoProtect not found on CD-ROM!](./phenoProtect_Error_English.png "English phenoProtect Error Message")
+
+2. French phenoProtect Error Message[^15]:  
+!["Avertissement" - "PhenoProtect introuvable sur le disque!](./phenoProtect_Error_French.png "French phenoProtect Error Message")
+
+3. German phenoProtect Error Message[^15]:  
+!["Warnung" - "phenoProtect wurde nicht auf der CD-ROM gefunden!](./phenoProtect_Error_German.png "German phenoProtect Error Message")
 
 ### Additional Resources:
 
@@ -110,32 +115,32 @@ N/A.
 
 ### Footnotes:
 
-[^1]: Media #1.
+[^1]: See "English phenoProtect Error Message" (Media #1).
 
-[^2]: Media #2.
+[^2]: See "French phenoProtect Error Message" (Media #2).
 
-[^3]: Additional Resource #1.
+[^3]: [CD Media World page for phenoProtect. (Additional Resource #1)](https://www.cdmediaworld.com/hardware/cdrom/cd_protections_phenoprotect.shtml)
 
-[^4]: Additional Resource #3.
+[^4]: [Entry in German DRM list for "Carrera Grand Prix". (Additional Resource #3)](http://dl.seite.net/cgi-bin/baseportal.pl?htx=/clonecd/main&cmd=list&range=0,20&Titel~=C&cmd=all&Id=1003)
 
-[^5]: Additional Resource #4.
+[^5]: [World of Gothic forum post that mentions CodeCult and phenoProtect. (Additional Resource #4)](https://forum.worldofplayers.de/forum/threads/1551291-PB-Project-Zerberus/page3)
 
-[^6]: Additional Resource #9.
+[^6]: [FileForums forum post that briefly explains phenoProtect 2. (Additional Resource #9)](https://fileforums.com/archive/index.php/t-62914.html)
 
-[^7]: Additional Resource #13.
+[^7]: [List of DRM protected games from Daemon Tools that contains several phenoProtect games. (2017-02-22) (Additional Resource #13)](https://web.archive.org/web/20170222085203/http://forum.daemon-tools.cc/gamedb.php?letter=all)
 
-[^8]: Additional Resource #7.
+[^8]: [Website that lists "Another War" as containing phenoProtect. (Additional Resource #7)](https://www.uvlist.net/groups/info/phenoprotect)
 
-[^9]: Additional Resource #14.
+[^9]: [Redump entry for "Carrera Grand Prix", a game that contains phenoProtect. (Additional Resource #14)](http://redump.org/disc/84082)
 
-[^10]: Additional Resource #17.
+[^10]: [BurnOutSharp source code for detecting phenoProtect. (Additional Resource #17)](https://github.com/mnadareski/BurnOutSharp/blob/master/BurnOutSharp/ProtectionType/Phenoprotect.cs)
 
-[^11]: Additional Resource #18.
+[^11]: [GBATemp page for ClonnyXXL. (Additional Resource #18)](https://gbatemp.net/download/clonyxxl.37819/)
 
 [^12]: This has been confirmed personally, and is because phenoProtect checks for the bad sectors that aren't present in an ISO image.
 
-[^13]: Additional Resource #23.
+[^13]: [News report regarding Phenomedia AG's insolvency. (Additional Resource #23)](https://www.eqs-news.com/news/adhoc/phenomedia-ag-english/32173)
 
-[^14]: Additional Resource #24.
+[^14]: [Official Codecult press release regarding CodeCreatures' continued development post Phenomedia AG. (2003-02-28) (Additional Resource #24)](https://web.archive.org/web/20030228062718fw_/http://www.codecult.com/main.asp?page=Press_News_Show&id=20)
 
-[^15]: [Found in Redump entry 84082.](http://redump.org/disc/84082)
+[^15]: Found in [Redump entry 84082](http://redump.org/disc/84082).
