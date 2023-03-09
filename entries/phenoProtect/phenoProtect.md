@@ -105,7 +105,7 @@ N/A.
 15. [All Redump entries listed as having phenoProtect as a protection.](http://redump.org/discs/quicksearch/phenoProtect/protection/only)
 16. [DIC GitHub Readme that mentions phenoProtect.](https://github.com/saramibreak/DiscImageCreator)
 17. [BurnOutSharp source code for detecting phenoProtect.](https://github.com/mnadareski/BurnOutSharp/blob/master/BurnOutSharp/ProtectionType/Phenoprotect.cs)
-18. [GBATemp page for ClonnyXXL.](https://gbatemp.net/download/clonyxxl.37819/)
+18. [GBATemp page for ClonyXXL.](https://gbatemp.net/download/clonyxxl.37819/)
 19. [German Wikipedia article for Phenomedia (The English version simply redirects to the page for their most well-known game series, Moorhuhn).](https://de.wikipedia.org/wiki/Phenomedia)
 20. [Official Phenomedia AG website with news headlines regarding the company. (Mostly broken, the news links on the page are completely broken) (2002-06-06)](https://web.archive.org/web/20020606172205/http://www.phenomedia.com/neu/index.html)
 21. [Mobygames page that gives a timeline for the history of "phenomedia publishing gmbh".](https://www.mobygames.com/company/phenomedia-publishing-gmbh/history)
@@ -135,7 +135,7 @@ N/A.
 
 [^10]: [BurnOutSharp source code for detecting phenoProtect. (Additional Resource #17)](https://github.com/mnadareski/BurnOutSharp/blob/master/BurnOutSharp/ProtectionType/Phenoprotect.cs)
 
-[^11]: [GBATemp page for ClonnyXXL. (Additional Resource #18)](https://gbatemp.net/download/clonyxxl.37819/)
+[^11]: [GBATemp page for ClonyXXL. (Additional Resource #18)](https://gbatemp.net/download/clonyxxl.37819/)
 
 [^12]: This has been confirmed personally, and is because phenoProtect checks for the bad sectors that aren't present in an ISO image.
 
