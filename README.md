@@ -27,6 +27,8 @@ Any action you take upon the information you find on this document is strictly a
 ### [MediaCloQ](./entries/MediaCloQ/MediaCloQ.md)
 ## DRM Builder
 ### [Freelock](./entries/Freelock/Freelock.md)
+## Multimedia DRM
+### [PlayJ](./entries/PlayJ/PlayJ.md)
 ## Optical Copy Protection
 ### [Bitpool](./entries/Bitpool/Bitpool.md)
 ### [Cenega ProtectDVD](./entries/Cenega_ProtectDVD/Cenega_ProtectDVD.md)
