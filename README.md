@@ -22,7 +22,7 @@ Any action you take upon the information you find on this document is strictly a
 
 # Library
 ## Anti-Cheat
-### TODO
+### [Denuvo Anti-Cheat](./entries/Denuvo_Anti-Cheat/Denuvo_Anti-Cheat.md)
 ## Audio CD Protection
 ### [MediaCloQ](./entries/MediaCloQ/MediaCloQ.md)
 ## DRM Builder
