@@ -76,7 +76,10 @@ N/A
 
 #### Known Associated Files:
 
-"denuvo-anti-cheat.sys"[^6], "denuvo-anti-cheat-update-service.exe"[^6], "denuvo-anti-cheat-runtime.dll"[^6], and "Denuvo Anti-Cheat Installer.exe"[^6].
+* "denuvo-anti-cheat.sys"[^6]
+* "denuvo-anti-cheat-update-service.exe"[^6]
+* "denuvo-anti-cheat-runtime.dll"[^6]
+* "Denuvo Anti-Cheat Installer.exe"[^6]
 
 #### Known Associated Magic Numbers:
 
