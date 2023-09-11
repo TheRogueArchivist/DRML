@@ -83,6 +83,7 @@ N/A.
 ### Media:
 
 1. Error message when disc check fails for "Rayman Raving Rabbids 2"[^3]:
+
 !["Rayman Бешеные кролики 2: диск не найден!" - "Пожалуйста, поместите диск с игрой Rayman Бешеные кролики 2 в CD/DVD-привод." - "Retry" - "Cancel"](./engine32-rayman-error.png "Engine32 Error Message")
 
 ### Additional Resources:
