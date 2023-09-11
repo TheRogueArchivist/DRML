@@ -32,6 +32,7 @@ Any action you take upon the information you find on this document is strictly a
 ## Optical Copy Protection
 ### [Bitpool](./entries/Bitpool/Bitpool.md)
 ### [Cenega ProtectDVD](./entries/Cenega_ProtectDVD/Cenega_ProtectDVD.md)
+### [engine32](./entries/engine32/engine32.md)
 ### [Freelock](./entries/Freelock/Freelock.md)
 ### [MediaCloQ](./entries/MediaCloQ/MediaCloQ.md)
 ### [phenoProtect](./entries/phenoProtect/phenoProtect.md)
@@ -47,6 +48,7 @@ Any action you take upon the information you find on this document is strictly a
 * ["CD Cracking Uncovered: Protection Against Unsanctioned CD Copying" by Kris Kaspersky](https://archive.org/details/CDCrackingUncoveredProtectionAgainstUnsanctionedCDCopyingKrisKaspersky)
 * [CD Media World's "CD/DVD/Media Protections"](https://www.cdmediaworld.com/hardware/cdrom/cd_protections.shtml) (WARNING: Site contains *many* ads, some of which are suggestive and possibly NSFW, and aren't blocked by all ad-blockers)
 * [Collection of Copy Protected MDS Files](https://archive.org/details/collection-of-copy-protected-mds-files)
+* [Website that includes various technical papers, including several about reverse engineering DRM.](https://www.lucadamico.dev/)
 ## DRM Detection Tools
 ### Please note that all the software below is linked with absolutely no guarantees whatsoever. Although they are noted here, they have not all been investigated for malware, catasrophic bugs, and so on. Use with caution.
 * [A-Ray Scanner](https://web.archive.org/web/20050528202640/http://www.aray-software.com/index.php?showtopic=55) - Development long since halted, closed-source, but can detect a fair number of protections. Can also perform sector scanning.
