@@ -2,7 +2,7 @@
 
 Alcatraz[^Alcatraz_Product_Page_2003], Alkatraz[^Alkatraz_Usage]
 
-[^Alcatraz_Product_Page_2003]: [Official product page. (Archived 2003-10-11)](https://web.archive.org/web/20031011203913/http://www.kdg-mt.com/1/product_d_6.html)
+[^Alcatraz_Product_Page_2003]: [Alcatraz product page. (Archived 2003-10-11)](https://web.archive.org/web/20031011203913/http://www.kdg-mt.com/1/product_d_6.html)
 
 [^Alkatraz_Usage]: Unofficial/Incorrect name used in a few places, such as a forum post about CD copy protections[^Alkatraz_indiastudychannel] and a journal paper about DRM.[^Alkatraz_Arxiv] It's worth noting that "Alkatraz" is also the proper name of a copy protection for the Amstrad CPC.[^Alkatraz_Amstrad]
 
@@ -14,9 +14,15 @@ Alcatraz[^Alcatraz_Product_Page_2003], Alkatraz[^Alkatraz_Usage]
 
 ***
 
+### Categories: 
+
+Optical Copy Protection
+
+***
+
 ### Developers:
 
-kdg[^Alcatraz_Product_Page_2003]
+kdg mediatech[^Alcatraz_Product_Page_2003]
 
 ***
 
@@ -26,7 +32,7 @@ kdg[^Alcatraz_Product_Page_2003]
 
 [^kdg_Timeline]: [Timeline of kdg history. (Archived 2023-10-02)](https://web.archive.org/web/20231002191724/https://www.kdg.at/kdg-campus/)
 
-[^Alcatraz_Product_Page_2009]: [Official product page. (Archived 2009-11-11)](https://web.archive.org/web/20091111022912/http://www.kdg-mt.com/1/product_d_6.html)
+[^Alcatraz_Product_Page_2009]: [Alcatraz product page. (Archived 2009-11-11)](https://web.archive.org/web/20091111022912/http://www.kdg-mt.com/1/product_d_6.html)
 
 ***
 
@@ -65,7 +71,7 @@ Any mention of these additional protection levels was removed from the product p
 
 [^Alcatraz_CDRInfo]: [CDRInfo article about Alcatraz. (Archived 2023-10-02)](https://web.archive.org/web/20231002192828/https://cdrinfo.com/d7/content/alcatraz-copy-protection)
 
-[^Alcatraz_Product_Page_2004]: [Official product page. (Archived 2004-08-05)](https://web.archive.org/web/20040805061923/http://www.kdg-mt.com:80/1/product_d_6.html)
+[^Alcatraz_Product_Page_2004]: [Alcatraz product page. (Archived 2004-08-05)](https://web.archive.org/web/20040805061923/http://www.kdg-mt.com:80/1/product_d_6.html)
 
 [^Alcatraz_hifiporadna]: [Blog post about DRM with a paragraph talking about Alcatraz. (Archived 2023-10-02)](https://web.archive.org/web/20231002193931/https://www.hifiporadna.cz/jake-ochrany-obsahuji-hudebni-cd-a231)
 
@@ -80,10 +86,6 @@ Any mention of these additional protection levels was removed from the product p
 #### Unconfirmed: 
 
 N/A
-
-***
-
-### Categories: Optical Copy Protection
 
 ***
 
@@ -103,21 +105,33 @@ There were some informational PDFs present on the site, which were removed at th
 
 #### Official Resources:
 
-* [Official product page. (Archived 2003-10-11)](https://web.archive.org/web/20031011203913/http://www.kdg-mt.com/1/product_d_6.html)
-* [Official product page. (Archived 2004-08-05)](https://web.archive.org/web/20040805061923/http://www.kdg-mt.com:80/1/product_d_6.html)
-* [Official product page. (Archived 2009-11-11)](https://web.archive.org/web/20091111022912/http://www.kdg-mt.com/1/product_d_6.html)
+* [Alcatraz product page. (Archived 2003-10-11)](https://web.archive.org/web/20031011203913/http://www.kdg-mt.com/1/product_d_6.html)
+
+* [Alcatraz product page. (Archived 2004-08-05)](https://web.archive.org/web/20040805061923/http://www.kdg-mt.com:80/1/product_d_6.html)
+
+* [Alcatraz product page. (Archived 2009-11-11)](https://web.archive.org/web/20091111022912/http://www.kdg-mt.com/1/product_d_6.html)
+
 * [Alcatraz promotional material. (Archived 2004-04-16)](https://web.archive.org/web/20040416164237/http://www.kdg-mt.com/downloads/1/al.pdf)
 
 #### Unofficial Resources:
 
 * [CDRInfo article about Alcatraz. (Archived 2023-10-02)](https://web.archive.org/web/20231002192828/https://cdrinfo.com/d7/content/alcatraz-copy-protection)
+
 * [Timeline of kdg history. (Archived 2023-10-02)](https://web.archive.org/web/20231002191724/https://www.kdg.at/kdg-campus/)
+
 * [Czech list of copy protections that includes a brief description of Alcatraz. (Archived 2023-10-02)](https://web.archive.org/web/20231002194458/https://www.fi.muni.cz/usr/jkucera/pv109/2003/xnovosad.htm)
+
 * [Indiastudychannel forum post that briefly mentions "Alkatraz". (Archived 2023-10-02)](https://web.archive.org/web/20231002194853/https://www.indiastudychannel.com/experts/4307-Copy-protected-cd)
+
 * [Journal paper about DRM that briefly mentions "Alkatraz". (Archived 2023-10-02)](https://web.archive.org/web/20231002195309/https://arxiv.org/ftp/arxiv/papers/0911/0911.0402.pdf)
+
 * [Blog post about DRM with a paragraph talking about Alcatraz. (Archived 2023-10-02)](https://web.archive.org/web/20231002193931/https://www.hifiporadna.cz/jake-ochrany-obsahuji-hudebni-cd-a231)
+
+* [Robotz wiki page that lists Roxxe as a copy protection. (Archived 2023-10-02)](https://web.archive.org/web/20231002210557/http://wiki.robotz.com/index.php/CDROM_Copy_Protection_Technology) 
+
 * [Amstrad CPC wiki page about the Alkatraz DRM. (Wayback unable to archive page)](https://www.cpcwiki.eu/index.php?title=Howto:_Alkatraz_and_other_protections)
 
 ***
 
 ### Footnotes:
+
