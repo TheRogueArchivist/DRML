@@ -110,7 +110,7 @@ https://github.com/mnadareski/BurnOutSharp/blob/master/BinaryObjectScanner/Prote
 
 Freelock was a free DRM that allowed end-users to burn copy protected PSX CD-Rs. It accomplished this by adding additional dummy tracks (by default, one mode 1 and one mode 2 track) to an image before burning, and then attempting to use a corrupted file to burn to these tracks. This caused the write process to fail at the end, after the PSX data has already finished being burned. It also had an optional feature to instead overburn the disc to a total of 95 minutes as well, using random data in random types of tracks. All together, these features were intended to make it passively difficult for another person to copy the resulting CD-R.
 
-Official description of how it worked:[^Freelock_Description]
+Official description of how it worked[^Freelock_Description]:
 
 > Freelock alters the layout of a CD image prior to recording, making the
  resulting copy virtually impossible to duplicate.  This prevents most people
@@ -233,6 +233,12 @@ An intentionally corrupt file used instead of the main executable in Freelock 1.
 * [Changelog for BurnOut that shows it supporting "FreeLock". (Archived 2023-10-02)](https://web.archive.org/web/20231002225132/https://www.softpedia.com/progChangelog/BurnOut-Changelog-103960.html)
 
 * [BurnOutSharp's Freelock detection code.](https://github.com/mnadareski/BurnOutSharp/blob/master/BinaryObjectScanner/Protection/FreeLock.cs)
+
+***
+
+### Authors/Contributors:
+
+* TheRogueArchivist - Entry author.
 
 ***
 
