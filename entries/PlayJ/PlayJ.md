@@ -40,7 +40,7 @@ Encryption/Obfuscation of data[^13]; Internet connectivity
 
 ### Software Known to Detect:
 
-BurnOutSharp[^10]
+BinaryObjectScanner[^10]
 
 
 ### Preservation Instructions:
@@ -94,8 +94,8 @@ N/A
 17. [NY Times article about PlayJ.](https://archive.nytimes.com/www.nytimes.com/library/tech/00/07/biztech/articles/07digital-music.html)
 18. [Article about EverAd partnering with Launch.com.](https://www.dmnews.com/everad-launchcom-partner/)
 19. [Article about EverAd partnering with J Records.](https://www.internetnews.com/marketing/everads-playj-partners-with-j-records/)
-20. [BOS protection information for PlayJ.](https://github.com/mnadareski/BurnOutSharp/blob/master/BinaryObjectScanner.Protection/PlayJ.cs)
-21. [BOS PlayJ model data.](https://github.com/mnadareski/BurnOutSharp/blob/master/BinaryObjectScanner.Protection/PlayJ.cs)
+20. [BinaryObjectScanner protection information for PlayJ.](https://github.com/SabreTools/BinaryObjectScanner/blob/master/BinaryObjectScanner/Protection/PlayJ.cs)
+21. [SabreTools PlayJ model data.](https://github.com/SabreTools/SabreTools.Models/tree/main/PlayJ)
 22. [PlayJ page describing the launch of PlayJ.](https://web.archive.org/web/20000301013405/http://www.playj.com/digital_music.htm)
 23. [Wired article about PlayJ.](https://www.wired.com/2000/03/ads-take-aim-at-online-music/)
 24. [List of original PlayJ partners.](https://web.archive.org/web/20000229134632/http://www.playj.com/business_alliances.htm)
@@ -111,8 +111,8 @@ N/A
 [^7]: Found in TUCOWS Music and its various mirrors (Additional Resources #8-#16). Please note that not all songs seem to have been archived correctly, such as several that have seemingly been truncated to ~1 MB/MiB.
 [^8]: [NY Times article about PlayJ. (Additional Resource #17)](https://archive.nytimes.com/www.nytimes.com/library/tech/00/07/biztech/articles/07digital-music.html)
 [^9]: [Article about EverAd and Launch.com beginning a partnership. (Additional Resource #20)](https://www.dmnews.com/everad-launchcom-partner/)
-[^10]: [BOS protection information for PlayJ. (Additional Resource #20)](https://github.com/mnadareski/BurnOutSharp/blob/master/BinaryObjectScanner.Protection/PlayJ.cs)
-[^11]: [BOS PlayJ model data. (Additional Resource #21)](https://github.com/mnadareski/BurnOutSharp/blob/master/BinaryObjectScanner.Protection/PlayJ.cs)
+[^10]: [BinaryObjectScanner protection information for PlayJ. (Additional Resource #20)](https://github.com/SabreTools/BinaryObjectScanner/blob/master/BinaryObjectScanner/Protection/PlayJ.cs)
+[^11]: [SabreTools PlayJ model data. (Additional Resource #21)](https://github.com/SabreTools/SabreTools.Models/tree/main/PlayJ)
 [^12]: [PlayJ page describing the launch of PlayJ. (Additional Resource #22)](https://web.archive.org/web/20000301013405/http://www.playj.com/digital_music.htm)
 [^13]: [Wired article about PlayJ. (Additional Resource #23)](https://www.wired.com/2000/03/ads-take-aim-at-online-music/)
 [^14]: [PlayJ Studio Installer. (Additional Resource #6)](https://web.archive.org/web/20010417025347/http://dlp.playj.com:80/playj/PlayJIns266.exe)

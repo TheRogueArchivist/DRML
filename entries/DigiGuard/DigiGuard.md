@@ -82,15 +82,15 @@ File Copy
 
 ### Software Known to Detect:
 
-BurnOutSharp[^DigiGuard_BOS]
+BinaryObjectScanner[^DigiGuard_BOS]
 
-[^DigiGuard_BOS]: [BurnOutSharp's DigiGuard detection code.](https://github.com/mnadareski/BurnOutSharp/blob/master/BinaryObjectScanner/Protection/DigiGuard.cs)
+[^DigiGuard_BOS]: [BinaryObjectScanner's DigiGuard detection code.](https://github.com/SabreTools/BinaryObjectScanner/blob/master/BinaryObjectScanner/Protection/DigiGuard.cs)
 
 ***
 
 ### Detection Related Information:
 
-https://github.com/mnadareski/BurnOutSharp/blob/master/BinaryObjectScanner/Protection/DigiGuard.cs
+https://github.com/SabreTools/BinaryObjectScanner/blob/master/BinaryObjectScanner/Protection/DigiGuard.cs
 
 ***
 
@@ -228,7 +228,7 @@ N/A
 
 * [Internet Archive upload of "Dell Software Center: The Big WIG DVD Keeper".](https://archive.org/details/Nova_DellBigWIGDVD_USA)
 
-* [BurnOutSharp's DigiGuard detection code.](https://github.com/mnadareski/BurnOutSharp/blob/master/BinaryObjectScanner/Protection/DigiGuard.cs)
+* [BinaryObjectScanner's DigiGuard detection code.](https://github.com/SabreTools/BinaryObjectScanner/blob/master/BinaryObjectScanner/Protection/DigiGuard.cs)
 
 * [eBay listing for the "BIGWIG SOFTWARE LOCKER", which very likely contains DigiGuard. (Archived 2023-10-03)](https://web.archive.org/web/20231004043145/https://www.ebay.com/itm/325573968970)
 

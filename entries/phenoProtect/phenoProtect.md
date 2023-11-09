@@ -48,7 +48,7 @@ CUE[^12]
 
 ### Software Known to Detect:
 
-BurnOutSharp[^10], ClonyXXL[^11]
+BinaryObjectScanner[^10], ClonyXXL[^11]
 
 
 ### Preservation Instructions:
@@ -97,21 +97,20 @@ N/A.
 7. [Website that lists "Another War" as containing phenoProtect.](https://www.uvlist.net/groups/info/phenoprotect)
 8. [World of Gothic forum post that gives backstory about CodeCult and CodeCreature.](https://forum.worldofplayers.de/forum/threads/1553764-CC-PB-Relations-of-PB-s-very-own-Genome-Engine-to-the-CodeCult-CodeCreatures-engine)
 9. [FileForums forum post that briefly explains phenoProtect 2.](https://fileforums.com/archive/index.php/t-62914.html)
-10. [BurnOutSharp source code for phenoProtect.](https://github.com/mnadareski/BurnOutSharp/blob/master/BurnOutSharp/ProtectionType/Phenoprotect.cs)
+10. [BinaryObjectScanner source code for phenoProtect.](https://github.com/SabreTools/BinaryObjectScanner/blob/master/BinaryObjectScanner/Protection/Phenoprotect.cs)
 11. [Official Codecult website. (Mostly Broken) (2001-03-02)](https://web.archive.org/web/20010302232209/http://www.codecult.com/)
 12. [Official Codecult website. (Post-Phenomedia) (2003-02-01)](https://web.archive.org/web/20030201231731if_/http://www.codecult.com:80/)
 13. [List of DRM protected games from Daemon Tools that contains several phenoProtect games. (2017-02-22)](https://web.archive.org/web/20170222085203/http://forum.daemon-tools.cc/gamedb.php?letter=all)
 14. [Redump entry for "Carrera Grand Prix", a game that contains phenoProtect.](http://redump.org/disc/84082)
 15. [All Redump entries listed as having phenoProtect as a protection.](http://redump.org/discs/quicksearch/phenoProtect/protection/only)
 16. [DIC GitHub Readme that mentions phenoProtect.](https://github.com/saramibreak/DiscImageCreator)
-17. [BurnOutSharp source code for detecting phenoProtect.](https://github.com/mnadareski/BurnOutSharp/blob/master/BurnOutSharp/ProtectionType/Phenoprotect.cs)
-18. [GBATemp page for ClonyXXL.](https://gbatemp.net/download/clonyxxl.37819/)
-19. [German Wikipedia article for Phenomedia (The English version simply redirects to the page for their most well-known game series, Moorhuhn).](https://de.wikipedia.org/wiki/Phenomedia)
-20. [Official Phenomedia AG website with news headlines regarding the company. (Mostly broken, the news links on the page are completely broken) (2002-06-06)](https://web.archive.org/web/20020606172205/http://www.phenomedia.com/neu/index.html)
-21. [Mobygames page that gives a timeline for the history of "phenomedia publishing gmbh".](https://www.mobygames.com/company/phenomedia-publishing-gmbh/history)
-22. [Archive of news reports regarding Phenomedia AG.](https://www.eqs-news.com/company/phenomedia-ag/news/5b6d2b45-ea7c-11e8-902f-2c44fd856d8c)
-23. [News report regarding Phenomedia AG's insolvency.](https://www.eqs-news.com/news/adhoc/phenomedia-ag-english/32173)
-24. [Official Codecult press release regarding CodeCreatures' continued development post Phenomedia AG. (2003-02-28)](https://web.archive.org/web/20030228062718fw_/http://www.codecult.com/main.asp?page=Press_News_Show&id=20)
+17. [GBATemp page for ClonyXXL.](https://gbatemp.net/download/clonyxxl.37819/)
+18. [German Wikipedia article for Phenomedia (The English version simply redirects to the page for their most well-known game series, Moorhuhn).](https://de.wikipedia.org/wiki/Phenomedia)
+19. [Official Phenomedia AG website with news headlines regarding the company. (Mostly broken, the news links on the page are completely broken) (2002-06-06)](https://web.archive.org/web/20020606172205/http://www.phenomedia.com/neu/index.html)
+20. [Mobygames page that gives a timeline for the history of "phenomedia publishing gmbh".](https://www.mobygames.com/company/phenomedia-publishing-gmbh/history)
+21. [Archive of news reports regarding Phenomedia AG.](https://www.eqs-news.com/company/phenomedia-ag/news/5b6d2b45-ea7c-11e8-902f-2c44fd856d8c)
+22. [News report regarding Phenomedia AG's insolvency.](https://www.eqs-news.com/news/adhoc/phenomedia-ag-english/32173)
+23. [Official Codecult press release regarding CodeCreatures' continued development post Phenomedia AG. (2003-02-28)](https://web.archive.org/web/20030228062718fw_/http://www.codecult.com/main.asp?page=Press_News_Show&id=20)
 
 ### Footnotes:
 
@@ -133,7 +132,7 @@ N/A.
 
 [^9]: [Redump entry for "Carrera Grand Prix", a game that contains phenoProtect. (Additional Resource #14)](http://redump.org/disc/84082)
 
-[^10]: [BurnOutSharp source code for detecting phenoProtect. (Additional Resource #17)](https://github.com/mnadareski/BurnOutSharp/blob/master/BurnOutSharp/ProtectionType/Phenoprotect.cs)
+[^10]: [BinaryObjectScanner source code for detecting phenoProtect. (Additional Resource #10)](https://github.com/SabreTools/BinaryObjectScanner/blob/master/BinaryObjectScanner/Protection/Phenoprotect.cs)
 
 [^11]: [GBATemp page for ClonyXXL. (Additional Resource #18)](https://gbatemp.net/download/clonyxxl.37819/)
 

@@ -52,11 +52,11 @@ ISO[^8]
 
 ### Software Known to Detect:
 
-BurnOut [^5], BurnOutSharp[^6], ProtectionID[^7]
+BurnOut [^5], BinaryObjectScanner[^6], ProtectionID[^7]
 
 ### Detection Related Information:
 
-https://github.com/mnadareski/BurnOutSharp/blob/master/BurnOutSharp/ProtectionType/CenegaProtectDVD.cs
+https://github.com/SabreTools/BinaryObjectScanner/blob/master/BinaryObjectScanner/Protection/CenegaProtectDVD.cs
 
 ### Preservation Instructions:
 
@@ -106,6 +106,6 @@ Sections that are all consistently found within "cenega.dll".
 [^3]: [Redump entry 31422.](http://redump.org/disc/31422)
 [^4]: The version of the game currently for sale on Steam has been checked and does not appear to have this DRM present.
 [^5]: https://www.softpedia.com/progChangelog/BurnOut-Changelog-103960.html
-[^6]: https://github.com/mnadareski/BurnOutSharp
+[^6]: https://github.com/SabreTools/BinaryObjectScanner
 [^7]: https://web.archive.org/web/20210331144912/https://protectionid.net/
 [^8]: ISO is confirmed to allow the games to begin in Redump entries [31422](http://redump.org/disc/31422) and [85070](http://redump.org/disc/85070/) when mounted as a SCSI virtual drive using Daemon Tools, gameplay not thoroughly tested. IA item ["speed-pack"](https://archive.org/details/speed-pack) is confirmed to pass the protection check into at least the main game menu when mounted specifically to a physical drive using Daemon Tools. Unlike the rest of the samples, using a SCSI virtual drive doesn't pass the protection check.

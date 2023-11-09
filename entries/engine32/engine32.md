@@ -46,11 +46,13 @@ ISO
 
 ### Software Known to Detect:
 
-BurnOutSharp[^10]
+BinaryObjectScanner[^engine32_BOS]
+
+[^engine32_BOS]: [BinaryObjectScanner's engine32 detection code.](https://github.com/SabreTools/BinaryObjectScanner/blob/master/BinaryObjectScanner/Protection/Engine32.cs)s
 
 ### Detection Related Information:
 
-https://github.com/mnadareski/BurnOutSharp/blob/master/BinaryObjectScanner.Protection/Engine32.cs
+https://github.com/SabreTools/BinaryObjectScanner/blob/master/BinaryObjectScanner/Protection/Engine32.cs
 
 ### Preservation Instructions:
 

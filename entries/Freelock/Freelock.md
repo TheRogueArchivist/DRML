@@ -87,17 +87,16 @@ ISO (Assuming only the typical PSX data is needed) / CUE (Assuming multiple trac
 
 ### Software Known to Detect:
 
-BurnOut[^BurnOut_Changelog], BurnOutSharp[^Freelock_BOS]
+BurnOut[^BurnOut_Changelog], BinaryObjectScanner[^Freelock_BOS]
 
-[^Freelock_BOS]: [BurnOutSharp's Freelock detection code.](https://github.com/mnadareski/BurnOutSharp/blob/master/BinaryObjectScanner/Protection/FreeLock.cs)
+[^Freelock_BOS]: [BinaryObjectScanner's Freelock detection code.](https://github.com/SabreTools/BinaryObjectScanner/blob/master/BinaryObjectScanner/Protection/FreeLock.cs)
 
 
 ***
 
 ### Detection Related Information:
 
-https://github.com/mnadareski/BurnOutSharp/blob/master/BinaryObjectScanner/Protection/FreeLock.cs
-
+https://github.com/SabreTools/BinaryObjectScanner/blob/master/BinaryObjectScanner/Protection/FreeLock.cs
 ***
 
 ### Preservation Instructions:
@@ -232,7 +231,7 @@ An intentionally corrupt file used instead of the main executable in Freelock 1.
 
 * [Changelog for BurnOut that shows it supporting "FreeLock". (Archived 2023-10-02)](https://web.archive.org/web/20231002225132/https://www.softpedia.com/progChangelog/BurnOut-Changelog-103960.html)
 
-* [BurnOutSharp's Freelock detection code.](https://github.com/mnadareski/BurnOutSharp/blob/master/BinaryObjectScanner/Protection/FreeLock.cs)
+* [BinaryObjectScanner's Freelock detection code.](https://github.com/SabreTools/BinaryObjectScanner/blob/master/BinaryObjectScanner/Protection/FreeLock.cscs)
 
 ***
 

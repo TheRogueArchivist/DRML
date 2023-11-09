@@ -49,7 +49,7 @@ Copy Prevention; Padded/Dummy Files; Misleading Tracks; C2 Errors [TODO: Verify 
 ISO (Assuming no active checks in place, needs to be double checked).
 
 ### Detection Related Information:
-https://github.com/mnadareski/BurnOutSharp/blob/master/BurnOutSharp/ProtectionType/Bitpool.cs
+https://github.com/SabreTools/BinaryObjectScanner/blob/master/BinaryObjectScanner/Protection/Bitpool.cs
 
 ### Preservation Instructions:
 [TODO]

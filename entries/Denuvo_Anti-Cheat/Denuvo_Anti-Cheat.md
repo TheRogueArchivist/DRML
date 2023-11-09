@@ -42,7 +42,7 @@ Kernel-Mode Driver[^1]; Real-time Monitoring[^12]
 
 ### Software Known to Detect:
 
-BurnOutSharp[^6]
+BinaryObjectScanner[^6]
 
 
 ### Preservation Instructions:
@@ -104,7 +104,7 @@ N/A
 11. [Chinese Ubisoft & Denuvo Case Study (Archived 2023-07-05).](https://web.archive.org/web/20230705033408/https://resources.irdeto.com/media/ubisoft-irdeto-case-study_cn)
 12. [Chinese Ubisoft & Denuvo Case Study (PDF) (Archived 2023-07-05).](https://web.archive.org/web/20230705045944/https://paperflite-files.s3-accelerate.amazonaws.com/5f8ff4887a4e81372abac654/assets/02421749-56c3-428c-ba24-1f6d8949a741.pdf?response-content-disposition=attachment%3B%20filename%3DUbisoft%20%20Irdeto%20case%20study_CN.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230705T045943Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAID2JKNATMKKYBBBA%2F20230705%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=75b2790266e2ca31f71ae08f732a7ba64ccc3d4daa2e49fbf7c861358f98dfbb)
 13. [AWS Marketplace listing for Denuvo Anti-Cheat (Archived 2023-07-05).](https://web.archive.org/web/20230705035916/https://aws.amazon.com/marketplace/pp/prodview-yrdjb756vte3m)
-14. [BurnOutSharp's Denuvo page.](https://github.com/mnadareski/BurnOutSharp/blob/master/BinaryObjectScanner.Protection/Denuvo.cs)
+14. [BinaryObjectScanner's Denuvo page.](https://github.com/SabreTools/BinaryObjectScanner/blob/master/BinaryObjectScanner/Protection/Denuvo.cs)
 15. [Client-Side Security Award for Denuvo Anti-Cheat (Archived 2023-07-5).](https://web.archive.org/web/20230705054156/https://cybersecurity-excellence-awards.com/candidates/denuvo-anti-cheat-5/)
 16. ["Leveling the Playing Field with Denuvo Anti-Cheat" (Archived 2019-04-05)](https://web.archive.org/web/20190405085812/https://irdeto.com/news/leveling-the-playing-field-with-denuvo-anti-cheat/)
 17. [Announcement that Denuvo Anti-Cheat is available on Steamworks (Archived 2023-07-05).](https://web.archive.org/web/20230705055423/https://irdeto.com/news/denuvo-anti-cheat-now-available-on-steamworks/)
@@ -136,7 +136,7 @@ N/A
 [^3]: [DOOM Eternal Update 1 Changelog (Archived 2023-07-05) (Additional Resource #4).](https://web.archive.org/web/20230705041156/https://slayersclub.bethesda.net/en/article/2zHgbzsIV8gTzFUZ75ADGx/update-1)
 [^4]: [DOOM Eternal Update 1.1 Changelog (Archived 2023-07-05) (Additional Resource #5).](https://web.archive.org/web/20230705041659/https://slayersclub.bethesda.net/en/article/7puA2mxWqIyP1beRNl23yB/doom-eternal-update-1-1-pc-only-patch-notes)
 [^5]: [Chinese Ubisoft & Denuvo Case Study (PDF) (Archived 2023-07-05).](https://web.archive.org/web/20230705045944/https://paperflite-files.s3-accelerate.amazonaws.com/5f8ff4887a4e81372abac654/assets/02421749-56c3-428c-ba24-1f6d8949a741.pdf?response-content-disposition=attachment%3B%20filename%3DUbisoft%20%20Irdeto%20case%20study_CN.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230705T045943Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAID2JKNATMKKYBBBA%2F20230705%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=75b2790266e2ca31f71ae08f732a7ba64ccc3d4daa2e49fbf7c861358f98dfbb)
-[^6]: [BurnOutSharp's Denuvo page (Additional Resource #14).](https://github.com/mnadareski/BurnOutSharp/blob/master/BinaryObjectScanner.Protection/Denuvo.cs)
+[^6]: [BinaryObjectScanner's Denuvo page (Additional Resource #14).](https://github.com/SabreTools/BinaryObjectScanner/blob/master/BinaryObjectScanner/Protection/Denuvo.cs)
 [^7]: [Denuvo Anti-Cheat Troubleshooting website (Archived 2023-07-05) (Additional Resource #3).](https://web.archive.org/web/20230705040353/https://support.codefusion.technology/anti-cheat/)
 [^8]: [Main Denuvo website, which mentions Denuvo Anti-Cheat (Archived 2017-01-31) (Additional Resource #34).](https://web.archive.org/web/20170131030651/http://denuvo.com/)
 [^9]: ["Denuvo Joins Esports Integrity Coalition to Combat Cheating" (Archived 2019-04-05) (Additional Resource #35).](https://web.archive.org/web/20190405043008/https://irdeto.com/news/denuvo-joins-esports-integrity-coalition-to-combat-cheating/)
