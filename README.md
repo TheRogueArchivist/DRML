@@ -1,7 +1,7 @@
 # DRML
 Welcome to DRML, the DRM Library! Here you'll find my various research, notes, and random information about various kinds of DRM, and DRM-tangential information.
 
-This library is made in tandem with my work on [BurnOutSharp](https://github.com/mnadareski/BurnOutSharp), which is where the more exact details of how these DRM schemes can be detected will continue to be found.
+This library is made in tandem with my work on [BinaryObjectScanner](https://github.com/SabreTools/BinaryObjectScanner), which is where the more exact details of how these DRM schemes can be detected will continue to be found.
 There is a heavy skew toward optical media DRM due to its prevalence, (relative) ease to catalogue, and the importance of knowing which DRM is being used in order to be properly archived.
 That being said, any form of DRM that can be consistently detected is within the scope of the library, though some protections may not be fully covered for several reasons, such as CSS/AACS, which is documented in depth in a multitude of other places.
 
