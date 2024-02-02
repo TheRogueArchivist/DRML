@@ -1,57 +1,102 @@
 ### Names:
 
-Denuvo Anti-Cheat[^1]
+Denuvo Anti-Cheat[^DAC_Website_2023]
+
+[^DAC_Website_2023]: [Official Denuvo Anti-Cheat website (Archived 2023-07-05).](https://web.archive.org/web/20230705034105/https://irdeto.com/denuvo/anti-cheat/)
+
+***
 
 ### Developers:
 
-Irdeto[^1]
+Irdeto[^DAC_Website_2023]
+
+***
 
 ### Years Active: 
 
-2020-05-14[^2] - Current(?)
+2020-05-14[^DAC_Goes_Live] - Current (As of 2024-02-02)
+
+[^DAC_Goes_Live]: ["Denuvo Anti-Cheat goes LIVE!" announcement. (Archived 2023-07-05)](https://web.archive.org/web/20230705040801/https://store.steampowered.com/news/app/782330/view/2187005925152148469)
+
+***
 
 ### Known Versions & Differences: 
 
 2.7.0.40281: Only known version (found as file and product version in multiple files).
 
+***
+
 ### Known Samples: 
 
 #### Confirmed: 
 
-* Doom Eternal Update 1[^3] (Steam Depot 782332 Manifest 7064393210727378308) (Removed in Update 1.1[^4]).
+* Doom Eternal Update 1.[^DOOM_Eternal_Update_1] (Steam Depot 782332 Manifest 7064393210727378308) (Removed in Update 1.1)[^DOOM_Eternal_Update_1.1]
+* eFootball 2024.[^eFootball_2024_Steam]
+* Devnuvo Anti-Cheat's support page.[^Issues_with_installing_DAC]
+
+[^DOOM_Eternal_Update_1]: [DOOM Eternal Update 1 Changelog. (Archived 2023-07-05)](https://web.archive.org/web/20230705041156/https://slayersclub.bethesda.net/en/article/2zHgbzsIV8gTzFUZ75ADGx/update-1)
+
+[^DOOM_Eternal_Update_1.1]:[DOOM Eternal Update 1.1 Changelog. (Archived 2023-07-05)](https://web.archive.org/web/20230705041659/https://slayersclub.bethesda.net/en/article/7puA2mxWqIyP1beRNl23yB/doom-eternal-update-1-1-pc-only-patch-notes)
+
+[^eFootball_2024_Steam]: [Steam page for "eFootball 2024"](https://store.steampowered.com/app/1665460/eFootball_2024/)
+
+[^Issues_with_installing_DAC]: [Support page for "Issues with installing Denuvo Anti-Cheat", which includes a download for the DAC installer. (Archived 2024-01-30)](https://web.archive.org/web/20240130142033/https://support.codefusion.technology/anti-cheat/?l=ja&s=ac&e=2009)
 
 #### Unconfirmed:
 
-* Some Ubisoft games post 2019[^5].
+* Marauders.[^Marauders_DAC_Reddit] (ADD: https://steamcommunity.com/games/1789480/announcements/detail/3631627461491248445)
+* Zero Hour.[^Zero_Hour_QOL_Update] (ADD: https://steamcommunity.com/app/1359090/discussions/0/3808407060880325398/, https://steamcommunity.com/app/1665460/discussions/0/3807283698653633699/, https://www.konami.com/efootball/en-us/topic/news/1258, https://www.konami.com/efootball/en-us/topic/news/1451)
+* Some Ubisoft games post 2019[^Chinese_Ubisoft_Denuvo_PDF].
+
+[^Marauders_DAC_Reddit]: [Reddit post about DAC being added to the game "Marauders", including a comment by the developer regarding its addition (Archived 2024-01-30)](https://web.archive.org/web/20240130150451/https://old.reddit.com/r/MaraudersGame/comments/11a1xxb/denuvo_has_been_added_to_the_game/)
+
+[^Zero_Hour_QOL_Update]: [Steam page for the "Quality Of Life Update" for "Zero Hour", the version that added Denuvo Anti-Cheat. (Archived 2021-12-27)](https://web.archive.org/web/20211227162946/https://store.steampowered.com/news/app/1359090/view/3111422384879533348)
+
+[^Chinese_Ubisoft_Denuvo_PDF]: [Chinese Ubisoft & Denuvo Case Study (PDF) (Archived 2023-07-05).](https://web.archive.org/web/20230705045944/https://paperflite-files.s3-accelerate.amazonaws.com/5f8ff4887a4e81372abac654/assets/02421749-56c3-428c-ba24-1f6d8949a741.pdf?response-content-disposition=attachment%3B%20filename%3DUbisoft%20%20Irdeto%20case%20study_CN.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230705T045943Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAID2JKNATMKKYBBBA%2F20230705%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=75b2790266e2ca31f71ae08f732a7ba64ccc3d4daa2e49fbf7c861358f98dfbb)
+
+***
 
 ### Categories: 
 
 Anti-Cheat
 
+***
+
 ### Supported Platforms:
 
-* Windows[^1]
-* iOS[^1]
-* PS4/5[^1]
-* Xbox Series X/S[^1]
-* Android[^1]
+* Windows[^DAC_Website_2023]
+* iOS[^DAC_Website_2023]
+* PS4/5[^DAC_Website_2023]
+* Xbox Series X/S[^DAC_Website_2023]
+* Android[^DAC_Website_2023]
+
+***
 
 ### Protection Features:
 
-Kernel-Mode Driver[^1]; Real-time Monitoring[^12]
+Kernel-Mode Driver[^DAC_Website_2023]; Real-time Monitoring[^DAC_Datasheet]
+
+[^DAC_Datasheet]: [Denuvo Anti-Cheat Newer Datasheet (PDF) (Archived 2023-07-05).](https://web.archive.org/web/20230705044213/https://paperflite-files.s3-accelerate.amazonaws.com/5f8ff4887a4e81372abac654/assets/25904998-9fa4-40b5-bcaf-d9698148587c?response-content-disposition=attachment%3B%20filename%3Ddatasheet_denuvo_anti_cheat.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230705T044213Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAID2JKNATMKKYBBBA%2F20230705%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=8880bb12bf47732dccda85898f3a9f0cfe9fe6a269520bec452bdd8b7bd9bbdb)
+
+***
 
 ### Software Known to Detect:
 
-BinaryObjectScanner[^6]
+BinaryObjectScanner[^DAC_BOS]
 
+[^DAC_BOS]: [BinaryObjectScanner's Denuvo page.](https://github.com/SabreTools/BinaryObjectScanner/blob/master/BinaryObjectScanner/Protection/Denuvo.cs)
+
+***
 
 ### Preservation Instructions:
 
 N/A
 
+***
+
 ### Overall Description:
 
-Denuvo Anti-Cheat is a form of anti-cheat, though information on what games use(d) it is rather sparse. It's known to have been in development since at least 2017[^8]. In 2018, Irdeto mentioned how Denuvo Anti-Cheat would be "soon to be launched as a full end-to-end solution"[^9]. It also appears that Denuvo started providing anti-cheat services for Ubisoft in 2019, and this appears to still be active as of 2023[^5]. Which game or games are protected is unclear, but due to this information seemingly only being available in this document (as far as I'm able to find), which itself is only available in Chinese, it may be that this service is only being used for China-exclusive games. The document also states:
+Denuvo Anti-Cheat is a form of anti-cheat, though information on what games use it is rather sparse. It's known to have been in development since at least 2017[^Denuvo_Website_2017]. In 2018, Irdeto mentioned how Denuvo Anti-Cheat would be "soon to be launched as a full end-to-end solution"[^Denuvo_esports_Blog]. It also appears that Denuvo started providing anti-cheat services for Ubisoft in 2019, and this appears to still be active as of 2023[^Chinese_Ubisoft_Denuvo_PDF]. Which game or games are protected is unclear, but due to this information seemingly only being available in this document (as far as I'm able to find), which itself is only available in Chinese, it may be that this service is being used for China-exclusive games. The document also states:
 
 >由于Ubisoft实施了Denuvo的反作弊解决方案，迄今为止共有112个作弊工具开发者被识别和清除。
 
@@ -60,34 +105,61 @@ Translated to English via Google Translate:
 >As a result of Ubisoft's implementation of Denuvo's anti-cheat solution, a total of 112 cheat developers have been identified and removed to date.
 
 Assuming this information is correct, this essentially confirms that Denuvo Anti-Cheat has been around since presumably 2019, with some level of success.
-This predates the otherwise only documented game to have used Denuvo Anti-Cheat, which is Doom Eternal. It was added in Update 1[^3] on 2020-05-14, before being completely removed in Update 1.1[^4] on 2020-05-27 (less than 2 weeks later!). It's been explicitly stated that the removal was due to the community's negative response, not any issues with Denuvo Anti-Cheat itself[^10]. Although this has seemingly been the only use of Denuvo Anti-Cheat, there have been several documents released by Irdeto about it since then. This includes a Q&A about the Denuvo Anti-Cheat kernel-mode driver[^11], an updated datasheet[^12], and a case study about Denuvo & Ubisoft regarding anti-cheat[^5]. Further confusing my attempt to find examples of games using Denuvo Anti-Cheat is presumably the fact that it considers itself a "white-label solution"[^1], which would allow itself to be rebranded for customer use.
+This predates the first documented game to have used Denuvo Anti-Cheat, which is Doom Eternal. It was added in Update 1[^DOOM_Eternal_Update_1] on 2020-05-14, before being completely removed in Update 1.1[^DOOM_Eternal_Update_1.1] on 2020-05-27 (less than 2 weeks later!). It's been explicitly stated that the removal was due to the community's negative response, not any issues with Denuvo Anti-Cheat itself.[^DOOM_Eternal_DAC_Removal] Since then, there have been several documents released by Irdeto about it, as well as a few other games confirmed to have it. The documents include a Q&A about the Denuvo Anti-Cheat kernel-mode driver[^DAC_Kernel-Mode_FAQ], an updated datasheet[^DAC_Datasheet], and a case study about Denuvo & Ubisoft regarding anti-cheat[^Chinese_Ubisoft_Denuvo_PDF]. 
 
-Interestingly, the Q&A about the driver[^11] says that Denuvo Anti-Cheat is only installed and ran when competitive multiplayer is used. This would indicate an updated version or implementation of Denuvo Anti-Cheat, as the version used in Doom Eternal was known to be installed at launch and was required for singleplayer features[^10]. 
+It has been somewhat difficult to find examples of games that use Denuvo Anti-Cheat, presumably partially due to the fact that it considers itself a "white-label solution"[^DAC_Website_2023], which would allow itself to be rebranded for customer use. 
 
-Denuvo Anti-Cheat itself works via a kernel-mode driver[^1] that allows the anti-cheat to monitor the game processes and the Windows kernel to send the information along to the server, where all the actual checks take place[^12]. There, the game company can decide if cheating is actually occurring, and what to do about it.
+Interestingly, the Q&A about the driver[^DAC_Kernel-Mode_FAQ] says that Denuvo Anti-Cheat is only installed and ran when competitive multiplayer is used. This means that this was done sometime after 2020, as the version used in Doom Eternal was known to be installed at launch and was required for singleplayer features.[^DOOM_Eternal_DAC_Removal] This does appear to have been implemented by late 2021, as the game "Zero Hour" states that Denuvo Anti-Cheat is only installed when a certain game mode is played.[^Zero_Hour_QOL_Update]
+
+Denuvo Anti-Cheat itself works via a kernel-mode driver[^DAC_Website_2023] that allows the anti-cheat to monitor the game processes and the Windows kernel to send the information along to the server, where all the actual checks take place[^DAC_Datasheet]. There, the game company can decide if cheating is actually occurring, and what to do about it.
+
+[^Denuvo_Website_2017]: [Main Denuvo website, which mentions Denuvo Anti-Cheat (Archived 2017-01-31).](https://web.archive.org/web/20170131030651/http://denuvo.com/)
+
+[^Denuvo_esports_Blog]: ["Denuvo Joins Esports Integrity Coalition to Combat Cheating" (Archived 2019-04-05).](https://web.archive.org/web/20190405043008/https://irdeto.com/news/denuvo-joins-esports-integrity-coalition-to-combat-cheating/)
+
+[^DOOM_Eternal_DAC_Removal]: [Reddit post regarding the removal of Denuvo Anti-Cheat from Doom Eternal (Archived 2020-07-05).](https://web.archive.org/web/20200705043614/https://www.reddit.com/r/Doom/comments/gnjlo7/latest_information_on_update_1_anticheat/)
+
+[^DAC_Kernel-Mode_FAQ]: [Denuvo Anti-Cheat Kernel-Mode Driver FAQ (PDF) (Archived 2023-07-05).](https://web.archive.org/web/20230705151811/https://paperflite-files.s3-accelerate.amazonaws.com/5f8ff4887a4e81372abac654/assets/daf83521-666d-40eb-9ef2-ef0da7f9c2a7?response-content-disposition=attachment%3B%20filename%3Ddenuvo_qa_anti_cheat_kernel_mode_drivers.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230705T151811Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAID2JKNATMKKYBBBA%2F20230705%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d98f2131eea7a38cc74c6a0fce56bb159277c69f1a9859f600619088950e0bc6)
+
+***
 
 #### Known Associated Executable Sections:
 
 N/A
 
+***
+
 #### Known Associated Extensions:
 
 N/A
 
+***
+
 #### Known Associated Files:
 
-* "denuvo-anti-cheat.sys"[^6]
-* "denuvo-anti-cheat-update-service.exe"[^6]
-* "denuvo-anti-cheat-runtime.dll"[^6]
-* "Denuvo Anti-Cheat Installer.exe"[^6]
+* "denuvo-anti-cheat.sys"[^DAC_BOS]
+* "denuvo-anti-cheat-update-service.exe"[^DAC_BOS]
+* "denuvo-anti-cheat-update-service-launcher.dll"[^DAC_BOS]
+* "denuvo-anti-cheat-runtime.dll"[^DAC_BOS]
+* "Denuvo Anti-Cheat Installer.exe"[^DAC_BOS]
+* "denuvo-anti-cheat-crash-report.exe"[^DAC_BOS]
+* "denuvo-anti-cheat-crash-report.exe.config"[^DAC_BOS]
+* "Denuvo-Anti-Cheat_install_run_as_Admin.bat"[^DAC_BOS]
+* "denuvo-anti-cheat-installer.zip"[^DAC_BOS]
+
+***
 
 #### Known Associated Magic Numbers:
 
 N/A
 
+***
+
 ### Media:
 
 N/A
+
+***
 
 ### Additional Resources:
 
@@ -128,18 +200,16 @@ N/A
 35. ["Denuvo Joins Esports Integrity Coalition to Combat Cheating" (Archived 2019-04-05).](https://web.archive.org/web/20190405043008/https://irdeto.com/news/denuvo-joins-esports-integrity-coalition-to-combat-cheating/)
 36. [Official Denuvo Anti-Cheat website (Archived 2021-06-11).](https://web.archive.org/web/20210611213309/https://irdeto.com/denuvo/anti-cheat/)
 37. [Official Denuvo Anti-Cheat Resources (Page seemingly broken in Wayback) (Archived 2023-07-06).](https://web.archive.org/web/20230706052839/https://resources.irdeto.com/denuvo-anti-cheat)
+38. [Support page for "Issues with installing Denuvo Anti-Cheat", which includes a download for the DAC installer. (Archived 2024-01-30)](https://web.archive.org/web/20240130142033/https://support.codefusion.technology/anti-cheat/?l=ja&s=ac&e=2009)
+39. [Reddit post comparing Denuvo Anti-Cheat to Riot Vanguard. (Archived 2024-02-02)](https://web.archive.org/web/20240202042130/https://old.reddit.com/r/pcgaming/comments/gkcvmu/denuvo_anticheat_is_not_just_another_riot/)
+
+***
+
+### Authors/Contributors:
+
+* TheRogueArchivist - Entry author.
+
+***
 
 ### Footnotes:
 
-[^1]: [Official Denuvo Anti-Cheat website (Archived 2023-07-05) (Additional Resource #1).](https://web.archive.org/web/20230705034105/https://irdeto.com/denuvo/anti-cheat/)
-[^2]: ["Denuvo Anti-Cheat goes LIVE!" announcement. (Archived 2023-07-05) (Additional Resource #2)](https://web.archive.org/web/20230705040801/https://store.steampowered.com/news/app/782330/view/2187005925152148469)
-[^3]: [DOOM Eternal Update 1 Changelog (Archived 2023-07-05) (Additional Resource #4).](https://web.archive.org/web/20230705041156/https://slayersclub.bethesda.net/en/article/2zHgbzsIV8gTzFUZ75ADGx/update-1)
-[^4]: [DOOM Eternal Update 1.1 Changelog (Archived 2023-07-05) (Additional Resource #5).](https://web.archive.org/web/20230705041659/https://slayersclub.bethesda.net/en/article/7puA2mxWqIyP1beRNl23yB/doom-eternal-update-1-1-pc-only-patch-notes)
-[^5]: [Chinese Ubisoft & Denuvo Case Study (PDF) (Archived 2023-07-05).](https://web.archive.org/web/20230705045944/https://paperflite-files.s3-accelerate.amazonaws.com/5f8ff4887a4e81372abac654/assets/02421749-56c3-428c-ba24-1f6d8949a741.pdf?response-content-disposition=attachment%3B%20filename%3DUbisoft%20%20Irdeto%20case%20study_CN.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230705T045943Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAID2JKNATMKKYBBBA%2F20230705%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=75b2790266e2ca31f71ae08f732a7ba64ccc3d4daa2e49fbf7c861358f98dfbb)
-[^6]: [BinaryObjectScanner's Denuvo page (Additional Resource #14).](https://github.com/SabreTools/BinaryObjectScanner/blob/master/BinaryObjectScanner/Protection/Denuvo.cs)
-[^7]: [Denuvo Anti-Cheat Troubleshooting website (Archived 2023-07-05) (Additional Resource #3).](https://web.archive.org/web/20230705040353/https://support.codefusion.technology/anti-cheat/)
-[^8]: [Main Denuvo website, which mentions Denuvo Anti-Cheat (Archived 2017-01-31) (Additional Resource #34).](https://web.archive.org/web/20170131030651/http://denuvo.com/)
-[^9]: ["Denuvo Joins Esports Integrity Coalition to Combat Cheating" (Archived 2019-04-05) (Additional Resource #35).](https://web.archive.org/web/20190405043008/https://irdeto.com/news/denuvo-joins-esports-integrity-coalition-to-combat-cheating/)
-[^10]: [Reddit post regarding the removal of Denuvo Anti-Cheat from Doom Eternal (Archived 2020-07-05) (Additional Resource #19).](https://web.archive.org/web/20200705043614/https://www.reddit.com/r/Doom/comments/gnjlo7/latest_information_on_update_1_anticheat/)
-[^11]: [Denuvo Anti-Cheat Kernel-Mode Driver FAQ (PDF) (2023-07-05) (Additional Resource #30).](https://web.archive.org/web/20230705151811/https://paperflite-files.s3-accelerate.amazonaws.com/5f8ff4887a4e81372abac654/assets/daf83521-666d-40eb-9ef2-ef0da7f9c2a7?response-content-disposition=attachment%3B%20filename%3Ddenuvo_qa_anti_cheat_kernel_mode_drivers.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230705T151811Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAID2JKNATMKKYBBBA%2F20230705%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d98f2131eea7a38cc74c6a0fce56bb159277c69f1a9859f600619088950e0bc6)
-[^12]: [Denuvo Anti-Cheat Newer Datasheet (PDF) (Archived 2023-07-05) (Additional Resource #8).](https://web.archive.org/web/20230705044213/https://paperflite-files.s3-accelerate.amazonaws.com/5f8ff4887a4e81372abac654/assets/25904998-9fa4-40b5-bcaf-d9698148587c?response-content-disposition=attachment%3B%20filename%3Ddatasheet_denuvo_anti_cheat.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230705T044213Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAID2JKNATMKKYBBBA%2F20230705%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=8880bb12bf47732dccda85898f3a9f0cfe9fe6a269520bec452bdd8b7bd9bbdb)
