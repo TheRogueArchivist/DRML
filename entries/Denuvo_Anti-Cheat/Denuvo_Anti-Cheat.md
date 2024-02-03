@@ -24,6 +24,8 @@ Irdeto[^DAC_Website_2023]
 
 2.7.0.40281: Only known version (found as file and product version in multiple files).
 
+TODO: Versions appear inconsistent, with different files having different versions associated with them within the same version of Denuvo Anti-Cheat. Also, some games (such as Mech Arena) appear to contain a bundled version of Denuvo Anti-Cheat, but immediately update it to the newest available version.
+
 ***
 
 ### Known Samples: 
@@ -31,26 +33,37 @@ Irdeto[^DAC_Website_2023]
 #### Confirmed: 
 
 * Doom Eternal Update 1.[^DOOM_Eternal_Update_1] (Steam Depot 782332 Manifest 7064393210727378308) (Removed in Update 1.1)[^DOOM_Eternal_Update_1.1]
-* eFootball 2024.[^eFootball_2024_Steam]
+* eFootball 2024.[^eFootball_Regarding_Denuvo_Messages_Steam][^eFootball_Regarding_Denuvo_Messages_Konami][^eFootball_Denuvo_Ongoing_Issues]
+* Mech Arena.[^Plarium_Terms_Of_Use] (ADD: https://www.facebook.com/MechArenaRobotShowdown/posts/-did-you-know-you-can-easily-transfer-your-mech-arena-progress-from-mobile-to-de/679989140811970/)
 * Devnuvo Anti-Cheat's support page.[^Issues_with_installing_DAC]
 
 [^DOOM_Eternal_Update_1]: [DOOM Eternal Update 1 Changelog. (Archived 2023-07-05)](https://web.archive.org/web/20230705041156/https://slayersclub.bethesda.net/en/article/2zHgbzsIV8gTzFUZ75ADGx/update-1)
 
 [^DOOM_Eternal_Update_1.1]:[DOOM Eternal Update 1.1 Changelog. (Archived 2023-07-05)](https://web.archive.org/web/20230705041659/https://slayersclub.bethesda.net/en/article/7puA2mxWqIyP1beRNl23yB/doom-eternal-update-1-1-pc-only-patch-notes)
 
-[^eFootball_2024_Steam]: [Steam page for "eFootball 2024"](https://store.steampowered.com/app/1665460/eFootball_2024/)
+[^eFootball_Regarding_Denuvo_Messages_Steam]: [Steam discussion page for "eFootball 2024" by the developer, talking about Denuvo being added to the game. (Archived (2024-02-03)](https://web.archive.org/web/20240202061334/https://steamcommunity.com/app/1665460/discussions/0/3807283698653633699/)
+
+[^eFootball_Regarding_Denuvo_Messages_Konami]: [Konami announcement page for "eFootball 2024", talking about Denuvo being added to the game. (Archived 2024-02-03)](https://web.archive.org/web/20240203044540/https://www.konami.com/efootball/en-us/topic/news/1258)
+
+[^eFootball_Denuvo_Ongoing_Issues]: [Konami announcement page for "eFootball 2024", which gives troubleshooting advice for Denuvo Anti-Cheat.](https://web.archive.org/web/20240203044923/https://www.konami.com/efootball/en-us/topic/news/1451)
+
+[^Plarium_Terms_Of_Use]: [The "Terms of Use" for Plarium, which mentions that Denuvo Anti-Cheat may be installed alongside some games. (Archived 2024-02-02)](https://web.archive.org/web/20240203050311/https://plarium.com/en/legal/terms-of-use/)
 
 [^Issues_with_installing_DAC]: [Support page for "Issues with installing Denuvo Anti-Cheat", which includes a download for the DAC installer. (Archived 2024-01-30)](https://web.archive.org/web/20240130142033/https://support.codefusion.technology/anti-cheat/?l=ja&s=ac&e=2009)
 
 #### Unconfirmed:
 
-* Marauders.[^Marauders_DAC_Reddit] (ADD: https://steamcommunity.com/games/1789480/announcements/detail/3631627461491248445)
-* Zero Hour.[^Zero_Hour_QOL_Update] (ADD: https://steamcommunity.com/app/1359090/discussions/0/3808407060880325398/, https://steamcommunity.com/app/1665460/discussions/0/3807283698653633699/, https://www.konami.com/efootball/en-us/topic/news/1258, https://www.konami.com/efootball/en-us/topic/news/1451)
+* Marauders.[^Marauders_DAC_Reddit] [^Marauders_Red_Baron_Hotfix_2_Update]
+* Zero Hour.[^Zero_Hour_QOL_Update]
 * Some Ubisoft games post 2019[^Chinese_Ubisoft_Denuvo_PDF].
 
 [^Marauders_DAC_Reddit]: [Reddit post about DAC being added to the game "Marauders", including a comment by the developer regarding its addition (Archived 2024-01-30)](https://web.archive.org/web/20240130150451/https://old.reddit.com/r/MaraudersGame/comments/11a1xxb/denuvo_has_been_added_to_the_game/)
 
+[^Marauders_Red_Baron_Hotfix_2_Update]: [Steam page for the "Red Baron Hotfix #02" update for the game "Marauders. Unfortunately, Wayback isn't properly rendering the page, though the contents can still be viewed in the page source. (Archived 2024-02-02)](https://web.archive.org/web/20240203035935/https://steamcommunity.com/games/1789480/announcements/detail/3631627461491248445)
+
 [^Zero_Hour_QOL_Update]: [Steam page for the "Quality Of Life Update" for "Zero Hour", the version that added Denuvo Anti-Cheat. (Archived 2021-12-27)](https://web.archive.org/web/20211227162946/https://store.steampowered.com/news/app/1359090/view/3111422384879533348)
+
+[^Zero_Hour_Denuvo_Question]: [Steam discussion page that specifies that the game "Marauders" still (as of that time) uses Denuvo Anti-Cheat. (Archived (2024-02-03)](https://web.archive.org/web/20240203041723/https://steamcommunity.com/app/1359090/discussions/0/3808407060880325398/)
 
 [^Chinese_Ubisoft_Denuvo_PDF]: [Chinese Ubisoft & Denuvo Case Study (PDF) (Archived 2023-07-05).](https://web.archive.org/web/20230705045944/https://paperflite-files.s3-accelerate.amazonaws.com/5f8ff4887a4e81372abac654/assets/02421749-56c3-428c-ba24-1f6d8949a741.pdf?response-content-disposition=attachment%3B%20filename%3DUbisoft%20%20Irdeto%20case%20study_CN.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230705T045943Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAID2JKNATMKKYBBBA%2F20230705%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=75b2790266e2ca31f71ae08f732a7ba64ccc3d4daa2e49fbf7c861358f98dfbb)
 
