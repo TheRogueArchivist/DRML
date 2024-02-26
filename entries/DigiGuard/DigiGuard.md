@@ -114,6 +114,25 @@ This success was enough to allow WIG to form deals with both Dell and Sony to in
 
 Despite these promising deals, on top of having various other projects in various stages of production, GLFC was unable to remain operation for much longer. Towards the end, it appears that GLFC had gone through significant financial hardships to the point where a company officer had even loaned the company money to stay afloat.[^GLFC_PR_2001-03-02] In fact, one of the final press releases from GLFC ends with a somber "There can be no assurance that the Company will be able to obtain the necessary financing to continue as a going concern."[^GLFC_PR_2001-03-02]
 
+Rairii (@Rairii@fedi.nano.lgbt) also provided me with the following information, which is added here with his permission:
+
+```
+the main idea of the protection is to crypt data sections of original game PEs on disk, and have a loader that starts the process suspended and does ReadProcessMemory/decrypt/WriteProcessMemory followed by ResumeThread.
+
+crypted sections are done by name, not by flags: sections named ".data", "DATA", "DGROUP" are crypted.
+
+the loader is itself encrypted and is what is decrypted by DecryptWrap.exe.
+
+both the loader and DecryptWrap do protection checks based on crypted registry entries.
+
+the crypto is custom, but the keys are all hardcoded into the various binaries.
+
+as such, you can patch DecryptWrap.exe to execute the goodboy code instead of the protection check; then use it as an oracle to decrypt the actual loader; then patch the loader in the same way, run it in debugger, set breakpoint at the correct "call ResumeThread" instruction, then attach to the suspended process in debugger, and dump the plaintext sections and patch the PE on disk with them.
+
+the sims executable in big WIG is actually a later build of the game, from 2000-07-11, and seems to have no further protection other than the crypted se
+ctions.
+```
+
 [^GLFC_PR_1998-01-12]: [GLFC press release dated 1998-01-12 describing them entering an agreement with Multicom that mentions their products "CommShield", "DIGITREK" and "MusiKey". (Archived 2000-10-10)](https://web.archive.org/web/20001010225545/http://www.glfc.com:80/press_releases/1_12_98.asp)
 
 [^GLFC_PR_1999-05-06]: [GLFC press release dated 1999-05-06 regarding "The Accolade Family Spectacular" being shown at E3. (Archived 1999-10-10)](https://web.archive.org/web/20001010225530/http://www.glfc.com/press_releases/5_6_99.asp)
@@ -251,10 +270,8 @@ N/A
 ### Authors/Contributors:
 
 * TheRogueArchivist - Entry author.
-
+* Rairii (@Rairii@fedi.nano.lgbt) - Additional research into DigiGuard.
+  
 ***
 
 ### Footnotes:
-
-
-
