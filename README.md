@@ -24,17 +24,17 @@ Any action you take upon the information you find on this document is strictly a
 ## Anti-Cheat
 ### [Denuvo Anti-Cheat](./entries/Denuvo_Anti-Cheat/Denuvo_Anti-Cheat.md)
 ## Audio CD Protection
-### [CopyKiller](./CopyKiller/CopyKiller.md)
+### [CopyKiller](./entries/CopyKiller/CopyKiller.md)
 ### [MediaCloQ](./entries/MediaCloQ/MediaCloQ.md)
 ## DRM Builder
-### [CopyKiller](./CopyKiller/CopyKiller.md)
+### [CopyKiller](./entries/CopyKiller/CopyKiller.md)
 ### [Freelock](./entries/Freelock/Freelock.md)
 ## Multimedia DRM
 ### [PlayJ](./entries/PlayJ/PlayJ.md)
 ## Optical Copy Protection
 ### [Bitpool](./entries/Bitpool/Bitpool.md)
 ### [Cenega ProtectDVD](./entries/Cenega_ProtectDVD/Cenega_ProtectDVD.md)
-### [CopyKiller](./CopyKiller/CopyKiller.md)
+### [CopyKiller](./entries/CopyKiller/CopyKiller.md)
 ### [DigiGuard](./entries/DigiGuard/DigiGuard.md)
 ### [engine32](./entries/engine32/engine32.md)
 ### [Freelock](./entries/Freelock/Freelock.md)
