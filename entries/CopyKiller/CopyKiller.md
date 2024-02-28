@@ -26,7 +26,7 @@ WebStylerZone / Tom Commander[^CopyKiller_Website_2003]
 
 [TODO: Add more information about what each version changes, preferably from an official changelog, if available.]
 
-* 3.62: First documented release. An installer for this version is available.[^CK_Install_3.62]
+* 3.62:  An installer for this version is available.[^CK_Install_3.62]
 * 3.64: An installer for this version is available.[^CK_Install_3.64]
 * 4.00 alpha build 20: Seemingly the only known public build of 4.X. It appears to have only been available through the not well-preserved WebStylerZone forum[^WebStylerZone_Website_English_2007], and so is currently lost.
 * 3.99: This version is based on the 4.00 alpha[^WebStylerZone_Website_English_2007], and even still refers to itself as "CopyKillerV4" internally. An installer for this version is available.[^CK_Install_3.99]
@@ -144,7 +144,14 @@ N/A
 
 ### Media:
 
-[TODO]
+* CopyKiller 3.62 Autorun error window: 
+![Windows XP error popup that says: "CopyKiller V3.6 CD-Protection" - "This cd is an illegal copy! You are not allowed to copy this cd again or using cd and all of its data! Please eject the cd from your cd-drive!" - "If you paid for this cd or if anyone has given you this cd, then please call the police. . ." - "OK"](./CopyKiller_3.62_Autorun_Error_Message.png "CopyKiller 3.62 Autorun error window.")
+
+* CopyKiller 3.64 Autorun error window:
+![Windows XP error popup that says: "CopyKiller V3.6a CD-Protection" - "This cd is an illegal copy! You are not allowed to copy this cd again or using cd and all of its data! Please eject the cd from your cd-drive!" - "If you paid for this cd or if anyone has given you this cd, then please call the police. . ." - "OK"](./CopyKiller_3.64_Autorun_Error_Message.png "CopyKiller 3.64 Autorun error window.")
+
+* CopyKiller 3.99+ Autorun error window:
+![Windows XP error popup that says: "CopyKiller V4 CD / DVD-Protection" - "This cd is an illegal copy! You are not allowed to copy this cd again or using cd and all of its data! Please eject the cd from your cd-drive!" - "If you paid for this cd or if anyone has given you this cd, then please call the police. . ." - "OK"](./CopyKiller_3.99+_Autorun_Error_Message.png "CopyKiller 3.64 Autorun error window.")
 
 ***
 
