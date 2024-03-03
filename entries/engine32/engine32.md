@@ -46,7 +46,7 @@ The RU localized versions of the following games:
 * One Must Fall: Battlegrounds[^One_Must_Fall_Redump].
 * The Da Vinci Code[^Da_Vinci_Code_Rutracker].
 * Lionheart: Legacy of The Crusader[^Lionheart_Rutracker].
-* CivCity Rome[^CivCity_Rome_Rutracke].
+* CivCity Rome[^CivCity_Rome_Rutracker].
 
 [^Colin_McRae_Rally_Redump]: Redump entry 103413.
 [^TOCA_Redump]: Redump entries 104593-104596.
@@ -92,7 +92,7 @@ Only a basic disc image is needed.
 
 ### Overall Description:
 
-Engine32 is the tentative name given to a generic disc check DRM used across several games localized/developed by Nival and Atomy. Starting in 2003, Nival released a few games with engine32 present, including "Lionheart: Legacy of The Crusader"[^Lionheart_Rutracker] and "One Must Fall: Battlegrounds"[^One_Must_Fall_Redump]. Some later games from around 2006 that include engine32 include "CivCity: Rome"[^CivCity_Rome_Rutracke] and "The Da Vinci Code"[^Da_Vinci_Code_Rutracker], both of which were localized by Atomy[^Atomy_Localization_MobyGames]. Funnily enough, the file description for "engine32.dll" present within "CivCity: Rome" is "The Da Vinci Code DLL-helper", despite having different hashes and being last modified on different days. Finally, one of (if not the) latest examples of engine32 being used is "Rayman Raving Rabbids 2"[^Rayman_Raving_Rabbids_Redump], by Buka Entertainment.
+Engine32 is the tentative name given to a generic disc check DRM used across several games localized/developed by Nival and Atomy. Starting in 2003, Nival released a few games with engine32 present, including "Lionheart: Legacy of The Crusader"[^Lionheart_Rutracker] and "One Must Fall: Battlegrounds"[^One_Must_Fall_Redump]. Some later games from around 2006 that include engine32 include "CivCity: Rome"[^CivCity_Rome_Rutracker] and "The Da Vinci Code"[^Da_Vinci_Code_Rutracker], both of which were localized by Atomy[^Atomy_Localization_MobyGames]. Funnily enough, the file description for "engine32.dll" present within "CivCity: Rome" is "The Da Vinci Code DLL-helper", despite having different hashes and being last modified on different days. Finally, one of (if not the) latest examples of engine32 being used is "Rayman Raving Rabbids 2"[^Rayman_Raving_Rabbids_Redump], by Buka Entertainment.
 
 It appears that engine32 originated in Nival, most likely as an exceedingly simple, easy to add DRM to add to their projects. It then appears to stopped being used by Nival, and instead began being used by Atomy. Atomy had also apparently hired several people who were originally from Nival around this time ("In 2006, he founded and headed the Atomy company, which included former employees of the Nival localization department.")[^Ilya_Mamontoc_Kanobu]. Curiously, the final currently known game to use "engine32.dll" was "Rayman Raving Rabbids 2", in which the protection still has a copyright of "Atomy games" despite the game being officially published in Russia by Buka Entertainment, suggesting a connection between the two. It's also important to note that the founder of Atomy also got an executive localization-related role at Buka Entertainment not long after (the same year as) founding Atomy[^Ilya_Mamontoc_Kanobu]. This leads me to believe that engine32 was originally developed by or for Nival initially, and was brought along to Atomy later by the ex-Nival team. Finally, it seems that it was brought to Buka Entertainment, either by the founder of Atomy when he took on an executive role there, or possibly by the same ex-Nival team, as some may have once again followed along to the new company.
 
@@ -101,7 +101,7 @@ Due to the unfortunately generic file name, there are a few cases of what are as
 The DRM itself is a simple disc check that appears to simply check for a generic file name on the disc. This means that it's completely bypassed by having a disc image mounted. It's also possible to easily modify a copy of "engine32.dll" to always pass the disc check, and this modified copy can be used on most, if not all, other games with engine32. The "engine32.dll" file that was modified to crack "One Must Fall: Battlegrounds"[^One_Must_Fall_Redump] has been confirmed to work for every known sample so far.
 
 
-[^Atomy_Localization_MobyGames]: [MobyGames list of games localized by Atomy. (Archived 2024-03-02)]https://web.archive.org/web/20240302035550/https://www.mobygames.com/company/10503/atomy/games/title:11/)
+[^Atomy_Localization_MobyGames]: [MobyGames list of games localized by Atomy. (Archived 2024-03-02)](https://web.archive.org/web/20240302035550/https://www.mobygames.com/company/10503/atomy/games/title:11/)
 
 [^Ilya_Mamontoc_Kanobu]: [A news article about Ilya Mamontov, founder of Atomy. (Archived 2024-03-02)](https://web.archive.org/web/20240302040129/https://kanobu.ru/news/glava-evropejskogo-ofisa-mailru-games-pereshel-v-crytek-371932/)
 
@@ -147,8 +147,6 @@ N/A.
 
 ### Additional Resources:
 
-[TODO: Make Wayback archives of links.]
-
 #### Rutracker posts:
  
 * [Forum post and torrent for "One Must Fall: Battlegrounds". (Archived 2024-03-02)](https://web.archive.org/web/20240302023831/https://rutracker.org/forum/viewtopic.php?t=5495752)
@@ -170,7 +168,7 @@ N/A.
 * [MobyGames page for Atomy. (Archived 2024-03-02)](https://web.archive.org/web/20240302035628/https://www.mobygames.com/company/10503/atomy/)
 * [MobyGames page for Nival. (Archived 2024-03-02)](https://web.archive.org/web/20240302045321/https://www.mobygames.com/company/925/nival-inc/)
 * [MobyGames page for ESDigital Games, formerly Buka Entertainment. (Archived 2024-03-02)](https://web.archive.org/web/20240302045726/https://www.mobygames.com/company/1392/esdigital-games/)
-* [MobyGames list of games localized by Atomy. (Archived 2024-03-02)]https://web.archive.org/web/20240302035550/https://www.mobygames.com/company/10503/atomy/games/title:11/)
+* [MobyGames list of games localized by Atomy. (Archived 2024-03-02)](https://web.archive.org/web/20240302035550/https://www.mobygames.com/company/10503/atomy/games/title:11/)
 
 #### Misc.:
 
