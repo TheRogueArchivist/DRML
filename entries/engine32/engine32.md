@@ -162,6 +162,7 @@ N/A.
 * [Internet Archive backup of the torrent for "Lionheart: Legacy of The Crusader".](https://archive.org/details/lionheart-legacy-of-the-crusader-l-rus-rus-2003-1-rutracker)
 * [Internet Archive backup of the torrent for "CivCity Rome".](https://archive.org/details/civcity-rome-l-rus-rus-2006-1-rutracker)
 * [Internet Archive backup of the torrent for "Rayman Raving Rabbids 2".](https://archive.org/details/rayman-raving-rabbids-2-2-l-rus-2007-rutracker)
+* [Internet Archive backup of the file contents for the GameCopyWorld page for LionHeart.](https://archive.org/details/lionheart-pc-game-gamecopyworld-file-backup)
 
 #### MobyGames: 
 
@@ -171,8 +172,6 @@ N/A.
 * [MobyGames list of games localized by Atomy. (Archived 2024-03-02)](https://web.archive.org/web/20240302035550/https://www.mobygames.com/company/10503/atomy/games/title:11/)
 
 #### Misc.:
-
-[TODO: Make sure files from GameCopyWorld are properly archived.]
 
 * [Crack for "Lionheart: Legacy of The Crusader" from GameCopyWorld. (Archived 2024-03-02)](https://web.archive.org/web/20240302050136/https://gamecopyworld.com/games/pc_lionheart.shtml)
 * [Torrent for "Colin McRae Rally 2005", including a crack (Untested. (Archived 2023-08-29)](https://web.archive.org/web/20230829003900/https://top.lafa.site/igry/Gonki/colin-mcrae-rally-2005.htm)
