@@ -44,6 +44,7 @@ Any action you take upon the information you find on this document is strictly a
 ### TODO
 ## Unknown / No Samples
 ### [Alcatraz](./entries/Alcatraz/Alcatraz.md)
+### [DBB](./entries/DBB/DBB.md)
 ### [Roxxe](./entries/Roxxe/Roxxe.md)
 
 
