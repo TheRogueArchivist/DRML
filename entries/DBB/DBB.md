@@ -24,6 +24,7 @@
 * [DRM Information](./DBB.md#DRM%20Information)
 	* [Names](./DBB.md#Names)
 	* [Developers](./DBB.md#Developers)
+	* [Protection Features](./DBB.md#Protection%20Features)
 	* [Overall Description](./DBB.md#Overall%20Description)
 	* [Timeline](./DBB.md#Timeline)
 	* [Versions & Differences](./DBB.md#Versions%20&%20Differences)
@@ -44,13 +45,6 @@
 
 * Optical Copy Protection
 * Unverified
-
-***
-
-## Protection Features:
-
-* Obfuscation [^DBB_Product_Page]
-* Checkpoint based validity checks [^DBB_PS_Product_Page]
 
 ***
 
@@ -91,6 +85,13 @@ Wkit Security AB[^Wkit_Homepage_2000]/EFFNet[^Wkit_Homepage_2001]
 [^Wkit_Homepage_2000]: [Wkit homepage. Note the news snippets on the sides, as the contents are present on the page, just not visible due to being black text on a black background. [English] (Archived 2000-12-04)](http://web.archive.org/web/20001204225500/http://www.wkit.com:80/index_eng.asp)
 
 [^Wkit_Homepage_2001]: [Wkit homepage. [English] (Archived 2001-08-02)](http://web.archive.org/web/20010802000235/http://www.wkit.com/sites/wkit/setup/eng/index.asp)
+
+***
+
+## Protection Features:
+
+* Obfuscation [^DBB_Product_Page]
+* Checkpoint based validity checks [^DBB_PS_Product_Page]
 
 ***
 
