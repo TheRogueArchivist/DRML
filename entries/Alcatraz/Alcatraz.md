@@ -1,6 +1,76 @@
-### Names: 
+# Entry Information:
 
-Alcatraz[^Alcatraz_Product_Page_2003], Alkatraz[^Alkatraz_Usage]
+## DRML Entry Name:
+
+**Alkatraz**
+
+***
+
+## Authors/Contributors:
+
+* TheRogueArchivist - Entry Author
+* ACMClassicalCode - Reformatter
+
+***
+
+## Table of Contents:
+
+* [Entry Information](./Alcatraz.md#Entry%20Information)
+	* [DRML Entry Name](./Alcatraz.md#DRML%20Entry%20Name)
+	* [Authors/Contributors](./Alcatraz.md#Authors/Contributors)
+	* [Table of Contents](./Alcatraz.md#Table%20of%20Contents)
+	* [Categories](./Alcatraz.md#Categories)
+	* [Software Known to Detect](./Alcatraz.md#Software%20Known%20to%20Detect)
+	* [Preservation Instructions](./Alcatraz.md#Preservation%20Instructions)
+* [DRM Information](./Alcatraz.md#DRM%20Information)
+	* [Names](./Alcatraz.md#Names)
+	* [Developers](./Alcatraz.md#Developers)
+	* [Protection Features](./Alcatraz.md#Protection%20Features)
+	* [Overall Description](./Alcatraz.md#Overall%20Description)
+	* [Timeline](./Alcatraz.md#Timeline)
+	* [Versions & Differences](./Alcatraz.md#Versions%20&%20Differences)
+	* [Samples](./Alcatraz.md#Samples)
+	* [Supported Platforms](./.md#Supported%20Platforms)
+	* [Associated File Attributes](./Alcatraz.md#Associated%20File%20Attributes)
+* [Reference Material](./Alcatraz.md#Reference%20Material)
+	* [Media](./Alcatraz.md#Media)
+	* [Additional Resources](./Alcatraz.md#Additional%20Resources)
+		* [Wkit Website](./Alcatraz.md#Wkit%20Website)
+		* [Press Releases](./Alcatraz.md#Press%20Releases)
+		* [Misc.](./Alcatraz.md#Misc.)
+	* [Footnotes](./Alcatraz.md#Footnotes)
+
+*** 
+
+## Categories: 
+
+* Optical Copy Protection
+
+***
+
+## Protection Features:
+
+N/A
+
+***
+
+## Software Known to Detect:
+
+N/A
+
+***
+
+## Preservation Instructions:
+
+N/A
+
+*** 
+
+# DRM Information:
+
+## Names: 
+
+* Alcatraz[^Alcatraz_Product_Page_2003], Alkatraz[^Alkatraz_Usage]
 
 [^Alcatraz_Product_Page_2003]: [Alcatraz product page. (Archived 2003-10-11)](https://web.archive.org/web/20031011203913/http://www.kdg-mt.com/1/product_d_6.html)
 
@@ -14,21 +84,30 @@ Alcatraz[^Alcatraz_Product_Page_2003], Alkatraz[^Alkatraz_Usage]
 
 ***
 
-### Categories: 
 
-Optical Copy Protection
+## Developers:
 
-***
-
-### Developers:
-
-kdg mediatech[^Alcatraz_Product_Page_2003]
+* kdg mediatech[^Alcatraz_Product_Page_2003]
 
 ***
 
-### Years Active: 
+## Overall Description:
+
+Alcatraz was a CD copy protection. No discs are known to have actually used this, though its significant lifespan online means that it's a distinct possibility that it was used at some point. Because of the limited information available, it's unknown exactly what methods of protection would have been used. It's doubly unknown what the exact difference in protection levels was.
+
+There were some informational PDFs present on the site, which were removed at the same time as the reference to multiple protection levels was removed. Unfortunately, only one of these appears to have been archived.[^Alcatraz_Promo]
+
+[TODO: Find older official material, as the only official material currently known is from 2003 onward.]
+
+[^Alcatraz_Promo]: [Alcatraz promotional material. (Archived 2004-04-16)](https://web.archive.org/web/20040416164237/http://www.kdg-mt.com/downloads/1/al.pdf)
+
+***
+
+## Timeline: 
 
 1998[^kdg_Timeline]-~2009[^Alcatraz_Product_Page_2009]
+
+[TODO: Chunk up the timeline. Find notable events.]
 
 [^kdg_Timeline]: [Timeline of kdg history. (Archived 2023-10-02)](https://web.archive.org/web/20231002191724/https://www.kdg.at/kdg-campus/)
 
@@ -36,9 +115,15 @@ kdg mediatech[^Alcatraz_Product_Page_2003]
 
 ***
 
-### Known Versions & Differences: 
+## Versions & Differences: 
 
-The original version of Alcatraz is described as being an in-house CD-R protection scheme.[^Alcatraz_Product_Page_2009]
+#### Tested:
+
+N/A
+
+#### Untested:
+
+* The original version of Alcatraz is described as being an in-house CD-R protection scheme.[^Alcatraz_Product_Page_2009]
 
 From at least 2000 onward, it seems to be described as being a CD-ROM protection scheme, initially with four distinct levels of protection being advertised.[^Alcatraz_CDRInfo]
 
@@ -77,11 +162,11 @@ Any mention of these additional protection levels was removed from the product p
 
 ***
 
-### Known Samples:
+## Samples:
  
 #### Confirmed:
 
- N/A
+N/A
 
 #### Unconfirmed: 
 
@@ -89,21 +174,29 @@ N/A
 
 ***
 
-### Overall Description:
+## Supported Platforms:
 
-Alcatraz was a CD copy protection. No discs are known to have actually used this, though its significant lifespan online means that it's a distinct possibility that it was used at some point. Because of the limited information available, it's unknown exactly what methods of protection would have been used. It's doubly unknown what the exact difference in protection levels was.
-
-There were some informational PDFs present on the site, which were removed at the same time as the reference to multiple protection levels was removed. Unfortunately, only one of these appears to have been archived.[^Alcatraz_Promo]
-
-[TODO: Find older official material, as the only official material currently known is from 2003 onward.]
-
-[^Alcatraz_Promo]: [Alcatraz promotional material. (Archived 2004-04-16)](https://web.archive.org/web/20040416164237/http://www.kdg-mt.com/downloads/1/al.pdf)
+N/A
 
 ***
 
-### Additional Resources & Documentation:
+## Associated File Attributes:
 
-#### Official Resources:
+N/A
+
+***
+
+# Reference Material:
+
+## Media: 
+
+N/A
+
+***
+
+## Additional Resources:
+
+### Official Resources:
 
 * [Alcatraz product page. (Archived 2003-10-11)](https://web.archive.org/web/20031011203913/http://www.kdg-mt.com/1/product_d_6.html)
 
@@ -113,7 +206,7 @@ There were some informational PDFs present on the site, which were removed at th
 
 * [Alcatraz promotional material. (Archived 2004-04-16)](https://web.archive.org/web/20040416164237/http://www.kdg-mt.com/downloads/1/al.pdf)
 
-#### Unofficial Resources:
+### Unofficial Resources:
 
 * [CDRInfo article about Alcatraz. (Archived 2023-10-02)](https://web.archive.org/web/20231002192828/https://cdrinfo.com/d7/content/alcatraz-copy-protection)
 
