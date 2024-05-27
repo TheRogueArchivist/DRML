@@ -50,13 +50,13 @@
 
 ## Protection Features:
 
-* N/A
+N/A
 
 ***
 
 ## Software Known to Detect:
 
-* N/A
+N/A
 
 ***
 
@@ -72,15 +72,15 @@ N/A
 
 * Alcatraz[^Alcatraz_Product_Page_2003], Alkatraz[^Alkatraz_Usage]
 
-* [^Alcatraz_Product_Page_2003]: [Alcatraz product page. (Archived 2003-10-11)](https://web.archive.org/web/20031011203913/http://www.kdg-mt.com/1/product_d_6.html)
+[^Alcatraz_Product_Page_2003]: [Alcatraz product page. (Archived 2003-10-11)](https://web.archive.org/web/20031011203913/http://www.kdg-mt.com/1/product_d_6.html)
 
-* [^Alkatraz_Usage]: Unofficial/Incorrect name used in a few places, such as a forum post about CD copy protections[^Alkatraz_indiastudychannel] and a journal paper about DRM.[^Alkatraz_Arxiv] It's worth noting that "Alkatraz" is also the proper name of a copy protection for the Amstrad CPC.[^Alkatraz_Amstrad]
+[^Alkatraz_Usage]: Unofficial/Incorrect name used in a few places, such as a forum post about CD copy protections[^Alkatraz_indiastudychannel] and a journal paper about DRM.[^Alkatraz_Arxiv] It's worth noting that "Alkatraz" is also the proper name of a copy protection for the Amstrad CPC.[^Alkatraz_Amstrad]
 
-* [^Alkatraz_indiastudychannel]: [Indiastudychannel forum post that briefly mentions "Alkatraz". (Archived 2023-10-02)](https://web.archive.org/web/20231002194853/https://www.indiastudychannel.com/experts/4307-Copy-protected-cd)
+[^Alkatraz_indiastudychannel]: [Indiastudychannel forum post that briefly mentions "Alkatraz". (Archived 2023-10-02)](https://web.archive.org/web/20231002194853/https://www.indiastudychannel.com/experts/4307-Copy-protected-cd)
 
-* [^Alkatraz_Arxiv]: [Journal paper about DRM that briefly mentions "Alkatraz"  (Archived 2023-10-02)](https://web.archive.org/web/20231002195309/https://arxiv.org/ftp/arxiv/papers/0911/0911.0402.pdf)
+[^Alkatraz_Arxiv]: [Journal paper about DRM that briefly mentions "Alkatraz"  (Archived 2023-10-02)](https://web.archive.org/web/20231002195309/https://arxiv.org/ftp/arxiv/papers/0911/0911.0402.pdf)
 
-* [^Alkatraz_Amstrad]: [Amstrad CPC wiki page about the Alkatraz DRM. (Wayback unable to archive page)](https://www.cpcwiki.eu/index.php?title=Howto:_Alkatraz_and_other_protections)
+[^Alkatraz_Amstrad]: [Amstrad CPC wiki page about the Alkatraz DRM. (Wayback unable to archive page)](https://www.cpcwiki.eu/index.php?title=Howto:_Alkatraz_and_other_protections)
 
 ***
 
@@ -107,11 +107,11 @@ There were some informational PDFs present on the site, which were removed at th
 
 1998[^kdg_Timeline]-~2009[^Alcatraz_Product_Page_2009]
 
+[TODO: Chunk up the timeline. Find notable events.]
+
 [^kdg_Timeline]: [Timeline of kdg history. (Archived 2023-10-02)](https://web.archive.org/web/20231002191724/https://www.kdg.at/kdg-campus/)
 
 [^Alcatraz_Product_Page_2009]: [Alcatraz product page. (Archived 2009-11-11)](https://web.archive.org/web/20091111022912/http://www.kdg-mt.com/1/product_d_6.html)
-
-[TODO: Chunk up the timeline. Find notable events.]
 
 ***
 
@@ -119,7 +119,7 @@ There were some informational PDFs present on the site, which were removed at th
 
 #### Tested:
 
-* N/A
+N/A
 
 #### Untested:
 
@@ -166,26 +166,23 @@ Any mention of these additional protection levels was removed from the product p
  
 #### Confirmed:
 
-* N/A
+N/A
 
 #### Unconfirmed: 
 
-* N/A
+N/A
 
 ***
 
 ## Supported Platforms:
 
-* {Unordered list of platforms this entry's DRM is supported on. This should include specific versions or products, if known.}
+N/A
 
 ***
 
 ## Associated File Attributes:
 
-### {Series of level 3 headers used to denote what attribute this entry's DRM has which can be used to identify it. TODO: Make standard list of file attributes that may be used.}
-
-#### {Series of level 4 headers used to list the identifying content of the file attribute of this entry's DRM.}
-{Further elaboration of the content, such as which files, products, versions, etc., it's found in, or what this content is known to do. For example, if file names are being listed, then this should specify what the files do if known.}
+N/A
 
 ***
 
@@ -231,4 +228,3 @@ N/A
 
 ### Footnotes:
 
-{This section should be completely empty in the editor. This section will be automatically populated by the footnotes created throughout the document, which should be created at the end of the section they are first used in. Names for each footnote should be sufficiently descriptive to clearly indicate what footnote they're referring to in the document to avoid confusion. These names don't need to be overly descriptive, but it's better to err on the side of being too descriptive instead of not descriptive enough.}
