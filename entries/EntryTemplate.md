@@ -22,7 +22,7 @@
 	* [Table of Contents](./EntryTemplate.md#Table%20of%20Contents)
 	* [Categories](./EntryTemplate.md#Categories)
 	* [Software Known to Detect](./EntryTemplate.md#Software%20Known%20to%20Detect)
-	* [Preservation Instructions](./EntryTemplate.ms#Preservation%20Instructions)
+	* [Preservation Instructions](./EntryTemplate.md#Preservation%20Instructions)
 * [DRM Information](./EntryTemplate.md#DRM%20Information)
 	* [Names](./EntryTemplate.md#Names)
 	* [Developers](./EntryTemplate.md#Developers)
