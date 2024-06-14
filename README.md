@@ -81,6 +81,7 @@ Any action you take upon the information you find on this document is strictly a
 * http://www.projectkaigo.org/grprotected.html
 * [German copy protection database software. (Possibly not final DB version)](https://web.archive.org/web/20020221142949/http://www.isis.de:80/members/~awenderh/tccd/TCCD26BDE.exe)
 * [German list of copy protected games and what versions of CloneCD can dump them.](http://dl.seite.net/cgi-bin/baseportal.pl?htx=/clonecd/main&range=0,737)
+* [Visual Novel Database list of DRM implementations, including lists of protected games.](https://vndb.org/r/drm?n=&s=&u=1)
 ## Lists of copy protected digital media
 * [Steam collection of games that have been protected with Denuvo Anti-Tamper.](https://store.steampowered.com/curator/26095454-Denuvo-Games/)
 * [List of games that have been protected with Denuvo Anti-Tamper.](https://www.game-debate.com/games/gamesWithDenuvo)
