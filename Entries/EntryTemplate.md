@@ -16,27 +16,37 @@
 
 ## Table of Contents:
 
-* [Entry Information](EntryTemplate.md#Entry%20Information)
-	* [DRML Entry Name](EntryTemplate.md#DRML%20Entry%20Name)
-	* [Authors/Contributors](EntryTemplate.md#Authors/Contributors)
-	* [Table of Contents](EntryTemplate.md#Table%20of%20Contents)
-	* [Categories](EntryTemplate.md#Categories)
-	* [Software Known to Detect](EntryTemplate.md#Software%20Known%20to%20Detect)
-	* [Preservation Instructions](EntryTemplate.md#Preservation%20Instructions)
-* [DRM Information](EntryTemplate.md#DRM%20Information)
-	* [Names](EntryTemplate.md#Names)
-	* [Developers](EntryTemplate.md#Developers)
-	* [Protection Features](EntryTemplate.md#Protection%20Features)
-	* [Overall Description](EntryTemplate.md#Overall%20Description)
-	* [Timeline](EntryTemplate.md#Timeline)
-	* [Versions & Differences](EntryTemplate.md#Versions%20&%20Differences)
-	* [Samples](EntryTemplate.md#Samples)
-	* [Supported Platforms](EntryTemplate.md#Supported%20Platforms)
-	* [Associated File Attributes](EntryTemplate.md#Associated%20File%20Attributes)
-* [Reference Material](EntryTemplate.md#Reference%20Material)
-	* [Media](EntryTemplate.md#Media)
-	* [Additional Resources](EntryTemplate.md#Additional%20Resources)
-	* [Footnotes](EntryTemplate.md#Footnotes)
+{This curly-bracket enclosed block of text should be removed in the final entry. The table of contents links to sections within the entry. The format is `[Header Name](#header-name)`, where the portion in parentheses is ``"#" + "name of the header in all lowercase with spaces replaced with a dash"``. If there are two words, also add a second link next to the first one with the format of `[Alt.](#Header%20Name)`, where the portion in parentheses is ``"#" + "name of the header (with original case preserved) with spaces replaced with %20"``. This is to maintain compatibility with Markdown readers (such as Obsidian) that don't recognize the first way to link to internal sections in a document.}
+
+* [Entry Information](#entry-information) ([Alt.](#Entry%20Information))
+	* [DRML Entry Name](#drml-entry-name) ([Alt.](#DRML%20Entry%20Name))
+	* [Authors/Contributors](#authors/contributors)
+	* [Table of Contents](#table-of-contents) ([Alt.](#Table%20of%20Contents))
+	* [Categories](#categories)
+	* [Software Known to Detect](#software-known-to-detect) ([Alt.](#Software%20Known%20to%20Detect))
+	* [Preservation Instructions](#preservation-instructions) ([Alt.](#Preservation%20Instructions))
+* [DRM Information](#drm-information) ([Alt.](#DRM%20Information))
+	* [Names](#names)
+	* [Developers](#developers)
+	* [Protection Features](#protection-features) ([Alt.](#Protection%20Features))
+	* [Overall Description](#overall-description) ([Alt.](#Overall%20Description))
+	* [Timeline](#timeline)
+		* {Series of level 4 headers to split up timeline into manageable chunks.}
+	* [Versions & Differences](#versions-&-differences) ([Alt.](#Versions%20&%20Differences))
+		* [Tested](#tested)
+		* [Untested](#untested)
+	* [Samples](#samples)
+		* [Confirmed](#confirmed)
+		* [Unconfirmed](#unconfirmed)
+	* [Supported Platforms](#supported-platforms) ([Alt.](#Supported%20Platforms))
+	* [Associated File Attributes](#associated-file-attributes) ([Alt.](#Associated%20File%20Attributes))
+		* {Series of level 3 headers used to denote what attribute this entry's DRM has which can be used to identify it. TODO: Make standard list of file attributes that may be used.}
+			* {Level 4 headers under each level 3 header in this section used to list the identifying content of the file attribute of this entry's DRM.}
+* [Reference Material](#reference-material) ([Alt.](#Reference%20Material))
+	* [Media](#media)
+	* [Additional Resources](#additional-resources) ([Alt.](#Additional%20Resources))
+		* {Series of level 3 headers used to organize the various resources as effectively as possible.}
+	* [Footnotes](#footnotes)
 
 *** 
 
@@ -143,7 +153,7 @@
 
 ## Additional Resources:
 
-### {Series of level 3 headers used to organize the various resources as effectively as possible.}:
+### {Series of level 3 headers used to organize the various resources as effectively as possible.}
 
 {Further context to these resources may be given here, if needed.}
 
