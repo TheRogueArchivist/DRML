@@ -16,11 +16,11 @@ There are two distinct versions that have been cataloged so far. One version dis
 
 Cenega error window present in IA item ["speed-pack"](https://archive.org/details/speed-pack):
 
-!["Cenega" - "Virtual drive was detected please insert original disc in drive." - "Check disk" - "Cancel"](./Cenega_ProtectDVD_Error_Message.png "Cenega error window.")
+!["Cenega" - "Virtual drive was detected please insert original disc in drive." - "Check disk" - "Cancel"](Cenega_ProtectDVD_Error_Message.png "Cenega error window.")
 
 Cenega "Media verification" window present in Redump entries [31422](http://redump.org/disc/31422) and [85070](http://redump.org/disc/85070/):
 
-!["Cenega" - "Trwa weryfikacja nośnika. Proszę czekać…".](./Cenega_ProtectDVD_Media_Verification.png "Cenega 'Media Verification' Window")
+!["Cenega" - "Trwa weryfikacja nośnika. Proszę czekać…".](Cenega_ProtectDVD_Media_Verification.png "Cenega 'Media Verification' Window")
 
 ### Known Samples: 
 

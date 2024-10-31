@@ -139,7 +139,7 @@ N/A.
 
 1. Error message when disc check fails for "Rayman Raving Rabbids 2"[^Rayman_Raving_Rabbids_Redump]:
 
-![Windows warning window with the title"Rayman Бешеные кролики 2: диск не найден!"; the main window text "Пожалуйста, поместите диск с игрой Rayman Бешеные кролики 2 в CD/DVD-привод."; and the option buttons "Retry" and "Cancel"](./engine32-rayman-error.png "Engine32 Error Message")
+![Windows warning window with the title"Rayman Бешеные кролики 2: диск не найден!"; the main window text "Пожалуйста, поместите диск с игрой Rayman Бешеные кролики 2 в CD/DVD-привод."; and the option buttons "Retry" and "Cancel"](engine32-rayman-error.png "Engine32 Error Message")
 
 [^Rayman_Raving_Rabbids_Redump]: Redump entry 106031.
 
