@@ -23,8 +23,6 @@
 	* [Authors/Contributors](#authors/contributors)
 	* [Table of Contents](#table-of-contents) ([Alt.](#Table%20of%20Contents))
 	* [Categories](#categories)
-	* [Software Known to Detect](#software-known-to-detect) ([Alt.](#Software%20Known%20to%20Detect))
-	* [Preservation Instructions](#preservation-instructions) ([Alt.](#Preservation%20Instructions))
 * [DRM Information](#drm-information) ([Alt.](#DRM%20Information))
 	* [Names](#names)
 	* [Developers](#developers)
@@ -39,6 +37,8 @@
 		* [Confirmed](#confirmed)
 		* [Unconfirmed](#unconfirmed)
 	* [Supported Platforms](#supported-platforms) ([Alt.](#Supported%20Platforms))
+	* [Software Known to Detect](#software-known-to-detect) ([Alt.](#Software%20Known%20to%20Detect))
+	* [Preservation Instructions](#preservation-instructions) ([Alt.](#Preservation%20Instructions))
 	* [Associated File Attributes](#associated-file-attributes) ([Alt.](#Associated%20File%20Attributes))
 		* {Series of level 3 headers used to denote what attribute this entry's DRM has which can be used to identify it. TODO: Make standard list of file attributes that may be used.}
 			* {Level 4 headers under each level 3 header in this section used to list the identifying content of the file attribute of this entry's DRM.}
@@ -62,18 +62,6 @@
 
 ***
 
-## Software Known to Detect:
-
-* {Unordered list of software able to detect DRM. TODO: Add list of most common programs here.}
-
-***
-
-## Preservation Instructions:
-
-{Instructions for how to effectively preserve media or content with this entry's DRM, including how to properly dump media and use content protected by it}
-
-*** 
-
 # DRM Information:
 
 ## Names: 
@@ -81,7 +69,6 @@
 * {Unordered list of names that this entry's DRM is known to go by. This can include official and unofficial names, including names coined by the DRML entry itself. Every name must have a footnote that either cites where it comes from, or explains why the name has been coined.}
 
 ***
-
 
 ## Developers:
 
@@ -131,6 +118,18 @@
 * {Unordered list of platforms this entry's DRM is supported on. This should include specific versions or products, if known.}
 
 ***
+
+## Software Known to Detect:
+
+* {Unordered list of software able to detect DRM. TODO: Add list of most common programs here.}
+
+***
+
+## Preservation Instructions:
+
+{Instructions for how to effectively preserve media or content with this entry's DRM, including how to properly dump media and use content protected by it}
+
+*** 
 
 ## Associated File Attributes:
 
