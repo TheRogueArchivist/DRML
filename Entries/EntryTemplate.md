@@ -43,6 +43,13 @@
 	* [Associated File Attributes](#associated-file-attributes) ([Alt.](#Associated%20File%20Attributes))
 		* {Series of level 3 headers used to denote what attribute this entry's DRM has which can be used to identify it. TODO: Make standard list of file attributes that may be used.}
 			* {Level 4 headers under each level 3 header in this section used to list the identifying content of the file attribute of this entry's DRM.}
+	* [Known Manufacturing Information](#known-manufacturing-information) ([Alt.](#Known%20Manufacturing%20Information))
+		* [Known Manufacturing Plants](#known-manufacturing-plants) ([Alt.](#Known%20Manufacturing%20Plants))
+		* [Known Ringcode Information](#known-ringcodeinformation) ([Alt.](#Known%20Ringcode%20Information))
+			* [Mastering Code](#mastering-code)  ([Alt.](#Mastering%20Code))
+			* [Mastering SID Code](#mastering-sid-code)  ([Alt.](#Mastering%20SID%20Code))
+			* [Toolstamp or Mastering Code](#toolstamp-or-mastering-code)  ([Alt.](#Toolstamp%20or%20Mastering%20Code))
+			* [Mould SID Code](#mould-sid-code)  ([Alt.](#Mould%20SID%20Code))
 * [Reference Material](#reference-material) ([Alt.](#Reference%20Material))
 	* [Media](#media)
 	* [Additional Resources](#additional-resources) ([Alt.](#Additional%20Resources))
@@ -144,6 +151,34 @@
 
 #### {Level 4 headers under each level 3 header in this section used to list the identifying content of the file attribute of this entry's DRM.}
 {Further elaboration of the content, such as which files, products, versions, etc., it's found in, or what this content is known to do. For example, if file names are being listed, then this should specify what the files do if known.}
+
+***
+
+## Known Manufacturing Information:
+
+### Known Manufacturing Plants:
+
+* {Unordered list of manufacturing plants, useful because some DRM were only able to be added to discs at specific plants.}
+  
+### Known Ringcode Information:
+
+{Delete this block of text enclosed in closed brackets. Information on what the various pieces of ringcode information are can be found here: http://wiki.redump.org/index.php?title=Ring_Code_Guide}
+
+#### Mastering Code:
+
+* {Unordered list of mastering codes known to be associated with the DRM.}
+
+#### Mastering SID Code:
+
+* {Unordered list of mastering SID codes known to be associated with the DRM.}
+
+#### Toolstamp or Mastering Code:
+
+* {Unordered list of toolstamp or mastering codes known to be associated with the DRM.}
+
+#### Mould SID Code:
+
+* {Unordered list of mould SID codes known to be associated with the DRM.}
 
 ***
 
