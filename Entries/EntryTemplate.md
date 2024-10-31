@@ -1,6 +1,6 @@
 # Entry Information:
 
-{Entry template to help standardize the style and contents of DRML entries. All text within curly brackets should be replaced with the relevant information, even if that information is simply "N/A", "Unknown", or an equivalent. Section names or other text not in curly brackets should be considered standard and shouldn't be removed. If changes are needed, they should be generalized to work with all existing entries, and this template should be edited to reflect that.}
+{Entry template to help standardize the style and contents of DRML entries. All text within curly brackets should be removed or replaced with the relevant information, even if that information is simply "N/A", "Unknown", or an equivalent. Section names or other text not in curly brackets should be considered standard and shouldn't be removed. If changes are needed, they should be generalized to work with all existing entries, and this template should be edited to reflect that.}
 
 ## DRML Entry Name:
 
@@ -36,9 +36,6 @@
 * [Reference Material](EntryTemplate.md#Reference%20Material)
 	* [Media](EntryTemplate.md#Media)
 	* [Additional Resources](EntryTemplate.md#Additional%20Resources)
-		* [Wkit Website](EntryTemplate.md#Wkit%20Website)
-		* [Press Releases](EntryTemplate.md#Press%20Releases)
-		* [Misc.](EntryTemplate.md#Misc.)
 	* [Footnotes](EntryTemplate.md#Footnotes)
 
 *** 
@@ -129,7 +126,7 @@
 
 ### {Series of level 3 headers used to denote what attribute this entry's DRM has which can be used to identify it. TODO: Make standard list of file attributes that may be used.}
 
-#### {Series of level 4 headers used to list the identifying content of the file attribute of this entry's DRM.}
+#### {Level 4 headers under each level 3 header in this section used to list the identifying content of the file attribute of this entry's DRM.}
 {Further elaboration of the content, such as which files, products, versions, etc., it's found in, or what this content is known to do. For example, if file names are being listed, then this should specify what the files do if known.}
 
 ***
