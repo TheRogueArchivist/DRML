@@ -35,7 +35,7 @@
 	* [Associated File Attributes](EntryTemplate.md#Associated%20File%20Attributes)
 * [Reference Material](EntryTemplate.md#Reference%20Material)
 	* [Media](EntryTemplate.md#Media)
-	* [Additional Resources](EntryTemplate.md#Additional%20Resources)
+	* [Additional Resources](EntryTemplate.md#<!--AdditionalResources-->)
 	* [Footnotes](EntryTemplate.md#Footnotes)
 
 *** 
@@ -141,6 +141,7 @@
 
 ***
 
+## <!--AdditionalResources-->
 ## Additional Resources:
 
 ### {Series of level 3 headers used to organize the various resources as effectively as possible.}:
