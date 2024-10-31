@@ -32,7 +32,7 @@
 	* [Overall Description](#overall-description) ([Alt.](#Overall%20Description))
 	* [Timeline](#timeline)
 		* {Series of level 4 headers to split up timeline into manageable chunks.}
-	* [Versions & Differences](#versions-&-differences) ([Alt.](#Versions%20&%20Differences))
+	* [Versions & Differences](#versions--differences) ([Alt.](#Versions%20&%20Differences))
 		* [Tested](#tested)
 		* [Untested](#untested)
 	* [Samples](#samples)
