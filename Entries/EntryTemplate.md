@@ -35,7 +35,7 @@
 	* [Associated File Attributes](EntryTemplate.md#Associated%20File%20Attributes)
 * [Reference Material](EntryTemplate.md#Reference%20Material)
 	* [Media](EntryTemplate.md#Media)
-	* [Additional Resources](EntryTemplate.md#<!--AdditionalResources-->)
+	* [Additional Resources](EntryTemplate.md#Additional%20Resources)
 	* [Footnotes](EntryTemplate.md#Footnotes)
 
 *** 
