@@ -16,7 +16,7 @@
 
 ## Table of Contents:
 
-* [Entry Information](EntryTemplate.md#Entry%20Information)
+* [Entry Information](#entry-information)
 	* [DRML Entry Name](EntryTemplate.md#DRML%20Entry%20Name)
 	* [Authors/Contributors](EntryTemplate.md#Authors/Contributors)
 	* [Table of Contents](EntryTemplate.md#Table%20of%20Contents)
