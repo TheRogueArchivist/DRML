@@ -22,30 +22,30 @@ Any action you take upon the information you find on this document is strictly a
 
 # Library
 ## Anti-Cheat
-### [Denuvo Anti-Cheat](Denuvo_Anti-Cheat.md)
+### [Denuvo Anti-Cheat](./Entries/Denuvo_Anti-Cheat/Denuvo_Anti-Cheat.md)
 ## Audio CD Protection
-### [CopyKiller](CopyKiller.md)
-### [MediaCloQ](MediaCloQ.md)
+### [CopyKiller](./Entries/CopyKiller/CopyKiller.md)
+### [MediaCloQ](./Entries/MediaCloQ/MediaCloQ.md)
 ## DRM Builder
-### [CopyKiller](CopyKiller.md)
-### [Freelock](Freelock.md)
+### [CopyKiller](./Entries/CopyKiller/CopyKiller.md)
+### [Freelock](./Entries/Freelock/Freelock.md)
 ## Multimedia DRM
-### [PlayJ](PlayJ.md)
+### [PlayJ](./Entries/PlayJ/PlayJ.md)
 ## Optical Copy Protection
-### [Bitpool](Bitpool.md)
-### [Cenega ProtectDVD](Cenega_ProtectDVD.md)
-### [CopyKiller](CopyKiller.md)
-### [DigiGuard](DigiGuard.md)
-### [engine32](engine32.md)
-### [Freelock](Freelock.md)
-### [MediaCloQ](MediaCloQ.md)
-### [phenoProtect](phenoProtect.md)
-### [Roxxe](Roxxe.md)
+### [Bitpool](./Entries/Bitpool/Bitpool.md)
+### [Cenega ProtectDVD](./Entries/Cenega_ProtectDVD/Cenega_ProtectDVD.md)
+### [CopyKiller](./Entries/CopyKiller/CopyKiller.md)
+### [DigiGuard](./Entries/DigiGuard/DigiGuard.md)
+### [engine32](./Entries/engine32/engine32.md)
+### [Freelock](./Entries/Freelock/Freelock.md)
+### [MediaCloQ](./Entries/MediaCloQ/MediaCloQ.md)
+### [phenoProtect](./Entries/phenoProtect/phenoProtect.md)
+### [Roxxe](./Entries/Roxxe/Roxxe.md)
 ## Packers
 ### TODO
 ## Unknown / No Samples
-### [Alcatraz](Alcatraz.md)
-### [DBB](DBB.md)
+### [Alcatraz](./Entries/Alcatraz/Alcatraz.md)
+### [DBB](./Entries/DBB/DBB.md)
 
 
 # Addenda
