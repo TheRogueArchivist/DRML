@@ -23,6 +23,7 @@
 	* [Authors/Contributors](#authors/contributors)
 	* [Table of Contents](#table-of-contents) ([Alt.](#Table%20of%20Contents))
 	* [Categories](#categories)
+	* [DRML Entry Version](#drml-entry-version) ([Alt.](#DRML%20Entry%20Version))
 * [DRM Information](#drm-information) ([Alt.](#DRM%20Information))
 	* [Names](#names)
 	* [Developers](#developers)
@@ -59,6 +60,12 @@
 ## Protection Features:
 
 * {Unordered list of applicable protection features. TODO: Add list of protection features here.}
+
+***
+
+## DRML Entry Version: 
+
+**{DRML Entry Version of the current entry. This currently shouldn't actually be included in entries, as the first version hasn't been finalized yet. The intention is that once versions are implemented, entries that need to be updated can be more easily singled out.}**
 
 ***
 
