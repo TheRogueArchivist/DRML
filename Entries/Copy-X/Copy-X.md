@@ -9,6 +9,7 @@
 ## Authors/Contributors:
 
 * HeroponRikiBestest - Entry author
+* TheRogueArchivist - Reviewer
 
 ***
 
@@ -16,7 +17,7 @@
 
 * [Entry Information](#entry-information) ([Alt.](#Entry%20Information))
 	* [DRML Entry Name](#drml-entry-name) ([Alt.](#DRML%20Entry%20Name))
-	* [Authors/Contributors](#authors/contributors)
+	* [Authors/Contributors](#authorscontributors)
 	* [Table of Contents](#table-of-contents) ([Alt.](#Table%20of%20Contents))
 	* [Categories](#categories)
 	* [DRML Entry Version](#drml-entry-version) ([Alt.](#DRML%20Entry%20Version))
@@ -38,7 +39,7 @@
 	* [Associated File Attributes](#associated-file-attributes) ([Alt.](#Associated%20File%20Attributes))
 	* [Known Manufacturing Information](#known-manufacturing-information) ([Alt.](#Known%20Manufacturing%20Information))
 		* [Known Manufacturing Plants](#known-manufacturing-plants) ([Alt.](#Known%20Manufacturing%20Plants))
-		* [Known Ringcode Information](#known-ringcodeinformation) ([Alt.](#Known%20Ringcode%20Information))
+		* [Known Ringcode Information](#known-ringcode-information) ([Alt.](#Known%20Ringcode%20Information))
 			* [Mastering Code](#mastering-code)  ([Alt.](#Mastering%20Code))
 			* [Mastering SID Code](#mastering-sid-code)  ([Alt.](#Mastering%20SID%20Code))
 			* [Toolstamp or Mastering Code](#toolstamp-or-mastering-code)  ([Alt.](#Toolstamp%20or%20Mastering%20Code))
@@ -86,10 +87,13 @@
 
 ## Developers:
 
-* optimal media production (Until 2011)[^CopyX_Current_Website]
-* optimal media (Current)
+* optimal media production[^CopyX_Original_Website] (Until 2011)[^Discogs_Optimal_Page]
+* optimal media[^CopyX_Current_Website] (Current)
+
+[^Discogs_Optimal_Page]: [Discogs page for optimal media](https://www.discogs.com/label/313190-Optimal-Media-GmbH)
 
 [^CopyX_Current_Website]: [The current optimal media website link.](https://www.optimal-media.com/)
+
 ***
 
 ## Overall Description:
@@ -98,6 +102,7 @@ Ring protection copy protection scheme from german company optimal media[^CopyX_
 Had to be mastered at a specific optimal media production plant[^CopyX_2009_Document].
 
 [^CopyX_2009_Document]: [Optimal media document from 2009, seemingly for prospective customers.](http://press9.de/fileadmin/user_upload/PDF/copy_protection_july_09.pdf)
+
 ***
 
 ## Timeline: 
@@ -122,7 +127,7 @@ Had to be mastered at a specific optimal media production plant[^CopyX_2009_Docu
 [^81628]: [Webmaster (USA))](http://redump.org/disc/81628/)
 [^108150]: [Case for TKKG, A - The Mystery of the Mayan Treasure (USA) (En,De)](http://redump.org/disc/108150/)
 [^48393]: [Emergency 4 - Global Fighters for Life (Germany) (Disc 1)](http://redump.org/disc/48393/)
-[^82475]: [Sluzhba 911 (Russia)][Remnants](http://redump.org/disc/82475/)
+[^82475]: [Sluzhba 911 (Russia) - Remnants](http://redump.org/disc/82475/)
 [^DE_EM2DX]: [German Emergency 2 Deluxe](waiting on null to upload/)
 [^Petterson]: [Petterson und Findus - Hühnertanz und Katerzirkus](waiting on null to upload)
 [^Kenny]: [Kenny's Adventure](waiting on null to upload)
@@ -154,7 +159,6 @@ No samples have been tested at the moment, so exact specifics cannot be confirme
 
 No samples currently known, and thus no information either.
 
-
 ***
 
 ## Samples:
@@ -174,20 +178,18 @@ No samples currently known, and thus no information either.
 * Many pieces of software from Magix 
 
 [^pcgames_de_westerner2]: [The Westerner 2 im PC-Games-Test: "Ein enttäuschendes Adventure ... " ](https://www.pcgames.de/The-Westerner-2-Fenimore-Fillmores-Revenge-Spiel-38466/Tests/The-Westerner-2-im-PC-Games-Test-Ein-enttaeuschendes-Adventure-679282/)
-[^gamestar_de_westerner2]: [The Westerner 2: Westernheld Fenimore Fillmore ist er-
-wachsen geworden. Im Gegenzug
-schrumpft die Spielzeit auf Babyformat.](https://download.gamestar.de/public/43400/43452/05_2009_096.pdf)
+[^gamestar_de_westerner2]: ["The Westerner 2" (gamestar.de Publication)](https://download.gamestar.de/public/43400/43452/05_2009_096.pdf)
 
 ***
 
 ## Supported Platforms:
 
-* light: Any (no software protection is employed, although it appears to mainly be marketed for Windows games regardless.)
+* copy-X light: Any (no software protection is employed, although it appears to mainly be marketed for Windows games regardless.)
 
-* professional: Windows
+* copy-X professional: Windows
 (Some professional games are Hybrid PC/Mac discs, but the Mac versions of these games do not appear to utilize any sort of software protection.)[^108150]
 
-* audio: Audio CD
+* copy-X audio: Audio CD
 
 ***
 
@@ -200,9 +202,9 @@ schrumpft die Spielzeit auf Babyformat.](https://download.gamestar.de/public/434
 
 ## Preservation Instructions:
 
-light: None
+copy-X light: None
 
-professional: Any sort of basic copy of the disc image appears to work.
+copy-X professional: Any sort of basic copy of the disc image appears to work.
 
 *** 
 
@@ -213,11 +215,13 @@ professional: Any sort of basic copy of the disc image appears to work.
 #### "System":
 Directory for dummy files used by most professional discs so far, as well as some light[^Kenny] discs.
 
-#### "ZDAT":
-Directory for dummy files used by some, but not all light discs, and one known professional[^Petterson] disc so far. One calls it zdata[^108150], at least one uses System instead. Further variance likely.
+#### "ZDAT"/"ZDATA":
+ZDAT is the directory for dummy files used by some, but not all light discs, and one known professional[^Petterson] disc so far. One calls it zdata[^108150], at least one uses System instead. Further variance likely.
 
 ### File Names:
+
 Note: file names are not case sensitive, and vary from disc to disc.
+
 #### "gov_*.x64":
 Dummy file associated with professional. Names include gov_io.x64, gov_05.x64, and mov_io.x64.
 
@@ -236,27 +240,27 @@ Dll file responsible for software protection on professional discs.
 
 ### Known Manufacturing Plants:
 
-* optimal media production
+* `optimal media production`
 
 ### Known Ringcode Information:
 
 #### Mastering Code:
 
-* manufactured by optimal media production	A######-0[Disc Number]
-* OH! Datenservice GmbH   www.oh-datenservice.de	A######-0[Disc Number]
-* KIDDINX	A######-0[Disc Number]
+* `manufactured by optimal media production	A######-0[Disc Number]`
+* `OH! Datenservice GmbH   www.oh-datenservice.de	A######-0[Disc Number]`
+* `KIDDINX	A######-0[Disc Number]`
 
 #### Mastering SID Code:
 
-* IFPI L571
+* `IFPI L571`
 
 #### Toolstamp or Mastering Code:
 
-* {Unordered list of toolstamp or mastering codes known to be associated with the DRM.}
+* N/A
 
 #### Mould SID Code:
 
-*  IFPI 97xx
+*  `IFPI 97xx`
 
 ***
 
@@ -274,8 +278,9 @@ this is from a specific game but idk how i put that on there iether
 
 ### Official Resources:
 
-[^CopyX_Original_Website]
-[^CopyX_2009_Document]
+* [The original optimal media link for copy-X.](https://web.archive.org/web/20011016234742/http://www.optimal-online.de:80/product/copy_x.htm)
+
+* [Optimal media document from 2009, seemingly for prospective customers.](http://press9.de/fileadmin/user_upload/PDF/copy_protection_july_09.pdf)
 
 ***
 
