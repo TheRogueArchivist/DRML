@@ -254,7 +254,7 @@ Dll file responsible for software protection on professional discs.
 
 ### Known Manufacturing Plants:
 
-* `optimal media production`
+* `optimal media production`[^CopyX_2009_Document]
 
 ### Known Ringcode Information:
 
