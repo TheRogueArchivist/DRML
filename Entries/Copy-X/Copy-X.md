@@ -92,7 +92,7 @@
 
 [^Discogs_Optimal_Page]: [Discogs page for optimal media](https://www.discogs.com/label/313190-Optimal-Media-GmbH)
 
-[^CopyX_Current_Website]: [The current optimal media website link.](https://www.optimal-media.com/)
+[^CopyX_Current_Website]: [The current optimal media website link.](https://web.archive.org/web/20241003002305/https://www.optimal-media.com/)
 
 ***
 
@@ -101,7 +101,7 @@
 Ring protection copy protection scheme from german company optimal media[^CopyX_Original_Website]. As seen in Names, four different types seem to have been in use[^CopyX_Original_Website]. Note that it has not yet been confirmed whether light and professional correspond to the currently established distinct behaviors, but it seems to be the most likely conclusion.
 Had to be mastered at a specific optimal media production plant[^CopyX_2009_Document].
 
-[^CopyX_2009_Document]: [Optimal media document from 2009, seemingly for prospective customers.](http://press9.de/fileadmin/user_upload/PDF/copy_protection_july_09.pdf)
+[^CopyX_2009_Document]: [Optimal media document from 2009, seemingly for prospective customers.](https://web.archive.org/web/20220322025111/http://press9.de/fileadmin/user_upload/PDF/copy_protection_july_09.pdf)
 
 ***
 
@@ -109,9 +109,9 @@ Had to be mastered at a specific optimal media production plant[^CopyX_2009_Docu
 
 #### 2000s
 
-* 2001?: Seems to come into existence about here.
+* 2001?: Seems to come into existence about here[^CopyX_Original_Website].
 
-* 2009?: Some sort of overhaul occurs.
+* 2009: Some sort of overhaul[^CopyX_2009_Document] of copy-X occurs.
 
 ***
 
@@ -178,8 +178,8 @@ No samples currently known, and thus no information either.
 [^D_1436646]: [Laava – Wherever You Are (I Feel Love)](https://www.discogs.com/release/1436646-Laava-Wherever-You-Are-I-Feel-Love)
 [^D_2182905]: [Manfred Mann* – 2006](https://www.discogs.com/release/2182905-Manfred-Mann-2006)
 [^D_451419]: [De-Phazz – Godsdog](https://www.discogs.com/release/451419-De-Phazz-Godsdog)
-[^pcgames_de_westerner2]: [The Westerner 2 im PC-Games-Test: "Ein enttäuschendes Adventure ... " ](https://www.pcgames.de/The-Westerner-2-Fenimore-Fillmores-Revenge-Spiel-38466/Tests/The-Westerner-2-im-PC-Games-Test-Ein-enttaeuschendes-Adventure-679282/)
-[^gamestar_de_westerner2]: ["The Westerner 2" (gamestar.de Publication)](https://download.gamestar.de/public/43400/43452/05_2009_096.pdf)
+[^pcgames_de_westerner2]: [The Westerner 2 im PC-Games-Test: "Ein enttäuschendes Adventure ... " ](https://web.archive.org/web/20090322110537/http://www.pcgames.de/aid,679282/The-Westerner-2-im-PC-Games-Test-Ein-enttaeuschendes-Adventure-/PC/Test/)
+[^gamestar_de_westerner2]: ["The Westerner 2" (gamestar.de Publication) (Archive pending)](https://download.gamestar.de/public/43400/43452/05_2009_096.pdf)
 
 ***
 
@@ -196,10 +196,14 @@ No samples currently known, and thus no information either.
 
 ## Software Known to Detect:
 
-* ProtectionID
+Note: While ProtectionID does detect copy-X, it detects it as "Optgraph Copy-X / Ring-Protech". As far as current research has found, there is no relation between copy-X and Ring Protech other than both being ring-based protections, and the optgraph file in question is not found on Ring Protech. PiD is thus believed to be incorrect in designating it also Ring-Protech, and it's just detecting Copy-X in these instances.
+
+* ProtectionID[^PiD_List]
 * BinaryObjectScanner[^BoS_File]
 
 [^BoS_File]: [BinaryObjectScanner code file in charge of detecting Copy-X](https://github.com/SabreTools/BinaryObjectScanner/blob/master/BinaryObjectScanner/Protection/CopyX.cs)
+
+[^PiD_List]: [Old PiD website link listing PC ISO protections](https://web.archive.org/web/20090830061942/http://pid.gamecopyworld.com/)
 
 ***
 
@@ -218,25 +222,25 @@ copy-X professional: Any sort of basic copy of the disc image appears to work. A
 ### File Directories:
 
 #### "System":
-Directory for dummy files used by most professional discs so far, as well as some light[^Kenny] discs.
+Directory for dummy files used by most professional[^48393][^DE_EM2DX] discs so far, as well as some light[^Kenny] discs.
 
-#### "ZDAT"/"ZDATA":
-ZDAT is the directory for dummy files used by some, but not all light discs, and one known professional[^Petterson] disc so far. One calls it zdata[^108150], at least one uses System instead. Further variance likely.
+#### "ZDAT"/"zdata":
+ZDAT is the directory for dummy files used by some[^84759][^107929][^81628][^101786], but not all[^Kenny] light discs, and two known professional[^Petterson] disc so far. One calls it zdata[^108150], one calls it ZDATA[^108150], and one uses System[^Kenny] instead. Further variance likely.
 
 ### File Names:
 
 Note: file names are not case sensitive, and vary from disc to disc.
 
-#### "gov_*.x64":
-Dummy file associated with professional. Names include gov_io.x64, gov_05.x64, and mov_io.x64.
+#### "[m/g]ov_*.x64":
+Dummy file associated with professional. Names include gov_io.x64[^108150][^Petterson], gov_05.x64[^48393][^DE_EM2DX], and mov_io.x64.
 
-#### "iofile.x64":
+#### "iofile.x64"[^48393][^DE_EM2DX][^108150][^Petterson]:
 Dummy file associated with professional. Seems to be directly referenced by optgraph.dll.
 
-#### "sound.x64":
-Dummy file associated with professional. Seemingly not present on at least one professional disc.
+#### "sound.x64"[^48393][^108150][^Petterson]:
+Dummy file associated with professional. Seemingly not present on at least one[^DE_EM2DX] professional disc.
 
-#### "optgraph.dll":
+#### "optgraph.dll"[^DE_EM2DX][^48393][^108150][^Petterson]:
 Dll file responsible for software protection on professional discs.
 
 ***
