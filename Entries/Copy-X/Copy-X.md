@@ -255,13 +255,15 @@ Dll file responsible for software protection on professional discs.
 
 #### Mastering Code:
 
-* `manufactured by optimal media production	A######-0[Disc Number]`
-* `OH! Datenservice GmbH   www.oh-datenservice.de	A######-0[Disc Number]`
-* `KIDDINX	A######-0[Disc Number]`
+Note: Tivola discs add "Tivola    MM/[last 2 digits of year]" in between "manufactured by optimal media production" and "A######-0[Disc Number]", but otherwise follow that format.
+
+* `manufactured by optimal media production    A######-0[Disc Number]`[^108150] (The majority of known samples have this mastering code. Only the ones that don't are listed below.)
+* `OH! Datenservice GmbH   www.oh-datenservice.de    A######-0[Disc Number]`[^48393][^DE_EM2DX] (Seemingly mainly used by Sixteen Tons Entertainment)
+* `KIDDINX    A######-0[Disc Number][^Petterson]
 
 #### Mastering SID Code:
 
-* `IFPI L571`
+* `IFPI L571`(Every known sample)
 
 #### Toolstamp or Mastering Code:
 
@@ -269,7 +271,7 @@ Dll file responsible for software protection on professional discs.
 
 #### Mould SID Code:
 
-*  `IFPI 97xx`
+*  `IFPI 97xx`(Every known sample)
 
 ***
 
