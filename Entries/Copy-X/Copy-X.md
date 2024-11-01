@@ -135,21 +135,18 @@ Had to be mastered at a specific optimal media production plant[^CopyX_2009_Docu
 
 #### copy-X light:
 
+This behavior has been tested, but it is still unconfirmed if it specifically corresponds to copy-X light. 
 Basic ring protection via dummy files intersected by rings. No software protection is used unless otherwise supplied by the game itself. Can be circumvented by simply not copying the dummy files when copying the rest of the game from the disc.
 
 #### copy-X professional:
 
-Builds upon copy-X light. Contains everything described there, but also adds software protection in the form of a disc check, which appears to additionally check one of the dummy files. Copy-X professional also checks if the contemporaneously-popular kernel debugging software SoftICE is active via a process called SoftICE-Test, checking both for "SoftICE for Windows 95" and for "SoftICE for Windows NT", ending game execution if detected when booting the game.
+This behavior has been tested, but it is still unconfirmed if it specifically corresponds to copy-X professional.
+Builds upon copy-X light. Contains everything described there, but also adds software protection in the form of a disc check, which appears to additionally check one of the dummy files. Copy-X professional also checks if the kernel debugging software SoftICE is active via a process called SoftICE-Test, checking both for "SoftICE for Windows 95" and for "SoftICE for Windows NT", ending game execution if detected when booting the game. This seems to be the only debugger protected against, likely due to the popularity of this debugger at the time.
 
 #### Untested:
 
 * copy-X audio[^D_8232013][^D_1436646][^D_2182905][^D_451419]
 * copy-X trial maker
-
-[^D_8232013]: [Die Wilden Kerle – DWK4 - Der Angriff Der Silberlichten (Das Hörspiel Zum Kinofilm)](https://www.discogs.com/release/8232013-Die-Wilden-Kerle-DWK4-Der-Angriff-Der-Silberlichten-Das-H%C3%B6rspiel-Zum-Kinofilm)
-[^D_1436646]: [Laava – Wherever You Are (I Feel Love)](https://www.discogs.com/release/1436646-Laava-Wherever-You-Are-I-Feel-Love)
-[^D_2182905]: [Manfred Mann* – 2006](https://www.discogs.com/release/2182905-Manfred-Mann-2006)
-[^D_451419]: [De-Phazz – Godsdog](https://www.discogs.com/release/451419-De-Phazz-Godsdog)
 
 #### copy-X audio:
 
@@ -177,6 +174,10 @@ No samples currently known, and thus no information either.
 * Many games from Terzio
 * Many pieces of software from Magix 
 
+[^D_8232013]: [Die Wilden Kerle – DWK4 - Der Angriff Der Silberlichten (Das Hörspiel Zum Kinofilm)](https://www.discogs.com/release/8232013-Die-Wilden-Kerle-DWK4-Der-Angriff-Der-Silberlichten-Das-H%C3%B6rspiel-Zum-Kinofilm)
+[^D_1436646]: [Laava – Wherever You Are (I Feel Love)](https://www.discogs.com/release/1436646-Laava-Wherever-You-Are-I-Feel-Love)
+[^D_2182905]: [Manfred Mann* – 2006](https://www.discogs.com/release/2182905-Manfred-Mann-2006)
+[^D_451419]: [De-Phazz – Godsdog](https://www.discogs.com/release/451419-De-Phazz-Godsdog)
 [^pcgames_de_westerner2]: [The Westerner 2 im PC-Games-Test: "Ein enttäuschendes Adventure ... " ](https://www.pcgames.de/The-Westerner-2-Fenimore-Fillmores-Revenge-Spiel-38466/Tests/The-Westerner-2-im-PC-Games-Test-Ein-enttaeuschendes-Adventure-679282/)
 [^gamestar_de_westerner2]: ["The Westerner 2" (gamestar.de Publication)](https://download.gamestar.de/public/43400/43452/05_2009_096.pdf)
 
@@ -196,15 +197,19 @@ No samples currently known, and thus no information either.
 ## Software Known to Detect:
 
 * ProtectionID
-* BinaryObjectScanner
+* BinaryObjectScanner[^BoS_File]
+
+[^BoS_File]: [BinaryObjectScanner code file in charge of detecting Copy-X](https://github.com/SabreTools/BinaryObjectScanner/blob/master/BinaryObjectScanner/Protection/CopyX.cs)
 
 ***
 
 ## Preservation Instructions:
 
-copy-X light: None
+The ring protection present on all copy-X discs will cause errors during dumping. This will not cause issues with the playability of the final image, but may make it difficult or slow to copy/rip data, and makes it very difficult to guarantee you've gotten a 1:1 rip of all data on the disc.
 
-copy-X professional: Any sort of basic copy of the disc image appears to work.
+copy-X light: None. Copying all files from the disc besides the dummy data directory is sufficient to defeat the protection.
+
+copy-X professional: Any sort of basic copy of the disc image appears to work. An ISO of the game will function, as will Bin/Cue or other similar formats if the game has audio tracks.
 
 *** 
 
@@ -268,10 +273,12 @@ Dll file responsible for software protection on professional discs.
 
 ## Media: 
 
-Add example image to template is right, how do i put these in here
-1. [SoftICE for Windows 95 running before booting the game.](SoftICE_Detected.png)
-2. ["SoftICE for Windows 95" being detected.](SoftICE_Detected.png)
-this is from a specific game but idk how i put that on there iether
+1. 'SoftICE for Windows 95' being detected[^108150]:  
+!["SoftICE für Windows95 aktiv!"](SoftICE_95_Detected.png "'SoftICE for Windows 95' being detected")
+
+2. 'SoftICE for Windows NT' being detected[^108150]:  
+!["SoftICE für WindowsNT aktiv!"](SoftICE_NT_Detected.png "'SoftICE for Windows NT' being detected")
+
 ***
 
 ## Additional Resources:
