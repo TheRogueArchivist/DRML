@@ -188,7 +188,8 @@
 
 {This section is intended for media which can be collected from this entry's DRM, such as screenshots. Media either directly included in the DRM (such as splashscreen files themselves) or provided by outside sources (whether official or unofficial) should be linked to separately in the "Additional Resources" section. This section is currently only made to support images, though other media may possibly in scope with the proper adjustments to the template.}
 
-1. {Ordered list, where each item is given a brief description before being directly embedded into the entry. The actual embedded media should be described as thoroughly as possible for accessibility. TODO: Add example image to template.}
+1. {Ordered list, where each item is given a brief description before being directly embedded into the entry. The actual embedded media should be described as thoroughly as possible for accessibility. The format for how images should be embedded can be found below this text-block.}
+   `![Thorough description of what is seen on the image, using quotation marks to indicate text.](Filename "Brief description of what the image is.")`
 
 ***
 
