@@ -16,11 +16,11 @@
 
 ## Table of Contents:
 
-{This curly-bracket enclosed block of text should be removed in the final entry. The table of contents links to sections within the entry. The format is `[Header Name](#header-name)`, where the portion in parentheses is ``"#" + "name of the header in all lowercase with spaces replaced with a dash"``. If there are two words, also add a second link next to the first one with the format of `[Alt.](#Header%20Name)`, where the portion in parentheses is ``"#" + "name of the header (with original case preserved) with spaces replaced with %20"``. This is to maintain compatibility with Markdown readers (such as Obsidian) that don't recognize the first way to link to internal sections in a document.}
+{This curly-bracket enclosed block of text should be removed in the final entry. The table of contents links to sections within the entry. The format is `[Header Name](#header-name)`, where the portion in parentheses is ``"#" + "name of the header in all lowercase with spaces replaced with a dash"``. If there are two words, also add a second link next to the first one with the format of `[Alt.](#Header%20Name)`, where the portion in parentheses is ``"#" + "name of the header (with original case preserved) with spaces replaced with %20"``. This is to maintain compatibility with Markdown readers (such as Obsidian) that don't recognize the first way to link to internal sections in a document. Certain special characters, such as "/" and "&" need to be omitted from the primary (non-alt) links.}
 
 * [Entry Information](#entry-information) ([Alt.](#Entry%20Information))
 	* [DRML Entry Name](#drml-entry-name) ([Alt.](#DRML%20Entry%20Name))
-	* [Authors/Contributors](#authors/contributors)
+	* [Authors/Contributors](#authorscontributors)
 	* [Table of Contents](#table-of-contents) ([Alt.](#Table%20of%20Contents))
 	* [Categories](#categories)
 	* [DRML Entry Version](#drml-entry-version) ([Alt.](#DRML%20Entry%20Version))
@@ -45,7 +45,7 @@
 			* {Level 4 headers under each level 3 header in this section used to list the identifying content of the file attribute of this entry's DRM.}
 	* [Known Manufacturing Information](#known-manufacturing-information) ([Alt.](#Known%20Manufacturing%20Information))
 		* [Known Manufacturing Plants](#known-manufacturing-plants) ([Alt.](#Known%20Manufacturing%20Plants))
-		* [Known Ringcode Information](#known-ringcodeinformation) ([Alt.](#Known%20Ringcode%20Information))
+		* [Known Ringcode Information](#known-ringcode-information) ([Alt.](#Known%20Ringcode%20Information))
 			* [Mastering Code](#mastering-code)  ([Alt.](#Mastering%20Code))
 			* [Mastering SID Code](#mastering-sid-code)  ([Alt.](#Mastering%20SID%20Code))
 			* [Toolstamp or Mastering Code](#toolstamp-or-mastering-code)  ([Alt.](#Toolstamp%20or%20Mastering%20Code))
