@@ -59,10 +59,13 @@
 
 ## Protection Features:
 
-* Ring protection
-* Dummy files
-* Disc check (Professional)
-* SoftICE Debugger Protection (Professional)
+* Ring protection[^Check_Versions_Light]
+* Dummy files[^Check_Versions_Light]
+* Disc check[^Check_Versions_Professional]
+* SoftICE Debugger Protection[^Check_Versions_Professional]
+
+[^Check_Versions_Light]: Please see the entry for "copy-X light" in "Versions & Differences" section.
+[^Check_Versions_Professional]: Please see the entry for "copy-X professional" in "Versions & Differences" section.
 
 ***
 
