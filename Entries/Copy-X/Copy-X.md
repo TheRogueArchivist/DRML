@@ -139,7 +139,9 @@ Had to be mastered at a specific optimal media production plant[^CopyX_2009_Docu
 ##### copy-X light:
 
 This behavior has been tested, but it is still unconfirmed if it specifically corresponds to copy-X light. 
-Basic ring protection via dummy files intersected by rings. No software protection is used unless otherwise supplied by the game itself. Can be circumvented by simply not copying the dummy files when copying the rest of the game from the disc.
+Basic ring protection via dummy files intersected[^Dummy_Confirmation] by rings. No software protection is used unless otherwise supplied by the game itself. Can be circumvented by simply not copying the dummy files when copying the rest of the game from the disc.
+
+[^Dummy_Confirmation]: Confirmed via checking dummy files in a hex editor. These dummy files are always intersected by rings (0x55 on redump-images, varies on others depending on what the dumping program does with those errors).
 
 ##### copy-X professional:
 
