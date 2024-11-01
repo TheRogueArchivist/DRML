@@ -133,12 +133,12 @@ Had to be mastered at a specific optimal media production plant[^CopyX_2009_Docu
 [^Kenny]: [Kenny's Adventure](waiting on null to upload)
 [^101786]: [Max and the Magician (Europe) (En,Fr,De,Es)](http://redump.org/disc/101786/)
 
-#### copy-X light:
+##### copy-X light:
 
 This behavior has been tested, but it is still unconfirmed if it specifically corresponds to copy-X light. 
 Basic ring protection via dummy files intersected by rings. No software protection is used unless otherwise supplied by the game itself. Can be circumvented by simply not copying the dummy files when copying the rest of the game from the disc.
 
-#### copy-X professional:
+##### copy-X professional:
 
 This behavior has been tested, but it is still unconfirmed if it specifically corresponds to copy-X professional.
 Builds upon copy-X light. Contains everything described there, but also adds software protection in the form of a disc check, which appears to additionally check one of the dummy files. Copy-X professional also checks if the kernel debugging software SoftICE is active via a process called SoftICE-Test, checking both for "SoftICE for Windows 95" and for "SoftICE for Windows NT", ending game execution if detected when booting the game. This seems to be the only debugger protected against, likely due to the popularity of this debugger at the time.
@@ -148,11 +148,11 @@ Builds upon copy-X light. Contains everything described there, but also adds sof
 * copy-X audio[^D_8232013][^D_1436646][^D_2182905][^D_451419]
 * copy-X trial maker
 
-#### copy-X audio:
+##### copy-X audio:
 
 No samples have been tested at the moment, so exact specifics cannot be confirmed. Used to protect Audio CDs.
 
-#### copy-X trial maker:
+##### copy-X trial maker:
 
 No samples currently known, and thus no information either.
 
