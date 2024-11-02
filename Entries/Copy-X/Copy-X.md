@@ -311,10 +311,10 @@ Note: Tivola discs add "Tivola    MM/[last 2 digits of year]" in between "manufa
 ## Media: 
 
 1. 'SoftICE for Windows 95' being detected[^108150]:  
-!["SoftICE für Windows95 aktiv!"](SoftICE_95_Detected.png "'SoftICE for Windows 95' being detected")
+!["SoftICE-Test" + "SoftICE für Windows95 aktiv!" + "OK"](SoftICE_95_Detected.png "'SoftICE for Windows 95' being detected")
 
 2. 'SoftICE for Windows NT' being detected[^108150]:  
-!["SoftICE für WindowsNT aktiv!"](SoftICE_NT_Detected.png "'SoftICE for Windows NT' being detected")
+!["SoftICE-Test" + "SoftICE für WindowsNT aktiv!" + "OK".](SoftICE_NT_Detected.png "'SoftICE for Windows NT' being detected")
 
 ***
 
