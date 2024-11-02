@@ -9,6 +9,7 @@
 ## Authors/Contributors:
 
 * HeroponRikiBestest - Entry author
+* gig3x - Background information, leads, and research allowing for the creation of this article
 * TheRogueArchivist - Reviewer
 
 ***
@@ -139,7 +140,7 @@ Had to be mastered at a specific optimal media production plant[^CopyX_2009_Docu
 ##### copy-X light:
 
 This behavior has been tested, but it is still unconfirmed if it specifically corresponds to copy-X light. 
-Basic ring protection via dummy files intersected[^Dummy_Confirmation] by rings. No software protection is used unless otherwise supplied by the game itself. Can be circumvented by simply not copying the dummy files when copying the rest of the game from the disc.
+Basic ring protection via dummy files intersected[^Dummy_Confirmation] by rings. No software protection is used unless otherwise supplied by the game itself[^84759]. Can be circumvented by simply not copying the dummy files when copying the rest of the game from the disc.
 
 [^Dummy_Confirmation]: Confirmed via checking dummy files in a hex editor. These dummy files are always intersected by rings (0x55 on redump-images, varies on others depending on what the dumping program does with those errors).
 
@@ -150,7 +151,7 @@ Builds upon copy-X light. Contains everything described there, but also adds sof
 
 #### Untested:
 
-* copy-X audio[^D_8232013][^D_1436646][^D_2182905][^D_451419]
+* copy-X audio
 * copy-X trial maker
 
 ##### copy-X audio:
@@ -167,18 +168,43 @@ No samples currently known, and thus no information either.
  
 #### Confirmed:
 
-* copy-X light[^84759][^107929][^81628][^Kenny][^101786]
-* copy-X professional[^108150][^48393][^82475][^DE_EM2DX][^Petterson]
+	*copy-X light
+		* Black Cats and Pointed Hats (USA) (En,De) [^84759]
+		* Robinson Crusoe (USA)[^107929]
+		* Webmaster (USA)[^81628]
+		* Kenny's Adventure[^Kenny]
+		* Max and the Magician (Europe) (En,Fr,De,Es)[^101786]
+	*copy-X professional[^82475]
+		* Case for TKKG, A - The Mystery of the Mayan Treasure (USA) (En,De)[^108150]
+		* Emergency 4 - Global Fighters for Life (Germany) (Disc 1)[^48393]
+		* German Emergency 2 Deluxe[^DE_EM2DX]
+		* Petterson und Findus - Hühnertanz und Katerzirkus[^Petterson]
+		* Sluzhba 911 (Russia)[^82475] - Remnants (Official Russian release of Emergency 2 with protection removed)
 
 #### Unconfirmed: 
 
-* copy-X audio[^D_8232013][^D_1436646][^D_2182905][^D_451419]
-* German Westerner 2[^pcgames_de_westerner2][^gamestar_de_westerner2]
+	*copy-X (Unsure which variant):
+		* Alberts mysterioese Insel (Germany)[^116827]
+		* Ein Fall fuer TKKG - Das geheimnisvolle Testament (Germany)[^108587]
+		* Onkel Alberts geheimnisvolles Notizbuch (Germany)[^116828]
+		* Webmaster (Germany)[^116418]
+	*copy-X light:
+		* German Westerner 2[^pcgames_de_westerner2][^gamestar_de_westerner2]
+	*copy-X audio:
+		* Die Wilden Kerle – DWK4 - Der Angriff Der Silberlichten (Das Hörspiel Zum Kinofilm)[^D_8232013]
+		* Laava – Wherever You Are (I Feel Love)[^D_1436646]
+		* Manfred Mann* – 2006[^D_2182905]
+		* De-Phazz – Godsdog[^D_451419]
+
 * Many games from Sixteen Tons Entertainment
 * Many games from Tivola
 * Many games from Terzio
 * Many pieces of software from Magix 
 
+[^116827]: [Alberts mysterioese Insel (Germany)](http://redump.org/disc/116827/)
+[^108587]: [Ein Fall fuer TKKG - Das geheimnisvolle Testament (Germany)](http://redump.org/disc/108587/)
+[^116828]: [Onkel Alberts geheimnisvolles Notizbuch (Germany)](http://redump.org/disc/116828/)
+[^116418]: [Webmaster (Germany)](http://redump.org/disc/116418/)
 [^D_8232013]: [Die Wilden Kerle – DWK4 - Der Angriff Der Silberlichten (Das Hörspiel Zum Kinofilm)](https://www.discogs.com/release/8232013-Die-Wilden-Kerle-DWK4-Der-Angriff-Der-Silberlichten-Das-H%C3%B6rspiel-Zum-Kinofilm)
 [^D_1436646]: [Laava – Wherever You Are (I Feel Love)](https://www.discogs.com/release/1436646-Laava-Wherever-You-Are-I-Feel-Love)
 [^D_2182905]: [Manfred Mann* – 2006](https://www.discogs.com/release/2182905-Manfred-Mann-2006)
