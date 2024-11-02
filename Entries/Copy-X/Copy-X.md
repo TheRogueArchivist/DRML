@@ -85,7 +85,7 @@
 * copy-X professional[^CopyX_Original_Website]
 * copy-X trial maker[^CopyX_Original_Website]
 
-[^CopyX_Original_Website]: [The original optimal media link for copy-X.](https://web.archive.org/web/20011016234742/http://www.optimal-online.de:80/product/copy_x.htm)
+[^CopyX_Original_Website]: [First known description of copy-X.](https://web.archive.org/web/20011016234742/http://www.optimal-online.de:80/product/copy_x.htm)
 
 ***
 
@@ -105,7 +105,7 @@
 Ring protection copy protection scheme from german company optimal media[^CopyX_Original_Website]. As seen in Names, four different types seem to have been in use[^CopyX_Original_Website]. Note that it has not yet been confirmed whether light and professional correspond to the currently established distinct behaviors, but it seems to be the most likely conclusion.
 Had to be mastered at a specific optimal media production plant[^CopyX_2009_Document].
 
-[^CopyX_2009_Document]: [Optimal media document from 2009, seemingly for prospective customers.](https://web.archive.org/web/20220322025111/http://press9.de/fileadmin/user_upload/PDF/copy_protection_july_09.pdf)
+[^CopyX_2009_Document]: [Optimal media document from 2009, seemingly for prospective customers.](http://web.archive.org/web/20110126034444/http://www.optimal-online.de/fileadmin/user_upload/PDF/copy_protection_july_09.pdf)
 
 ***
 
@@ -113,9 +113,13 @@ Had to be mastered at a specific optimal media production plant[^CopyX_2009_Docu
 
 #### 2000s
 
-* 2001?: Seems to come into existence about here[^CopyX_Original_Website].
+* 2000-03-02: First known reference to copy-X.[^CopyX_First_Reference].
 
 * 2009: Some sort of overhaul[^CopyX_2009_Document] of copy-X occurs.
+
+* 2011: Last known official reference to copy-X.[^CopyX_2009_Document] (Document is from 2009, but it was hosted on their website until at least 2011)
+
+[^CopyX_First_Reference]: [First known reference to copy-X.](https://web.archive.org/web/20000302195240/http://www.optimal-online.de:80/product_1.htm)
 
 ***
 
@@ -322,9 +326,9 @@ Note: Tivola discs add "Tivola    MM/[last 2 digits of year]" in between "manufa
 
 ### Official Resources:
 
-* [The original optimal media link for copy-X.](https://web.archive.org/web/20011016234742/http://www.optimal-online.de:80/product/copy_x.htm)
+* [First known description of copy-X.](https://web.archive.org/web/20011016234742/http://www.optimal-online.de:80/product/copy_x.htm)
 
-* [Optimal media document from 2009, seemingly for prospective customers.](http://press9.de/fileadmin/user_upload/PDF/copy_protection_july_09.pdf)
+* [Optimal media document from 2009, seemingly for prospective customers.](https://web.archive.org/web/20220322025111/http://press9.de/fileadmin/user_upload/PDF/copy_protection_july_09.pdf)
 
 ***
 
