@@ -34,6 +34,7 @@ Any action you take upon the information you find on this document is strictly a
 ## Optical Copy Protection
 ### [Bitpool](./Entries/Bitpool/Bitpool.md)
 ### [Cenega ProtectDVD](./Entries/Cenega_ProtectDVD/Cenega_ProtectDVD.md)
+### [copy-X](./Entries/Copy-X/Copy-X.md)
 ### [CopyKiller](./Entries/CopyKiller/CopyKiller.md)
 ### [DigiGuard](./Entries/DigiGuard/DigiGuard.md)
 ### [engine32](./Entries/engine32/engine32.md)
