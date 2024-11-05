@@ -117,9 +117,9 @@ Had to be mastered at a specific optimal media production plant[^CopyX_2009_Docu
 
 * 2009: Some sort of overhaul[^CopyX_2009_Document] of copy-X occurs.
 
-* 2011: Last known official reference to copy-X.[^CopyX_2009_Document] (Document is from 2009, but it was hosted on their website until at least 2011)
+* 2011-01-26: Last known official reference to copy-X.[^CopyX_2009_Document] (Document is from 2009, but it was hosted on their website until at least 2011)
 
-[^CopyX_First_Reference]: [First known reference to copy-X.](https://web.archive.org/web/20000302195240/http://www.optimal-online.de:80/product_1.htm)
+[^CopyX_First_Reference]: [First known reference to copy-X, which is present in the "Kopierschutzverfahren" link.](https://web.archive.org/web/20000302195240/http://www.optimal-online.de:80/product_1.htm)
 
 ***
 
@@ -200,11 +200,6 @@ No samples currently known, and thus no information either.
 		* Manfred Mann* – 2006[^D_2182905]
 		* De-Phazz – Godsdog[^D_451419]
 
-* Many games from Sixteen Tons Entertainment
-* Many games from Tivola
-* Many games from Terzio
-* Many pieces of software from Magix 
-
 [^116827]: [Alberts mysterioese Insel (Germany)](http://redump.org/disc/116827/)
 [^108587]: [Ein Fall fuer TKKG - Das geheimnisvolle Testament (Germany)](http://redump.org/disc/108587/)
 [^116828]: [Onkel Alberts geheimnisvolles Notizbuch (Germany)](http://redump.org/disc/116828/)
@@ -231,9 +226,7 @@ No samples currently known, and thus no information either.
 
 ## Software Known to Detect:
 
-Note: While ProtectionID does detect copy-X, it detects it as "Optgraph Copy-X / Ring-Protech". As far as current research has found, there is no relation between copy-X and Ring Protech other than both being ring-based protections, and the optgraph file in question is not found on Ring Protech. PiD is thus believed to be incorrect in designating it also Ring-Protech, and it's just detecting Copy-X in these instances.
-
-* ProtectionID[^PiD_List]
+* ProtectionID[^PiD_List] (Note: While ProtectionID does detect copy-X, it detects it as "Optgraph Copy-X / Ring-Protech". As far as current research has found, there is no relation between copy-X and Ring Protech other than both being ring-based protections, and the optgraph file in question is not found on Ring Protech. PiD is thus believed to be incorrect in designating it also Ring-Protech, and it's just detecting Copy-X in these instances.)
 * BinaryObjectScanner[^BoS_File]
 
 [^BoS_File]: [BinaryObjectScanner code file in charge of detecting Copy-X](https://github.com/SabreTools/BinaryObjectScanner/blob/master/BinaryObjectScanner/Protection/CopyX.cs)
