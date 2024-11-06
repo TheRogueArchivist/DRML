@@ -209,7 +209,7 @@ No samples currently known, and thus no information either.
 [^D_2182905]: [Manfred Mann* – 2006](https://www.discogs.com/release/2182905-Manfred-Mann-2006)
 [^D_451419]: [De-Phazz – Godsdog](https://www.discogs.com/release/451419-De-Phazz-Godsdog)
 [^pcgames_de_westerner2]: [The Westerner 2 im PC-Games-Test: "Ein enttäuschendes Adventure ... " ](https://web.archive.org/web/20090322110537/http://www.pcgames.de/aid,679282/The-Westerner-2-im-PC-Games-Test-Ein-enttaeuschendes-Adventure-/PC/Test/)
-[^gamestar_de_westerner2]: ["The Westerner 2" (gamestar.de Publication) (Archive pending)](https://download.gamestar.de/public/43400/43452/05_2009_096.pdf)
+[^gamestar_de_westerner2]: ["The Westerner 2" (gamestar.de Publication) (Archive pending)](https://web.archive.org/web/20241106002332/https://download.gamestar.de/public/43400/43452/05_2009_096.pdf)
 
 ***
 
