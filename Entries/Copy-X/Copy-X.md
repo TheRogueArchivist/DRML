@@ -172,33 +172,33 @@ No samples currently known, and thus no information either.
  
 #### Confirmed:
 
-	*copy-X light
-		* Black Cats and Pointed Hats (USA) (En,De) [^84759]
-		* Robinson Crusoe (USA)[^107929]
-		* Webmaster (USA)[^81628]
-		* Kenny's Adventure[^Kenny]
-		* Max and the Magician (Europe) (En,Fr,De,Es)[^101786]
-	*copy-X professional[^82475]
-		* Case for TKKG, A - The Mystery of the Mayan Treasure (USA) (En,De)[^108150]
-		* Emergency 4 - Global Fighters for Life (Germany) (Disc 1)[^48393]
-		* German Emergency 2 Deluxe[^DE_EM2DX]
-		* Petterson und Findus - Hühnertanz und Katerzirkus[^Petterson]
-		* Sluzhba 911 (Russia)[^82475] - Remnants (Official Russian release of Emergency 2 with protection removed)
+* copy-X light
+	* Black Cats and Pointed Hats (USA) (En,De) [^84759]
+	* Robinson Crusoe (USA)[^107929]
+	* Webmaster (USA)[^81628]
+	* Kenny's Adventure[^Kenny]
+	* Max and the Magician (Europe) (En,Fr,De,Es)[^101786]
+* copy-X professional[^82475]
+	* Case for TKKG, A - The Mystery of the Mayan Treasure (USA) (En,De)[^108150]
+	* Emergency 4 - Global Fighters for Life (Germany) (Disc 1)[^48393]
+	* German Emergency 2 Deluxe[^DE_EM2DX]
+	* Petterson und Findus - Hühnertanz und Katerzirkus[^Petterson]
+	* Sluzhba 911 (Russia)[^82475] - Remnants (Official Russian release of Emergency 2 with protection removed)
 
 #### Unconfirmed: 
 
-	*copy-X (Unsure which variant):
-		* Alberts mysterioese Insel (Germany)[^116827]
-		* Ein Fall fuer TKKG - Das geheimnisvolle Testament (Germany)[^108587]
-		* Onkel Alberts geheimnisvolles Notizbuch (Germany)[^116828]
-		* Webmaster (Germany)[^116418]
-	*copy-X light:
-		* German Westerner 2[^pcgames_de_westerner2][^gamestar_de_westerner2]
-	*copy-X audio:
-		* Die Wilden Kerle – DWK4 - Der Angriff Der Silberlichten (Das Hörspiel Zum Kinofilm)[^D_8232013]
-		* Laava – Wherever You Are (I Feel Love)[^D_1436646]
-		* Manfred Mann* – 2006[^D_2182905]
-		* De-Phazz – Godsdog[^D_451419]
+* copy-X (Unsure which variant):
+	* Alberts mysterioese Insel (Germany)[^116827]
+	* Ein Fall fuer TKKG - Das geheimnisvolle Testament (Germany)[^108587]
+	* Onkel Alberts geheimnisvolles Notizbuch (Germany)[^116828]
+	* Webmaster (Germany)[^116418]
+* copy-X light:
+	* German Westerner 2[^pcgames_de_westerner2][^gamestar_de_westerner2]
+* copy-X audio:
+	* Die Wilden Kerle – DWK4 - Der Angriff Der Silberlichten (Das Hörspiel Zum Kinofilm)[^D_8232013]
+	* Laava – Wherever You Are (I Feel Love)[^D_1436646]
+	* Manfred Mann* – 2006[^D_2182905]
+	* De-Phazz – Godsdog[^D_451419]
 
 [^116827]: [Alberts mysterioese Insel (Germany)](http://redump.org/disc/116827/)
 [^108587]: [Ein Fall fuer TKKG - Das geheimnisvolle Testament (Germany)](http://redump.org/disc/108587/)
