@@ -102,7 +102,7 @@
 
 ## Overall Description:
 
-Ring protection copy protection scheme from german company optimal media[^CopyX_Original_Website]. As seen in Names, four different types seem to have been in use[^CopyX_Original_Website]. Note that it has not yet been confirmed whether light and professional correspond to the currently established distinct behaviors, but it seems to be the most likely conclusion.
+Copy-X was a ring-based copy protection scheme from german company optimal media[^CopyX_Original_Website]. As seen in Names, four different types seem to have been in use[^CopyX_Original_Website]. Note that it has not yet been confirmed whether light and professional correspond to the currently established distinct behaviors, but it seems to be the most likely conclusion.
 Had to be mastered at a specific optimal media production plant[^CopyX_2009_Document].
 
 [^CopyX_2009_Document]: [Optimal media document from 2009, seemingly for prospective customers.](http://web.archive.org/web/20110126034444/http://www.optimal-online.de/fileadmin/user_upload/PDF/copy_protection_july_09.pdf)
