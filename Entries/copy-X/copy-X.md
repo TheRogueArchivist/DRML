@@ -70,10 +70,6 @@
 
 ***
 
-## DRML Entry Version: 
-
-***
-
 # DRM Information:
 
 ## Names: 
