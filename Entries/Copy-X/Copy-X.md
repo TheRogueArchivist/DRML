@@ -115,7 +115,7 @@ Had to be mastered at a specific optimal media production plant[^CopyX_2009_Docu
 
 * 2000-03-02: First known reference to copy-X.[^CopyX_First_Reference].
 
-* 2009: Some sort of overhaul[^CopyX_2009_Document] of copy-X occurs.
+* 2009-07: As of this date, some sort of overhaul[^CopyX_2009_Document] of copy-X occured.
 
 * 2011-01-26: Last known official reference to copy-X.[^CopyX_2009_Document] (Document is from 2009, but it was hosted on their website until at least 2011)
 
