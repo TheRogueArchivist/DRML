@@ -173,7 +173,7 @@ No samples currently known, and thus no information either.
 #### Confirmed:
 
 * copy-X light
-	* Black Cats and Pointed Hats (USA) (En,De) [^84759]
+	* Black Cats and Pointed Hats (USA) (En,De)[^84759]
 	* Robinson Crusoe (USA)[^107929]
 	* Webmaster (USA)[^81628]
 	* Kenny's Adventure[^Kenny]
