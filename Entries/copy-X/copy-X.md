@@ -21,7 +21,6 @@
 	* [Authors/Contributors](#authorscontributors)
 	* [Table of Contents](#table-of-contents) ([Alt.](#Table%20of%20Contents))
 	* [Categories](#categories)
-	* [DRML Entry Version](#drml-entry-version) ([Alt.](#DRML%20Entry%20Version))
 * [DRM Information](#drm-information) ([Alt.](#DRM%20Information))
 	* [Names](#names)
 	* [Developers](#developers)
