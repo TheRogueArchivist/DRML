@@ -2,7 +2,7 @@
 
 ## DRML Entry Name:
 
-**Copy-X**
+**copy-X**
 
 ***
 
