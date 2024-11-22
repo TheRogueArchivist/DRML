@@ -87,3 +87,4 @@ Any action you take upon the information you find on this document is strictly a
 * [Steam collection of games that have been protected with Denuvo Anti-Tamper.](https://store.steampowered.com/curator/26095454-Denuvo-Games/)
 * [List of games that have been protected with Denuvo Anti-Tamper.](https://www.game-debate.com/games/gamesWithDenuvo)
 * http://green.ribbon.to/~erog/GIGA/Acti.html (Japanese, focused on online activation DRM)
+* [Interactive list of games that use anti-cheats, including their compatibility with Linux.](https://areweanticheatyet.com/)
