@@ -212,6 +212,12 @@ N/A
 
 * [Timeline of kdg history. (Archived 2023-10-02)](https://web.archive.org/web/20231002191724/https://www.kdg.at/kdg-campus/)
 
+* ["Die Tricks der Raubkopierer" - Article about DRM that has a brief section about Alcatraz. (Unable to archive effectively due to the cookie consent form) [German]](https://www.derstandard.at/story/858006/die-tricks-der-raubkopierer)
+
+* ["Software and CD Protection V2 New, Better, Cracked" Slideshow about DRM that includes a section about Alcatraz. (Archived 2024-12-01) (Note: The archived page may not display the slideshow properly. An archived link to the direct download is included below.)](https://web.archive.org/web/20241202143028/https://slideplayer.com/slide/3863342/)
+
+* [Direct download to "Software and CD Protection V2 New, Better, Cracked" (Archived 2024-12-01)](https://web.archive.org/web/20241202143903/http://player.slideplayer.com/download/13/3863342/XkjMAFljYUC-aetWSA6IPA/1733153803/3863342.ppt)
+
 * [Czech list of copy protections that includes a brief description of Alcatraz. (Archived 2023-10-02)](https://web.archive.org/web/20231002194458/https://www.fi.muni.cz/usr/jkucera/pv109/2003/xnovosad.htm)
 
 * [Indiastudychannel forum post that briefly mentions "Alkatraz". (Archived 2023-10-02)](https://web.archive.org/web/20231002194853/https://www.indiastudychannel.com/experts/4307-Copy-protected-cd)
